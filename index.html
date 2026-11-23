@@ -7,7 +7,7 @@
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
     body {
-      background: radial-gradient(circle at top, #172033 0%, #090d16 65%);
+      background-color: #090d16;
       color: #f8fafc;
       min-height: 100vh;
       padding: 26px 16px 48px;
@@ -20,8 +20,15 @@
       width: 100%;
       height: 100%;
       object-fit: cover;
-      opacity: 0.14;
+      opacity: 0.16;
       z-index: 0;
+      pointer-events: none;
+    }
+    .bg-overlay {
+      position: fixed;
+      inset: 0;
+      background: radial-gradient(circle at top, rgba(23, 32, 51, 0.72) 0%, rgba(9, 13, 22, 0.92) 70%);
+      z-index: 1;
       pointer-events: none;
     }
     .wrap {
@@ -107,13 +114,13 @@
       justify-content: space-between;
     }
     .img-box {
-      background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+      background: #ffffff;
       border-radius: 10px;
-      height: 100px;
+      height: 105px;
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 10px;
+      padding: 6px;
       margin-bottom: 8px;
       overflow: hidden;
     }
@@ -194,7 +201,8 @@
   </style>
 </head>
 <body>
-  <img src="fundo.png" alt="" class="bg-tex" onerror="if(this.src.endsWith('.png')){this.src='fundo.jpg'}else{this.style.display='none'}">
+  <img src="Fundo.jpg" alt="" class="bg-tex" onerror="if(this.src.endsWith('Fundo.jpg')){this.src='fundo.jpg'}else{this.style.display='none'}">
+  <div class="bg-overlay"></div>
 
   <div class="wrap">
     <img src="logo.jpg" alt="Promoções que Valem" class="logo" onerror="if(this.src.endsWith('.jpg')){this.src='logo.png'}">

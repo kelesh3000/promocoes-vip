@@ -3,57 +3,33 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Promoções que Valem | Grupo VIP de Ofertas</title>
+  <title>Promoções que Valem | Grupo de Ofertas no WhatsApp</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
     body {
       background: radial-gradient(circle at top, #172033 0%, #090d16 65%);
       color: #f8fafc;
       min-height: 100vh;
-      padding: 28px 16px 48px;
+      padding: 26px 16px 48px;
       position: relative;
       overflow-x: hidden;
     }
-    .bg-tex {
-      position: fixed;
-      inset: 0;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      opacity: 0.12;
-      z-index: 0;
-      pointer-events: none;
-    }
-    .wrap {
-      max-width: 430px;
-      margin: 0 auto;
-      position: relative;
-      z-index: 2;
-      text-align: center;
-    }
+    .wrap { max-width: 430px; margin: 0 auto; text-align: center; }
     .logo {
       width: 112px;
       height: 112px;
       border-radius: 50%;
       object-fit: cover;
-      margin: 0 auto 14px;
+      margin: 0 auto 12px;
       display: block;
       box-shadow: 0 10px 30px rgba(239, 68, 68, 0.4);
       border: 3px solid rgba(255, 255, 255, 0.14);
     }
-    .slogan {
-      display: inline-block;
-      font-size: 12.5px;
-      font-weight: 700;
-      color: #fbbf24;
-      background: rgba(251, 191, 36, 0.12);
-      border: 1px solid rgba(251, 191, 36, 0.28);
-      padding: 5px 14px;
-      border-radius: 99px;
-      margin-bottom: 14px;
-    }
-    h1 { font-size: 27px; line-height: 1.2; font-weight: 800; margin-bottom: 10px; letter-spacing: -0.5px; }
-    .sub { color: #cbd5e1; font-size: 15px; line-height: 1.5; margin-bottom: 20px; }
+    .brand-title { font-size: 26px; font-weight: 900; color: #f97316; letter-spacing: -0.5px; margin-bottom: 4px; }
+    .brand-sub { font-size: 15px; font-weight: 700; color: #f8fafc; margin-bottom: 14px; }
+    .hero-desc { color: #cbd5e1; font-size: 15px; line-height: 1.5; margin-bottom: 20px; }
+    .hl-blue { color: #38bdf8; font-weight: 700; }
+    .hl-gold { color: #fbbf24; font-weight: 700; }
     .btn-zap {
       display: flex;
       align-items: center;
@@ -92,45 +68,96 @@
       line-height: 1.45;
       text-align: left;
     }
-    .sec-title { font-size: 18px; font-weight: 800; margin: 28px 0 6px; }
-    .sec-sub { font-size: 13px; color: #94a3b8; margin-bottom: 16px; }
+    .sec-title { font-size: 20px; font-weight: 800; margin: 28px 0 6px; }
+    .sec-title span { color: #38bdf8; }
+    .sec-sub { font-size: 13.5px; color: #94a3b8; margin-bottom: 16px; line-height: 1.4; }
     .grid-ofertas {
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 10px;
       text-align: left;
-      margin-bottom: 22px;
+      margin-bottom: 24px;
     }
     .oferta-card {
-      background: rgba(15, 23, 42, 0.9);
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      border-radius: 12px;
-      padding: 12px;
+      background: #111827;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 14px;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
     }
-    .loja-tag { font-size: 11px; font-weight: 700; color: #94a3b8; margin-bottom: 4px; }
-    .prod-nome { font-size: 13px; font-weight: 700; color: #f1f5f9; margin-bottom: 8px; line-height: 1.3; }
+    .img-box {
+      background: #ffffff;
+      border-radius: 10px;
+      height: 105px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 8px;
+      margin-bottom: 8px;
+      overflow: hidden;
+    }
+    .img-box img { max-width: 100%; max-height: 100%; object-fit: contain; }
+    .meta-row { display: flex; justify-content: space-between; align-items: center; font-size: 11px; color: #94a3b8; margin-bottom: 4px; }
+    .loja-nome { font-weight: 700; color: #cbd5e1; }
+    .prod-nome {
+      font-size: 12.5px;
+      font-weight: 700;
+      color: #f8fafc;
+      line-height: 1.3;
+      margin-bottom: 8px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
     .preco-de { font-size: 11px; color: #64748b; text-decoration: line-through; }
-    .preco-por { font-size: 16px; font-weight: 800; color: #4ade80; }
+    .preco-row { display: flex; align-items: center; justify-content: space-between; margin: 2px 0 8px; }
+    .preco-por { font-size: 16px; font-weight: 900; color: #4ade80; }
     .off-badge {
-      display: inline-block;
       background: #ef4444;
       color: #fff;
       font-size: 10px;
       font-weight: 800;
       padding: 2px 6px;
+      border-radius: 99px;
+    }
+    .tag-extra {
+      background: rgba(255, 255, 255, 0.05);
       border-radius: 6px;
-      margin-left: 4px;
-      vertical-align: middle;
+      padding: 4px 6px;
+      font-size: 10.5px;
+      color: #fbbf24;
+      font-weight: 600;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
+    .cupons-title { font-size: 15px; font-weight: 800; margin-bottom: 12px; }
     .cupons-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 26px; }
-    .cupom-box {
-      background: rgba(30, 41, 59, 0.85);
-      border: 1px dashed rgba(251, 191, 36, 0.45);
-      border-radius: 10px;
+    .cupom-card {
+      border-radius: 12px;
       padding: 10px 6px;
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
     }
-    .cupom-loja { font-size: 11px; color: #cbd5e1; margin-bottom: 3px; }
-    .cupom-val { font-size: 13px; font-weight: 800; color: #fbbf24; }
+    .bg-ml { background: linear-gradient(180deg, #ffe600 0%, #eab308 100%); color: #0f172a; }
+    .bg-amz { background: linear-gradient(180deg, #232f3e 0%, #131921 100%); color: #ffffff; }
+    .bg-shp { background: linear-gradient(180deg, #ee4d2d 0%, #c2410c 100%); color: #ffffff; }
+    .cupom-brand { font-size: 11px; font-weight: 900; text-transform: uppercase; letter-spacing: 0.3px; }
+    .cupom-pill {
+      background: rgba(0, 0, 0, 0.22);
+      padding: 3px 8px;
+      border-radius: 6px;
+      font-size: 10px;
+      font-weight: 800;
+    }
+    .bg-ml .cupom-pill { background: #1e3a8a; color: #ffffff; }
+    .cupom-desc { font-size: 11px; font-weight: 800; }
     .passos {
       background: rgba(15, 23, 42, 0.75);
       border: 1px solid rgba(255, 255, 255, 0.08);
@@ -147,24 +174,25 @@
   </style>
 </head>
 <body>
-  <img src="fundo.png" alt="" class="bg-tex" onerror="if(this.src.endsWith('.png')){this.src='fundo.jpg'}else{this.style.display='none'}">
-
   <div class="wrap">
     <img src="logo.jpg" alt="Promoções que Valem" class="logo" onerror="if(this.src.endsWith('.jpg')){this.src='logo.png'}">
 
-    <div class="slogan">A gente não vende, a gente garimpa 🔍</div>
-    <h1>Pare de pagar caro nas suas compras!</h1>
-    <p class="sub">Encontramos quedas de preço reais, cupons e achadinhos todos os dias e mandamos direto no seu WhatsApp.</p>
+    <div class="brand-title">Promoções que Valem</div>
+    <div class="brand-sub">Grupo de Ofertas e Promoções no WhatsApp</div>
+
+    <p class="hero-desc">
+      A gente não vende, a gente garimpa! Aproveite as <span class="hl-blue">Melhores Ofertas</span> e <span class="hl-gold">Cupons</span> direto no seu celular.
+    </p>
 
     <a href="https://whatsapp.com" class="btn-zap">
       <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
         <path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.299.045-.677.063-1.092-.069-.252-.08-.575-.187-.988-.365-1.739-.751-2.874-2.502-2.961-2.617-.087-.116-.708-.94-.708-1.793s.448-1.273.607-1.446c.159-.173.346-.217.462-.217l.332.006c.106.005.249-.04.39.298.144.347.491 1.2.534 1.287.043.087.072.188.014.304-.058.116-.087.188-.173.289l-.26.304c-.087.086-.177.18-.076.354.101.174.449.741.964 1.201.662.591 1.221.774 1.394.86s.274.072.376-.043c.101-.116.433-.506.549-.68.116-.173.231-.145.39-.087s1.011.477 1.184.564.289.13.332.202c.045.072.045.419-.1.824z"/>
       </svg>
-      QUERO ENTRAR NO GRUPO VIP
+      Quero Ofertas no WhatsApp
     </a>
 
     <div class="garantias">
-      <span>✓ 100% Grátis</span>
+      <span>✓ Grátis</span>
       <span>✓ Sem cadastro</span>
       <span>✓ Saia quando quiser</span>
     </div>
@@ -173,48 +201,79 @@
       🔇 <strong>Grupo Silencioso:</strong> Sem conversas ou mensagens desnecessárias. Apenas administradores enviam links oficiais com desconto verificado.
     </div>
 
-    <div class="sec-title">Olha o que chegou no grupo 👇</div>
-    <p class="sec-sub">Exemplos reais de ofertas e cupons enviados diariamente:</p>
+    <div class="sec-title">Olha o que chegou <span>no grupo</span> 👇</div>
+    <p class="sec-sub">Ofertas e cupons reais enviados nas últimas horas. É isso que você recebe no celular:</p>
 
-    <div class="grid-ofertas">
+    <div class="grid-ofertas" id="vitrine-ofertas">
       <div class="oferta-card">
-        <div class="loja-tag">🟡 Mercado Livre</div>
-        <div class="prod-nome">Monitor Gamer AOC 24" 120Hz IPS</div>
-        <div class="preco-de">De R$ 799,00</div>
-        <div class="preco-por">R$ 530 <span class="off-badge">33% OFF</span></div>
+        <div>
+          <div class="img-box"><img src="https://http2.mlstatic.com/D_NQ_NP_2X_636386-MLA74805009561_022024-F.webp" alt="Monitor AOC"></div>
+          <div class="meta-row"><span class="loja-nome">Mercado Livre</span><span>agora</span></div>
+          <div class="prod-nome">Monitor Gamer AOC 24" 120Hz IPS 1ms</div>
+        </div>
+        <div>
+          <div class="preco-de">R$ 799,00</div>
+          <div class="preco-row"><span class="preco-por">R$ 530</span><span class="off-badge">33% OFF</span></div>
+          <div class="tag-extra">🎟️ Cupom no anúncio</div>
+        </div>
       </div>
+
       <div class="oferta-card">
-        <div class="loja-tag">🟠 Shopee Oficial</div>
-        <div class="prod-nome">Fritadeira Air Fryer 4L Antiaderente</div>
-        <div class="preco-de">De R$ 349,00</div>
-        <div class="preco-por">R$ 189 <span class="off-badge">45% OFF</span></div>
+        <div>
+          <div class="img-box"><img src="https://m.media-amazon.com/images/I/61C82+zB9cL._AC_SL1000_.jpg" alt="Air Fryer"></div>
+          <div class="meta-row"><span class="loja-nome">Amazon</span><span>há 3 min</span></div>
+          <div class="prod-nome">Fritadeira Air Fryer 4L Antiaderente</div>
+        </div>
+        <div>
+          <div class="preco-de">R$ 349,00</div>
+          <div class="preco-row"><span class="preco-por">R$ 189</span><span class="off-badge">45% OFF</span></div>
+          <div class="tag-extra">📦 Frete Grátis Prime</div>
+        </div>
       </div>
+
       <div class="oferta-card">
-        <div class="loja-tag">🔵 Amazon Brasil</div>
-        <div class="prod-nome">Kit Ferramentas Completo 129 Peças</div>
-        <div class="preco-de">De R$ 199,00</div>
-        <div class="preco-por">R$ 109 <span class="off-badge">45% OFF</span></div>
+        <div>
+          <div class="img-box"><img src="https://m.media-amazon.com/images/I/81x1k3F3+GL._AC_SL1500_.jpg" alt="Maleta Ferramentas"></div>
+          <div class="meta-row"><span class="loja-nome">Amazon</span><span>há 6 min</span></div>
+          <div class="prod-nome">Kit Ferramentas Completo 129 Peças</div>
+        </div>
+        <div>
+          <div class="preco-de">R$ 199,00</div>
+          <div class="preco-row"><span class="preco-por">R$ 109</span><span class="off-badge">45% OFF</span></div>
+          <div class="tag-extra">🎟️ Oferta Relâmpago</div>
+        </div>
       </div>
+
       <div class="oferta-card">
-        <div class="loja-tag">🟡 Mercado Livre</div>
-        <div class="prod-nome">Tênis Corrida Masculino/Feminino</div>
-        <div class="preco-de">De R$ 279,00</div>
-        <div class="preco-por">R$ 139 <span class="off-badge">50% OFF</span></div>
+        <div>
+          <div class="img-box"><img src="https://http2.mlstatic.com/D_NQ_NP_2X_950853-MLB73995738025_012024-F.webp" alt="Stanley"></div>
+          <div class="meta-row"><span class="loja-nome">Mercado Livre</span><span>há 9 min</span></div>
+          <div class="prod-nome">Copo Térmico Stanley Original 473ml</div>
+        </div>
+        <div>
+          <div class="preco-de">R$ 165,00</div>
+          <div class="preco-row"><span class="preco-por">R$ 89</span><span class="off-badge">46% OFF</span></div>
+          <div class="tag-extra">⚡ Envio Full Hoje</div>
+        </div>
       </div>
     </div>
 
+    <div class="cupons-title">🎟️ E cupons de desconto também</div>
     <div class="cupons-row">
-      <div class="cupom-box">
-        <div class="cupom-loja">🟡 Mercado Livre</div>
-        <div class="cupom-val">ATÉ 20% OFF</div>
+      <div class="cupom-card bg-ml">
+        <div class="cupom-brand">Mercado Livre</div>
+        <div class="cupom-pill">CUPOM</div>
+        <div class="cupom-desc">ATÉ 20% OFF</div>
       </div>
-      <div class="cupom-box">
-        <div class="cupom-loja">🟠 Shopee</div>
-        <div class="cupom-val">FRETE + R$30</div>
+      <div class="cupom-card bg-amz">
+        <div class="cupom-brand">Amazon</div>
+        <div class="cupom-pill">CUPOM</div>
+        <div class="cupom-desc">OFERTAS APP</div>
       </div>
-      <div class="cupom-box">
-        <div class="cupom-loja">🔵 Amazon</div>
-        <div class="cupom-val">CUPONS APP</div>
+      <div class="cupom-card bg-shp">
+        <div class="cupom-brand">Shopee</div>
+        <div class="cupom-pill">CUPOM</div>
+        <div class="cupom-desc">FRETE + R$30</div>
       </div>
     </div>
 
@@ -229,7 +288,30 @@
       ENTRAR AGORA NO WHATSAPP
     </a>
 
-    <div class="rodape">Promoções que Valem • Monitorando Mercado Livre, Shopee e Amazon</div>
+    <div class="rodape">Promoções que Valem • Monitorando Mercado Livre, Amazon e Shopee</div>
   </div>
+
+  <script>
+    fetch('ofertas.json?t=' + Date.now())
+      .then(r => r.ok ? r.json() : null)
+      .then(lista => {
+        if (!Array.isArray(lista) || lista.length < 4) return;
+        const grid = document.getElementById('vitrine-ofertas');
+        grid.innerHTML = lista.slice(0, 4).map(item => `
+          <div class="oferta-card">
+            <div>
+              <div class="img-box"><img src="${item.imagem}" alt=""></div>
+              <div class="meta-row"><span class="loja-nome">${item.loja}</span><span>${item.tempo || 'agora'}</span></div>
+              <div class="prod-nome">${item.titulo}</div>
+            </div>
+            <div>
+              ${item.preco_de ? `<div class="preco-de">${item.preco_de}</div>` : ''}
+              <div class="preco-row"><span class="preco-por">${item.preco_por}</span>${item.off ? `<span class="off-badge">${item.off}</span>` : ''}</div>
+              <div class="tag-extra">${item.tag || '🔥 Oferta Verificada'}</div>
+            </div>
+          </div>
+        `).join('');
+      }).catch(() => {});
+  </script>
 </body>
 </html>

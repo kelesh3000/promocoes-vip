@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795488291.jpg",
+    "loja": "Amazon",
+    "tempo": "recente",
+    "titulo": "Oferta Amazon",
+    "preco_de": "",
+    "preco_por": "R$ 2.699,00",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795488117.jpg",
     "loja": "Amazon",
     "tempo": "recente",
@@ -26,16 +36,6 @@
     "titulo": "Ar Condicionado Split Gree G-side 12.000 Btus Frio 220v",
     "preco_de": "",
     "preco_por": "R$ 2.059,00",
-    "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795485091.jpg",
-    "loja": "Amazon",
-    "tempo": "recente",
-    "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 1 litro",
-    "preco_de": "",
-    "preco_por": "R$ 89,90 à vista",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
   }

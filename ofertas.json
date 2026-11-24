@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795493419.jpg",
+    "loja": "Amazon",
+    "tempo": "recente",
+    "titulo": "A cabeça do santo",
+    "preco_de": "",
+    "preco_por": "R$ 33,92",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795493223.jpg",
     "loja": "Amazon",
     "tempo": "recente",
@@ -26,16 +36,6 @@
     "titulo": "Sérum de limpeza 100g + Hidratante Antimanchas Garnier 85g",
     "preco_de": "",
     "preco_por": "R$ 41,99",
-    "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795492438.jpg",
-    "loja": "Amazon",
-    "tempo": "recente",
-    "titulo": "Stanley Copo Quencher Cream 591ml",
-    "preco_de": "",
-    "preco_por": "R$ 108,37",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
   }

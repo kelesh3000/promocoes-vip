@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795615671.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Ar-condicionado Prime Air Split Inverter 12000btus 12qg",
+    "preco_de": "R$ 3.575,00",
+    "preco_por": "R$ 1.939,90",
+    "off": "46% OFF",
+    "tag": "🎟 Cupom: ELETROTECHMELI 🎟️"
+  },
+  {
     "imagem": "v_1795615607.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 140,23",
     "off": "45% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795615390.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Kit 4 Camisas Dry-fit Sandrini Masculina Academia Treino Uv",
-    "preco_de": "R$ 79,99",
-    "preco_por": "R$ 56,99 à vista",
-    "off": "29% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

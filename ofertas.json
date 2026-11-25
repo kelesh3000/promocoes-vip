@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795647918.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Nescau Bebida Láctea 180ml caixa com 27 unidades",
+    "preco_de": "",
+    "preco_por": "R$ 34,90",
+    "off": "VIP",
+    "tag": "🎟 Selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795647871.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 139,99",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795647329.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Principia Kit Creme Hidratante Ch-01 + Água Micelar Am-01 Todo Tipo De Pele",
-    "preco_de": "R$ 83,00",
-    "preco_por": "R$ 68,06",
-    "off": "18% OFF",
-    "tag": "🎟 Cupom: BELEZABLACK 🎟️"
   }
 ]

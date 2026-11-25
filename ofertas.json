@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795645887.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Boné Nike Club Swoosh Unissex Cor Branco Preto Tamanho M/g",
+    "preco_de": "R$ 179,00",
+    "preco_por": "R$ 79,99",
+    "off": "55% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795645726.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 75,90",
     "off": "31% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795645292.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Monitor LG UltraGear, Tela IPS FHD de 27”, 300Hz, 1ms (GtG), sRGB, NVIDIA G",
-    "preco_de": "R$ 1.599,00",
-    "preco_por": "R$ 761,13 à vista",
-    "off": "52% OFF",
-    "tag": "🎟 Cupom: MONITOR200 + 25BF26PR"
   }
 ]

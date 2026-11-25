@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795580172.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "DR. Peanut Pasta de Amendoim Bueníssimo 600G - Com Whey Protein",
+    "preco_de": "R$ 47,99",
+    "preco_por": "R$ 37,11",
+    "off": "23% OFF",
+    "tag": "🎟 Cupom: PROTEIN"
+  },
+  {
     "imagem": "v_1795580017.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "",
     "preco_por": "R$ 24,99",
     "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795579457.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Sanduicheira Elétrica Cadence Click - 127V",
-    "preco_de": "R$ 159,90",
-    "preco_por": "R$ 75,00",
-    "off": "53% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795627117.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Armário de Cozinha Completa Aéreo 7 Portas e 2 Gavetas Planejada Suspenso B",
+    "preco_de": "R$ 799,00",
+    "preco_por": "R$ 372,24",
+    "off": "53% OFF",
+    "tag": "🎟 Cupom: MELIUZDECOR"
+  },
+  {
     "imagem": "v_1795627066.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.419,10",
     "off": "53% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795626817.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Panela De Arroz Elétrica Gran Rizzo 700w Elgin 10 Xíc Preto",
-    "preco_de": "R$ 244,00",
-    "preco_por": "R$ 219,90",
-    "off": "10% OFF",
-    "tag": "🎟 Use o cupom: MELIAGORA"
   }
 ]

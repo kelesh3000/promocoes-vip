@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795615231.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Kit 4 Cadeiras Tropicalia em Fibra Sintética – Modernas, Confortáveis pa",
+    "preco_de": "",
+    "preco_por": "R$ 735,00",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795614961.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.852,40",
     "off": "47% OFF",
     "tag": "🎟 Cupom: ELETROTECHMELI 🎟️"
-  },
-  {
-    "imagem": "v_1795614774.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis Aramis Deep Ii Branco",
-    "preco_de": "R$ 229,00",
-    "preco_por": "R$ 219,90",
-    "off": "VIP",
-    "tag": "🎟 Cupom: MELIAGORA 🎟️"
   }
 ]

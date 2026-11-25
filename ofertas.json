@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795622824.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Biscoito Pedigree Biscrok Para Cães Adultos Raças Grandes, 1 kg",
+    "preco_de": "R$ 38,90",
+    "preco_por": "R$ 17,99 à vista",
+    "off": "54% OFF",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795622747.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 125,90",
     "preco_por": "R$ 111,40",
     "off": "12% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795622567.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Smart TV DLED 43 FHD Multi Roku 3HDMI 2USB Wi-Fi - TL082E",
-    "preco_de": "R$ 1.877,18",
-    "preco_por": "R$ 1.478,06",
-    "off": "21% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

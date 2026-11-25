@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795619684.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 10 Cuecas Masculinas Boxer Microfibra Polo Wear Sortido",
+    "preco_de": "R$ 199,00",
+    "preco_por": "R$ 90,15",
+    "off": "55% OFF",
+    "tag": "🎟 Cupom: 7% OFF 🎟️"
+  },
+  {
     "imagem": "v_1795619681.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 1.499,99",
     "preco_por": "R$ 1.119,99",
     "off": "25% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795619562.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg",
-    "preco_de": "R$ 179,00",
-    "preco_por": "R$ 78,90",
-    "off": "56% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

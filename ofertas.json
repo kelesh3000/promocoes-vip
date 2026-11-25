@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795632251.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Forno Elétrico Philco 50L Branco Dupla Resistência PFE52B",
+    "preco_de": "R$ 479,00",
+    "preco_por": "R$ 429,00",
+    "off": "10% OFF",
+    "tag": "🎟 Cupom: OFICIAIS2511"
+  },
+  {
     "imagem": "v_1795632076.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 86,17",
     "off": "31% OFF",
     "tag": "🎟 Cupom: MELI782YHDL"
-  },
-  {
-    "imagem": "v_1795631885.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Conjunto 4 Cadeiras de Jantar Mila Tecido Boucle Est.Champ",
-    "preco_de": "R$ 1.197,18",
-    "preco_por": "R$ 770,00",
-    "off": "36% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

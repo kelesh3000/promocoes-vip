@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795579457.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Sanduicheira Elétrica Cadence Click - 127V",
+    "preco_de": "R$ 159,90",
+    "preco_por": "R$ 75,00",
+    "off": "53% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795579103.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 49,90",
     "preco_por": "R$ 23,90",
     "off": "52% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795578164.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Dr Good Melatonina Fini Melatonina em Gomas",
-    "preco_de": "R$ 43,00",
-    "preco_por": "R$ 39,70",
-    "off": "8% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

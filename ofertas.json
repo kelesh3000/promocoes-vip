@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795622342.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Mel 300 g",
+    "preco_de": "",
+    "preco_por": "R$ 28,90",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795622130.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 239,90",
     "off": "27% OFF",
     "tag": "🎟 Use o cupom: MELIAGORA"
-  },
-  {
-    "imagem": "v_1795621951.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Penteadeira de quarto com 6  gavetas mesa de maquiagem multifuncional LE",
-    "preco_de": "R$ 1.315,76",
-    "preco_por": "R$ 499,99",
-    "off": "62% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

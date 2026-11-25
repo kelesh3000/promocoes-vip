@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795636662.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Relógio Tommy Hilfiger Masculino Borracha Preto 1792201",
+    "preco_de": "R$ 990,00",
+    "preco_por": "R$ 466,00",
+    "off": "53% OFF",
+    "tag": "🎟 Cupom: MELIAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795636590.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 87,60",
     "off": "54% OFF",
     "tag": "🎟 Cupom: MELI782YHDL 🎟️"
-  },
-  {
-    "imagem": "v_1795636154.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis Nike Gamma Force Feminino",
-    "preco_de": "R$ 749,00",
-    "preco_por": "R$ 365,49",
-    "off": "51% OFF",
-    "tag": "🎟 Cupom: MELIAGORA"
   }
 ]

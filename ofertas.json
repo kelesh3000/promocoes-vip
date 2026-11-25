@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795618887.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W 300L/h com Aplica",
+    "preco_de": "R$ 499,00",
+    "preco_por": "R$ 269,10",
+    "off": "46% OFF",
+    "tag": "🎟 Cupom: OBRASEGURA 🎟️"
+  },
+  {
     "imagem": "v_1795618850.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 528,22",
     "off": "30% OFF",
     "tag": "🎟 Cupom: MELIAGORA 🎟️"
-  },
-  {
-    "imagem": "v_1795618607.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Cafeteira Elétrica Electrolux 30 Xícaras Experience Programável com Timer C",
-    "preco_de": "R$ 199,90",
-    "preco_por": "R$ 179,90",
-    "off": "10% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

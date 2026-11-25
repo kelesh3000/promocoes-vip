@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795618227.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "TRESemmé Brilho Lamelar Óleo Finalizador 60 ML",
+    "preco_de": "R$ 29,99",
+    "preco_por": "R$ 17,29 à vista",
+    "off": "42% OFF",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795618174.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 333,87",
     "off": "41% OFF",
     "tag": "🎟 Use o cupom: MELIAGORA"
-  },
-  {
-    "imagem": "v_1795618059.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Carregador Power Bank sem fio Samsung | Potência de 45 W | 20.000 mAh | Cor",
-    "preco_de": "R$ 329,00",
-    "preco_por": "R$ 229,00",
-    "off": "30% OFF",
-    "tag": "🎟 Cupom: SUPERDESCONTO ou LEVE"
   }
 ]

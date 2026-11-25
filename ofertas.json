@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795648331.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "JBL Tune 530BT Fone Bluetooth Over-Ear Sem Fio Branco",
+    "preco_de": "R$ 199,00",
+    "preco_por": "R$ 160,55",
+    "off": "19% OFF",
+    "tag": "🎟 Cupom: 22338"
+  },
+  {
     "imagem": "v_1795648020.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 289,04",
     "preco_por": "R$ 239,90",
     "off": "17% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795647672.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Jogo Premium de 25 potes herméticos ACRÍLICOS  4 tamanhos",
-    "preco_de": "R$ 299,90",
-    "preco_por": "R$ 203,93",
-    "off": "32% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

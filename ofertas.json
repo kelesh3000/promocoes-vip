@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795573789.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Concha y Toro Reservado Carmenere 750ml",
+    "preco_de": "R$ 36,90",
+    "preco_por": "R$ 19,90",
+    "off": "46% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795573584.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 64,99 à vista",
     "off": "18% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795570651.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Eps-6905 Epsilon Inteligente Bluetooth Com App, Lcd, Vidro Temperado, 180kg",
-    "preco_de": "R$ 59,00",
-    "preco_por": "R$ 24,99",
-    "off": "58% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

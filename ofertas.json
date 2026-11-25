@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795617039.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Feminino Wave Dynasty 5 Mizuno",
+    "preco_de": "R$ 599,00",
+    "preco_por": "R$ 306,84",
+    "off": "49% OFF",
+    "tag": "🎟 Cupom: MELIAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795616864.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 78,00 à vista",
     "off": "45% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795616671.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Espelho Redondo Adnet  Rústico Vidro, tamanho 20cm, com Molde em Corda, ",
-    "preco_de": "",
-    "preco_por": "R$ 71,99",
-    "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

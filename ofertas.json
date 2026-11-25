@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795648860.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Oferta Imperdível Shopee",
+    "preco_de": "R$ 29,15",
+    "preco_por": "R$ 13,99",
+    "off": "52% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795648829.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 181,90",
     "off": "54% OFF",
     "tag": "🎟 Cupom: CUPOMAMAZON"
-  },
-  {
-    "imagem": "v_1795648363.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Kit 5 Caixas Organizadoras com Tampa Cesto Grande de Plástico 2 Litros  4,5",
-    "preco_de": "R$ 106,53",
-    "preco_por": "R$ 79,90",
-    "off": "25% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

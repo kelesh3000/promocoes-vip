@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795630983.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Máquina De Lavar 11kg Branca Slim Ciclo Pets Midea",
+    "preco_de": "R$ 2.999,00",
+    "preco_por": "R$ 2.299,00",
+    "off": "23% OFF",
+    "tag": "🎟 Cupom: MELIAGORA"
+  },
+  {
     "imagem": "v_1795630917.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.299,00",
     "off": "35% OFF",
     "tag": "🎟 Cupom: MELIAGORA 🎟️"
-  },
-  {
-    "imagem": "v_1795630142.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Max Titanium Top Whey Bar 12 Unidades De 41G (Doce De Leite)",
-    "preco_de": "R$ 64,74",
-    "preco_por": "R$ 55,33 à vista",
-    "off": "15% OFF",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

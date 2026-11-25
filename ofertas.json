@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795623509.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Lavadora De Alta Pressão Aqua Power Mondial Preto 1400w Lap-04-gy",
+    "preco_de": "R$ 479,00",
+    "preco_por": "R$ 270,75",
+    "off": "43% OFF",
+    "tag": "🎟 Cupom: OBRASEGURA"
+  },
+  {
     "imagem": "v_1795623505.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 45,55",
     "off": "100% OFF",
     "tag": "🎟 selecione \"Programe e Poupe\""
-  },
-  {
-    "imagem": "v_1795622973.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "(2) Ops! Ocorreu um erro",
-    "preco_de": "",
-    "preco_por": "Consulte no link",
-    "off": "VIP",
-    "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795640190.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ iPhone  18  Pro Max Apple Prateado, 2TB",
+    "preco_de": "R$ 23.156,84",
+    "preco_por": "R$ 21.999,00",
+    "off": "5% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795640028.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 69,99 à vista",
     "off": "26% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795639712.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Kit 50  Potes para sobremesa doce/bolo com tampa Lacre",
-    "preco_de": "R$ 61,57",
-    "preco_por": "R$ 57,88",
-    "off": "6% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

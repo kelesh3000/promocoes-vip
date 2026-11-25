@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795621109.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Oikos - Kit 14 Potes de Vidro Herméticos Redondos com Tampa de Bambu",
+    "preco_de": "R$ 159,90",
+    "preco_por": "R$ 96,72",
+    "off": "40% OFF",
+    "tag": "🎟 Cupom: Exclusivo Prime: Salv"
+  },
+  {
     "imagem": "v_1795620992.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 53,52",
     "off": "20% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795620743.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Bronzer E Contorno Bastão Too Faced Chocolate Soleil",
-    "preco_de": "R$ 259,00",
-    "preco_por": "R$ 207,00",
-    "off": "20% OFF",
-    "tag": "🎟 Cupom: MELIAGORA + cupom na "
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795627928.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Aparelho De Jantar 30 Peças Unni Oxford Orquidea",
+    "preco_de": "R$ 729,00",
+    "preco_por": "R$ 511,88",
+    "off": "30% OFF",
+    "tag": "🎟 Use o cupom: MELIAGORA"
+  },
+  {
     "imagem": "v_1795627899.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 129,99",
     "off": "25% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795627618.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Gillette Venus Pele Sensível Carga para Aparelho de Depilar, 16 Unidades",
-    "preco_de": "",
-    "preco_por": "R$ 60,00 à vista",
-    "off": "VIP",
-    "tag": "🎟 Cupom: 25BF26PRIME"
   }
 ]

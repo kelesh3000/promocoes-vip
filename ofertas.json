@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795618112.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Air fryer Fritadeira Elétrica Electrolux EAF40 1400W sem oleo Rita Lobo 5,6",
+    "preco_de": "R$ 569,00",
+    "preco_por": "R$ 333,87",
+    "off": "41% OFF",
+    "tag": "🎟 Use o cupom: MELIAGORA"
+  },
+  {
     "imagem": "v_1795618059.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.819,99",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795617753.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Calça Legging Fitness Zero Transparência Cintura Alta Koenig",
-    "preco_de": "R$ 59,00",
-    "preco_por": "R$ 29,00",
-    "off": "51% OFF",
-    "tag": "🎟 Cupom: SUPERDESCONTO ou LEVE"
   }
 ]

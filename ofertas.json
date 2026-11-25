@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795627476.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Heinz Kit Temperos para Hambúrguer e Batata 150g",
+    "preco_de": "",
+    "preco_por": "R$ 140,38",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795627425.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 265,00",
     "off": "53% OFF",
     "tag": "🎟 Cupom: 25BF26PRIME"
-  },
-  {
-    "imagem": "v_1795627231.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Cuba Oval 41x30cm Pia De Apoio Sobrepor De Cerâmica Banheiro Com Borda F",
-    "preco_de": "R$ 397,01",
-    "preco_por": "R$ 266,00",
-    "off": "33% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

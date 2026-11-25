@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795618850.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Aparelho De Jantar E Lanche 16 Peças Oxford Ryo Maresia",
+    "preco_de": "R$ 539,00",
+    "preco_por": "R$ 299,90",
+    "off": "44% OFF",
+    "tag": "🎟 Use o cupom: MELIAGORA"
+  },
+  {
     "imagem": "v_1795618737.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 199,90",
     "preco_por": "R$ 179,90",
     "off": "10% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795618596.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Potes De Vidro P/ Mantimentos C/ Tampa Bambu Oikos - 7  Pçs",
-    "preco_de": "R$ 258,98",
-    "preco_por": "R$ 126,90",
-    "off": "51% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

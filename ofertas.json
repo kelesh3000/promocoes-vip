@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795627338.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Batedeira Planetária Britânia 4L 3 Batedores, 12 Velocidades + Turbo BBP70A",
+    "preco_de": "R$ 569,00",
+    "preco_por": "R$ 265,00",
+    "off": "53% OFF",
+    "tag": "🎟 Cupom: 25BF26PRIME"
+  },
+  {
     "imagem": "v_1795627231.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 229,90",
     "off": "39% OFF",
     "tag": "🎟 Use o cupom: MELIAGORA"
-  },
-  {
-    "imagem": "v_1795627020.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Eudora H Flow Colônia 100ml + Antitranspirante Aerosol 125ml Masculino",
-    "preco_de": "R$ 163,00",
-    "preco_por": "R$ 99,80",
-    "off": "39% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

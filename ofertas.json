@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795612576.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Liquidificador RI2244 Série 5000 Com Jarra Inquebrável Inox 1400W Capacidad",
+    "preco_de": "R$ 450,00",
+    "preco_por": "R$ 199,49",
+    "off": "56% OFF",
+    "tag": "🎟 Cupom: MELIAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795612534.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 21,22",
     "off": "58% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795580172.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "DR. Peanut Pasta de Amendoim Bueníssimo 600G - Com Whey Protein",
-    "preco_de": "R$ 47,99",
-    "preco_por": "R$ 37,11",
-    "off": "23% OFF",
-    "tag": "🎟 Cupom: PROTEIN"
   }
 ]

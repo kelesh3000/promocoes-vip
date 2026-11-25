@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795639372.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Jaqueta Masculina Jeans Sarja Slim Fit Coloridas Versátil",
+    "preco_de": "R$ 123,00",
+    "preco_por": "R$ 110,25",
+    "off": "10% OFF",
+    "tag": "🎟 Cupom: MELI782YHDL 🎟️"
+  },
+  {
     "imagem": "v_1795639353.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 199,99",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795639122.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Bombom GAROTO Sortido Caixa 220g",
-    "preco_de": "R$ 18,19",
-    "preco_por": "R$ 8,09 à vista",
-    "off": "56% OFF",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

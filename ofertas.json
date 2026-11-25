@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795635627.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 5 Camisetas Básica Hering Algodão Masculina Original",
+    "preco_de": "R$ 154,00",
+    "preco_por": "R$ 123,99",
+    "off": "19% OFF",
+    "tag": "🎟 Cupom: MELIAGORA"
+  },
+  {
     "imagem": "v_1795635429.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 17,00 à vista",
     "off": "41% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795635075.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Ar-condicionado Samsung Inverter Windfree Ai Pro 12.000 Btus Frio Ar60h12d1",
-    "preco_de": "R$ 2.599,00",
-    "preco_por": "R$ 2.399,00",
-    "off": "8% OFF",
-    "tag": "🎟 Cupom: LIVREHOJE 🎟️"
   }
 ]

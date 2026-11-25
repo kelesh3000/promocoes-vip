@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795623919.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Sofá Fixo 4 Lugares Verona 2,16m Linho Creme",
+    "preco_de": "R$ 2.766,90",
+    "preco_por": "R$ 2.686,90",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795623912.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 6.099,00",
     "preco_por": "R$ 3.149,00",
     "off": "48% OFF",
-    "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
-  },
-  {
-    "imagem": "v_1795623815.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Ar Condicionado Hi Wall Philco Eco 24000 BTUs Inverter Frio",
-    "preco_de": "R$ 5.959,00",
-    "preco_por": "R$ 3.399,00",
-    "off": "43% OFF",
     "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
   }
 ]

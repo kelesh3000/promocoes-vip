@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795612968.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Puma Rebound V6 Low Bdp Moda Casual Masculino",
+    "preco_de": "R$ 399,00",
+    "preco_por": "R$ 259,90",
+    "off": "35% OFF",
+    "tag": "🎟 Cupom: MELIAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795612874.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 149,89",
     "off": "35% OFF",
     "tag": "🎟 Cupom: TODOSITE2511"
-  },
-  {
-    "imagem": "v_1795612668.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Latex acrílica tinta coral anti mofo branco 18l coralar branco fosco",
-    "preco_de": "R$ 320,00",
-    "preco_por": "R$ 218,61",
-    "off": "32% OFF",
-    "tag": "🎟 Cupom: OBRASEGURA 🎟️"
   }
 ]

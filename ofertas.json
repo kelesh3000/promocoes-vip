@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795626722.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Micro-ondas Philco 20L Branco Pintura Limpa Fácil PMO24B 127v",
+    "preco_de": "R$ 612,00",
+    "preco_por": "R$ 348,90",
+    "off": "43% OFF",
+    "tag": "🎟 Cupom: 25BF26PRIME"
+  },
+  {
     "imagem": "v_1795626657.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 889,90",
     "off": "19% OFF",
     "tag": "🎟 Use o cupom: MELIAGORA"
-  },
-  {
-    "imagem": "v_1795626467.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Oferta Amazon",
-    "preco_de": "",
-    "preco_por": "R$ 64,65",
-    "off": "VIP",
-    "tag": "🎟 CUPOM AMAZON"
   }
 ]

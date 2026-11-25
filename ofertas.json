@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795623815.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Ar Condicionado Hi Wall Philco Eco 24000 BTUs Inverter Frio",
+    "preco_de": "R$ 5.959,00",
+    "preco_por": "R$ 3.399,00",
+    "off": "43% OFF",
+    "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
+  },
+  {
     "imagem": "v_1795623729.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 2.197,35",
     "preco_por": "R$ 1.919,59",
     "off": "13% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795623638.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Smart Tv 65\" 4k Philips Ambilight Titan os 20w ​Hdr10+",
-    "preco_de": "R$ 6.183,33",
-    "preco_por": "R$ 3.259,00",
-    "off": "47% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

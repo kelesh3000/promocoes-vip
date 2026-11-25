@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795636857.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Controle S/ Fio Dualsense Playstation 5 - Chroma Pearl",
+    "preco_de": "R$ 549,00",
+    "preco_por": "R$ 417,57",
+    "off": "24% OFF",
+    "tag": "🎟 Cupom: MELIAGORA"
+  },
+  {
     "imagem": "v_1795636831.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 466,00",
     "off": "53% OFF",
     "tag": "🎟 Cupom: MELIAGORA 🎟️"
-  },
-  {
-    "imagem": "v_1795636590.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Pack Alfajor Dr. Peanut com Whey Protein, Sabor Doce de Leite e Cobertura d",
-    "preco_de": "R$ 149,00",
-    "preco_por": "R$ 78,99",
-    "off": "47% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

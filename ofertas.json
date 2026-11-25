@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795613177.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tasty Whey 3w Gourmet Adaptogen 900g Chocolate Suíço",
+    "preco_de": "R$ 320,00",
+    "preco_por": "R$ 212,80",
+    "off": "34% OFF",
+    "tag": "🎟 Cupom: VIVERML 🎟️"
+  },
+  {
     "imagem": "v_1795613022.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 24,90",
     "preco_por": "R$ 12,20",
     "off": "51% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795612832.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Allegra Polipropileno Kit  com 2 Cadeiras Confortáveis Design Retro",
-    "preco_de": "",
-    "preco_por": "R$ 165,99",
-    "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

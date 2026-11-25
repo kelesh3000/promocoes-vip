@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795643364.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Ar-condicionado Split Samsung Inverter WindFree AI Pro 18.000 BTUs Frio AR6",
+    "preco_de": "R$ 3.893,68",
+    "preco_por": "R$ 3.059,00",
+    "off": "21% OFF",
+    "tag": "🎟 Cupom: 39000"
+  },
+  {
     "imagem": "v_1795643232.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 18,12 à vista",
     "off": "64% OFF",
     "tag": "🎟 selecione \"Programe e Poupe\""
-  },
-  {
-    "imagem": "v_1795642977.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Samsung Smart Tv 55 4k U8000h + Samsung Soundbar B450f",
-    "preco_de": "R$ 3.149,00",
-    "preco_por": "R$ 2.676,65",
-    "off": "15% OFF",
-    "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
   }
 ]

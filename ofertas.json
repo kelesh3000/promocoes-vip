@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795638705.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Faqueiro Tramontina Búzios em Aço Inox com Detalhe 24 Peças",
+    "preco_de": "R$ 78,09",
+    "preco_por": "R$ 54,85 à vista",
+    "off": "30% OFF",
+    "tag": "🎟 Cupom: MELIAGORA"
+  },
+  {
     "imagem": "v_1795638589.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 108,60",
     "off": "53% OFF",
     "tag": "🎟 Cupom: MELI782YHDL 🎟️"
-  },
-  {
-    "imagem": "v_1795638272.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Cofre 80cm Reforçado Para Armas Curtas Documentos Dinheiro  Escritório C",
-    "preco_de": "R$ 750,00",
-    "preco_por": "R$ 660,00",
-    "off": "12% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

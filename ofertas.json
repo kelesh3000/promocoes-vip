@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795573993.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Wella Invigo Nutri-Enrich Máscara Capilar Nutrição Profunda 500ml",
+    "preco_de": "R$ 278,00",
+    "preco_por": "R$ 146,31",
+    "off": "47% OFF",
+    "tag": "🎟 Cupom: 13100"
+  },
+  {
     "imagem": "v_1795573789.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 52,90",
     "preco_por": "R$ 35,92",
     "off": "32% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795571333.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Mini Processador Mallory New Oggi – 150W, 350ml, Corte, Trituração e Moagem",
-    "preco_de": "R$ 78,90",
-    "preco_por": "R$ 64,99 à vista",
-    "off": "18% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

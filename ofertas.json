@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795625937.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Geladeira Electrolux Frost Free 431l Autosense Branca (tf70) Cor Branco",
+    "preco_de": "R$ 5.999,00",
+    "preco_por": "R$ 2.799,00",
+    "off": "53% OFF",
+    "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
+  },
+  {
     "imagem": "v_1795625790.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 719,99",
     "off": "39% OFF",
     "tag": "🎟 Resgate na página: R$ 679 co"
-  },
-  {
-    "imagem": "v_1795625469.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "LuvinCo Imperial Árvore De Natal Luxo Pinheiro Neve 2,10m 1.062 Galhos Cor ",
-    "preco_de": "R$ 900,00",
-    "preco_por": "R$ 495,42",
-    "off": "45% OFF",
-    "tag": "🎟 Use o cupom: MELIAGORA"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795627899.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Forno Elétrico Black+decker 9 Litros Preto",
+    "preco_de": "R$ 260,00",
+    "preco_por": "R$ 229,00",
+    "off": "12% OFF",
+    "tag": "🎟 Cupom: MELIAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795627740.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 60,00 à vista",
     "off": "VIP",
     "tag": "🎟 Cupom: 25BF26PRIME"
-  },
-  {
-    "imagem": "v_1795627596.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Geladeira Electrolux Frost Free 380L AutoSense Inverter Black Inox Look (IF",
-    "preco_de": "R$ 3.399,00",
-    "preco_por": "R$ 2.799,00",
-    "off": "18% OFF",
-    "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
   }
 ]

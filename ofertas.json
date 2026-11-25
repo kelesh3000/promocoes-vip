@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795625281.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Refrigerador Panasonic 407l Black Glass Nr-bb41gv2b Preto",
+    "preco_de": "R$ 5.399,00",
+    "preco_por": "R$ 3.799,00",
+    "off": "30% OFF",
+    "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
+  },
+  {
     "imagem": "v_1795625149.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 4.997,82",
     "preco_por": "R$ 2.418,91",
     "off": "52% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795624920.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Lavadora Digital Inverter Samsung  WW11T Inox 11kg",
-    "preco_de": "R$ 3.472,63",
-    "preco_por": "R$ 3.392,63",
-    "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

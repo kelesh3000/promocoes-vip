@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795639234.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Prateleira nicho  industrial de 25x60cm a 120cm FERRO e Madeira",
+    "preco_de": "",
+    "preco_por": "R$ 117,48",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795639231.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 156,60",
     "off": "48% OFF",
     "tag": "🎟 Cupom: MELI782YHDL 🎟️"
-  },
-  {
-    "imagem": "v_1795639014.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Processador Britânia 420W 1 Velocidade Preto BMN04A",
-    "preco_de": "R$ 189,00",
-    "preco_por": "R$ 107,91",
-    "off": "43% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

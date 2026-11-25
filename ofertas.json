@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795641420.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Pasta de Amendoim DR. Peanut Bombom Italiano 600G - Com Whey Protein",
+    "preco_de": "R$ 47,99",
+    "preco_por": "R$ 36,14",
+    "off": "25% OFF",
+    "tag": "🎟 Cupom: PROTEIN"
+  },
+  {
     "imagem": "v_1795641385.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 599,40",
     "off": "45% OFF",
     "tag": "🎟 Cupom: ELETROTECHMELI"
-  },
-  {
-    "imagem": "v_1795641103.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Principia Kit Dupla Limpeza Água Micelar + Gl-02 Todo Tipo De Pele Dia/noit",
-    "preco_de": "R$ 93,00",
-    "preco_por": "R$ 76,26",
-    "off": "18% OFF",
-    "tag": "🎟 Cupom: BELEZABLACK 🎟️"
   }
 ]

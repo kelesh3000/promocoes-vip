@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795636154.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Nike Gamma Force Feminino",
+    "preco_de": "R$ 749,00",
+    "preco_por": "R$ 365,49",
+    "off": "51% OFF",
+    "tag": "🎟 Cupom: MELIAGORA"
+  },
+  {
     "imagem": "v_1795635960.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 550,05",
     "off": "13% OFF",
     "tag": "🎟 Cupom: 15ELUX 🎟️"
-  },
-  {
-    "imagem": "v_1795635627.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 5 Camisetas Básica Hering Algodão Masculina Original",
-    "preco_de": "R$ 154,00",
-    "preco_por": "R$ 123,99",
-    "off": "19% OFF",
-    "tag": "🎟 Cupom: MELIAGORA"
   }
 ]

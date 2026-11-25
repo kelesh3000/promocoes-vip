@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795623864.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Notebook Acer Aspire Go 15 AG15-51P-59SM Intel Core I5 120U 8GB RAM 256GB S",
+    "preco_de": "R$ 6.099,00",
+    "preco_por": "R$ 3.149,00",
+    "off": "48% OFF",
+    "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
+  },
+  {
     "imagem": "v_1795623815.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.559,00",
     "off": "VIP",
     "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
-  },
-  {
-    "imagem": "v_1795623679.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Sofá Sem Caixa Retrátil Baú 2,00m Cama inBox Secret Suede Velusoft ​Cinza",
-    "preco_de": "R$ 2.197,35",
-    "preco_por": "R$ 1.919,59",
-    "off": "13% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795618343.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Micro-ondas Consul 32L Branco com Menu Fácil - CMS46AB",
+    "preco_de": "R$ 632,00",
+    "preco_por": "R$ 569,00",
+    "off": "10% OFF",
+    "tag": "🎟 Use o cupom: MELIAGORA"
+  },
+  {
     "imagem": "v_1795618227.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 71,16",
     "off": "5% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795618112.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Air fryer Fritadeira Elétrica Electrolux EAF40 1400W sem oleo Rita Lobo 5,6",
-    "preco_de": "R$ 569,00",
-    "preco_por": "R$ 333,87",
-    "off": "41% OFF",
-    "tag": "🎟 Use o cupom: MELIAGORA"
   }
 ]

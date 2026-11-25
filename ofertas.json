@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795636590.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Pack Alfajor Dr. Peanut com Whey Protein, Sabor Doce de Leite e Cobertura d",
+    "preco_de": "R$ 149,00",
+    "preco_por": "R$ 78,99",
+    "off": "47% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795636351.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 365,49",
     "off": "51% OFF",
     "tag": "🎟 Cupom: MELIAGORA"
-  },
-  {
-    "imagem": "v_1795635960.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Danos Vorazes Óleo Reparador 50ml , Lola Cosmetics",
-    "preco_de": "R$ 44,90",
-    "preco_por": "R$ 15,21 à vista",
-    "off": "66% OFF",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

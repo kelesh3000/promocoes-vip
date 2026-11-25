@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795635960.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Danos Vorazes Óleo Reparador 50ml , Lola Cosmetics",
+    "preco_de": "R$ 44,90",
+    "preco_por": "R$ 15,21 à vista",
+    "off": "66% OFF",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795635870.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 123,99",
     "off": "19% OFF",
     "tag": "🎟 Cupom: MELIAGORA"
-  },
-  {
-    "imagem": "v_1795635429.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Pack de Coca-Cola sem Açúcar 350Ml 6 unidades",
-    "preco_de": "",
-    "preco_por": "R$ 42,32",
-    "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

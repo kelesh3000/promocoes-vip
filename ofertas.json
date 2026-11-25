@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795615292.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Kit coala Home Chá Branco - 4 Itens",
+    "preco_de": "R$ 89,34",
+    "preco_por": "R$ 67,90",
+    "off": "24% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795615253.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 259,00",
     "preco_por": "R$ 121,99",
     "off": "53% OFF",
-    "tag": "🎟 Cupom: MELIAGORA 🎟️"
-  },
-  {
-    "imagem": "v_1795614893.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Perfume Hawas Black 100ml EDP Arabe Erian",
-    "preco_de": "R$ 449,00",
-    "preco_por": "R$ 239,99",
-    "off": "47% OFF",
     "tag": "🎟 Cupom: MELIAGORA 🎟️"
   }
 ]

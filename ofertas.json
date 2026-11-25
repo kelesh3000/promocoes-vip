@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795614961.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Kappa Pulse Supra Unissex De Corrida Conforto",
+    "preco_de": "R$ 259,00",
+    "preco_por": "R$ 121,99",
+    "off": "53% OFF",
+    "tag": "🎟 Cupom: MELIAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795614893.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 219,90",
     "off": "VIP",
     "tag": "🎟 Cupom: MELIAGORA 🎟️"
-  },
-  {
-    "imagem": "v_1795614749.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Celular Apple iPhone 18 Pro e  18 Pro Max 256GB 512GB 5G NFC com Nota Fi",
-    "preco_de": "R$ 13.631,94",
-    "preco_por": "R$ 9.815,00",
-    "off": "28% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795619522.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Mesa De Centro Trendy Organica Duo 120x60cm laminado MDF BP",
+    "preco_de": "R$ 985,00",
+    "preco_por": "R$ 905,00",
+    "off": "8% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795619506.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 649,90",
     "off": "9% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795619048.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis Nike Winflo 11 Masculino",
-    "preco_de": "R$ 699,00",
-    "preco_por": "R$ 369,99",
-    "off": "47% OFF",
-    "tag": "🎟 Cupom: MELIAGORA 🎟️"
   }
 ]

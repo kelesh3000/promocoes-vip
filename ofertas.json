@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795627708.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Árvore de  Natal Luxo 1,50 1,80 2,10m Decoração Natalina Pinheiro Tradic",
+    "preco_de": "R$ 173,32",
+    "preco_por": "R$ 129,99",
+    "off": "25% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795627618.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 193,74",
     "off": "35% OFF",
     "tag": "🎟 Cupom: VIVERML 🎟️"
-  },
-  {
-    "imagem": "v_1795627476.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Heinz Kit Temperos para Hambúrguer e Batata 150g",
-    "preco_de": "",
-    "preco_por": "R$ 140,38",
-    "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

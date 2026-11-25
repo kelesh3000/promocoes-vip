@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795614266.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Celular Samsung Galaxy A57 5g 128gb, 8gb Ram, Recursos Ai",
+    "preco_de": "R$ 1.999,00",
+    "preco_por": "R$ 1.940,00",
+    "off": "VIP",
+    "tag": "🎟 Cupom: ELETROTECHMELI"
+  },
+  {
     "imagem": "v_1795614235.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 208,53",
     "off": "19% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795614036.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Wella Professionals Invigo Nutri-enrich Kit - Shampoo + Cond",
-    "preco_de": "R$ 270,00",
-    "preco_por": "R$ 257,13",
-    "off": "5% OFF",
-    "tag": "🎟 Cupom: MELIAGORA"
   }
 ]

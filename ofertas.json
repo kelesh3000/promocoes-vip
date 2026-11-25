@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795622583.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Panettone Kopenhagen Amargo Frutas Vermelhas 690G",
+    "preco_de": "R$ 125,90",
+    "preco_por": "R$ 111,40",
+    "off": "12% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795622567.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 228,00",
     "off": "53% OFF",
     "tag": "🎟 Use o cupom: MELIAGORA"
-  },
-  {
-    "imagem": "v_1795622430.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Organizador de Mesa Porta Caneta Maquiagem Cosmeticos  Gaveta Escritório",
-    "preco_de": "R$ 69,68",
-    "preco_por": "R$ 45,99",
-    "off": "34% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795638200.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tenis Academia Masculino Corrida Musculação Caminhada Treino",
+    "preco_de": "R$ 74,00",
+    "preco_por": "R$ 56,90",
+    "off": "23% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795638138.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 242,99",
     "off": "39% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795637748.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Electrolux STK14B aspirador de pó vertical com fio 1450W 2 em 1 filtro HEPA",
-    "preco_de": "R$ 169,00",
-    "preco_por": "R$ 152,91",
-    "off": "10% OFF",
-    "tag": "🎟 Cupom: MELIYTBF26 🎟️"
   }
 ]

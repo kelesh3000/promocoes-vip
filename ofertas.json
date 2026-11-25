@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795643000.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Dove Óleo + Sérum Bifásico Bond Intense Repair 110 ml",
+    "preco_de": "R$ 50,03",
+    "preco_por": "R$ 18,12 à vista",
+    "off": "64% OFF",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795642977.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 407,25",
     "off": "25% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795642577.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 3 Calça Masculina Sarja Slim Alfaitaria Esporte Fino",
-    "preco_de": "R$ 249,00",
-    "preco_por": "R$ 173,04",
-    "off": "31% OFF",
-    "tag": "🎟 Cupom: MELI782YHDL 🎟️"
   }
 ]

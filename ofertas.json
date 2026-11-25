@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795626576.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Poltrona De 2 Lugares Grande Com Almofadas Em Linho Premium",
+    "preco_de": "R$ 1.099,00",
+    "preco_por": "R$ 889,90",
+    "off": "19% OFF",
+    "tag": "🎟 Use o cupom: MELIAGORA"
+  },
+  {
     "imagem": "v_1795626467.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.799,00",
     "off": "53% OFF",
     "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
-  },
-  {
-    "imagem": "v_1795625790.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Espelho Retangular Jateado 80x50 cm Com LED | Para Penteadeira Quarto e ",
-    "preco_de": "R$ 321,24",
-    "preco_por": "R$ 157,41",
-    "off": "51% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795632931.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tenis Sandrini Aero Rush Academia Confortavel",
+    "preco_de": "R$ 199,00",
+    "preco_por": "R$ 96,99",
+    "off": "51% OFF",
+    "tag": "🎟 Cupom: MELI782YHDL 🎟️"
+  },
+  {
     "imagem": "v_1795632593.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 358,50",
     "off": "40% OFF",
     "tag": "🎟 Cupom: OFICIAIS2511 🎟️"
-  },
-  {
-    "imagem": "v_1795632251.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Forno Elétrico Philco 50L Branco Dupla Resistência PFE52B",
-    "preco_de": "R$ 479,00",
-    "preco_por": "R$ 429,00",
-    "off": "10% OFF",
-    "tag": "🎟 Cupom: OFICIAIS2511"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795645726.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Oferta Imperdível Shopee",
+    "preco_de": "R$ 39,78",
+    "preco_por": "R$ 17,90",
+    "off": "55% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795645710.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 761,13 à vista",
     "off": "52% OFF",
     "tag": "🎟 Cupom: MONITOR200 + 25BF26PR"
-  },
-  {
-    "imagem": "v_1795645252.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Kit 3 Caixas de Armazenamento Organizadoras Multiuso Dobráveis para Roupas ",
-    "preco_de": "R$ 70,00",
-    "preco_por": "R$ 28,70",
-    "off": "59% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

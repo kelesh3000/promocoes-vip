@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795620605.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Kit Coala Coleção de Lançamentos - Limpadores Perfumados Coala 500ml",
+    "preco_de": "R$ 59,80",
+    "preco_por": "R$ 23,92",
+    "off": "60% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795620579.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 78,92",
     "off": "68% OFF",
     "tag": "🎟 Resgate na página: Activaste"
-  },
-  {
-    "imagem": "v_1795620271.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 4 Bermuda Short Linho Algodão Masculino Bolso",
-    "preco_de": "R$ 99,00",
-    "preco_por": "R$ 77,00",
-    "off": "22% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

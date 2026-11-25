@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795612832.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Allegra Polipropileno Kit  com 2 Cadeiras Confortáveis Design Retro",
+    "preco_de": "",
+    "preco_por": "R$ 165,99",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795612796.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 167,26",
     "off": "60% OFF",
     "tag": "🎟 Cupom: TODOSITE2511"
-  },
-  {
-    "imagem": "v_1795612576.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Liquidificador RI2244 Série 5000 Com Jarra Inquebrável Inox 1400W Capacidad",
-    "preco_de": "R$ 450,00",
-    "preco_por": "R$ 199,49",
-    "off": "56% OFF",
-    "tag": "🎟 Cupom: MELIAGORA 🎟️"
   }
 ]

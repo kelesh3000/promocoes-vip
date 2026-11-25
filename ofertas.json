@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795635075.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Ar-condicionado Samsung Inverter Windfree Ai Pro 12.000 Btus Frio Ar60h12d1",
+    "preco_de": "R$ 2.599,00",
+    "preco_por": "R$ 2.399,00",
+    "off": "8% OFF",
+    "tag": "🎟 Cupom: LIVREHOJE 🎟️"
+  },
+  {
     "imagem": "v_1795635041.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 255,00",
     "off": "VIP",
     "tag": "🎟 Cupom: 16411"
-  },
-  {
-    "imagem": "v_1795634781.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Máquina de Lavar Electrolux 14,5kg Efficient Branca com Cesto Inox e Jet&Cl",
-    "preco_de": "R$ 2.511,00",
-    "preco_por": "R$ 1.693,82",
-    "off": "33% OFF",
-    "tag": "🎟 Cupom: 15ELUX 🎟️"
   }
 ]

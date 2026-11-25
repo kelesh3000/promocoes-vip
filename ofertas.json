@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795650371.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Smartphone Motorola Moto G37 5G - 128GB 4GB RAM + 8GB RAM Boost, Camera 50M",
+    "preco_de": "R$ 999,00",
+    "preco_por": "R$ 989,10",
+    "off": "VIP",
+    "tag": "🎟 Cupom: ELETROTECHMELI 🎟️"
+  },
+  {
     "imagem": "v_1795650270.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 94,10 à vista",
     "off": "10% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795649792.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ KIT 2 BANQUETAS DESMONTÁVEL  ALTAS ENCOSTO REVESTIDO COM FIBRA SINTETICA",
-    "preco_de": "",
-    "preco_por": "R$ 195,90",
-    "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

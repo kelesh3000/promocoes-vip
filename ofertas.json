@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795616864.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Brilhante Limpeza Total - Lava Roupas Líquido 3L",
+    "preco_de": "",
+    "preco_por": "R$ 18,80",
+    "off": "VIP",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795616766.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 71,99",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795616651.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Câmera Dji Osmo Nano Standard Combo (128gb) - Dji216",
-    "preco_de": "R$ 3.390,00",
-    "preco_por": "R$ 2.650,50",
-    "off": "22% OFF",
-    "tag": "🎟 Cupom: LIVREHOJE 🎟️"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795616573.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Chuveiro Elétrico Fame Compacta 7800w Preto Controle Eletrônico 220v 7.8 Kw",
+    "preco_de": "R$ 551,00",
+    "preco_por": "R$ 246,00",
+    "off": "55% OFF",
+    "tag": "🎟 Cupom: OBRASEGURA"
+  },
+  {
     "imagem": "v_1795616521.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 104,00",
     "off": "39% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795616363.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Cafeteira Nespresso Essenza Mini Branca Branco 220v",
-    "preco_de": "R$ 589,00",
-    "preco_por": "R$ 429,00",
-    "off": "27% OFF",
-    "tag": "🎟 No carrinho insira o código "
   }
 ]

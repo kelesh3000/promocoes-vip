@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795621225.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Short Masculino Bermuda Praia 2 Bolsos Zíper Secagem Rápida",
+    "preco_de": "R$ 44,00",
+    "preco_por": "R$ 31,35",
+    "off": "29% OFF",
+    "tag": "🎟 Resgate na página: Compre R$"
+  },
+  {
     "imagem": "v_1795621109.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.528,55",
     "off": "33% OFF",
     "tag": "🎟 Cupom: MELIAGORA"
-  },
-  {
-    "imagem": "v_1795620938.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Kit Papa Bolinhas Pro CST0139 + Mini Rolo Adesivo Com 2 Refis CST0085",
-    "preco_de": "R$ 66,90",
-    "preco_por": "R$ 53,52",
-    "off": "20% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

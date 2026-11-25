@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795575089.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Sanduicheira Elétrica Mallory Classic Grill – 2 em 1, Grelha e Assa Pães, C",
+    "preco_de": "R$ 119,99",
+    "preco_por": "R$ 44,28",
+    "off": "63% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795574888.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 32,00",
     "off": "54% OFF",
     "tag": "🎟 _Selecione \"programe e poupe"
-  },
-  {
-    "imagem": "v_1795573993.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Wella Invigo Nutri-Enrich Máscara Capilar Nutrição Profunda 500ml",
-    "preco_de": "R$ 278,00",
-    "preco_por": "R$ 146,31",
-    "off": "47% OFF",
-    "tag": "🎟 Cupom: 13100"
   }
 ]

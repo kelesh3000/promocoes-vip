@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795637315.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Cadeira Tropicalia em Fibra Sintética – Design Moderno, Confortável  e R",
+    "preco_de": "",
+    "preco_por": "R$ 399,90",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795637208.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 459,00",
     "off": "40% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795636722.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Adaptador de corrente USB-C de 20 W",
-    "preco_de": "R$ 219,00",
-    "preco_por": "R$ 123,99 à vista",
-    "off": "43% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

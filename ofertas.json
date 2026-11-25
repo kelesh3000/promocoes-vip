@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795627541.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Proteína Adaptogen Science Tasty Whey Gourmet em pó Sem sabor x 900g",
+    "preco_de": "R$ 299,00",
+    "preco_por": "R$ 193,74",
+    "off": "35% OFF",
+    "tag": "🎟 Cupom: VIVERML 🎟️"
+  },
+  {
     "imagem": "v_1795627476.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 348,68",
     "off": "56% OFF",
     "tag": "🎟 Use o cupom: MELIAGORA"
-  },
-  {
-    "imagem": "v_1795627338.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Batedeira Planetária Britânia 4L 3 Batedores, 12 Velocidades + Turbo BBP70A",
-    "preco_de": "R$ 569,00",
-    "preco_por": "R$ 265,00",
-    "off": "53% OFF",
-    "tag": "🎟 Cupom: 25BF26PRIME"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795642977.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Samsung Smart Tv 55 4k U8000h + Samsung Soundbar B450f",
+    "preco_de": "R$ 3.149,00",
+    "preco_por": "R$ 2.676,65",
+    "off": "15% OFF",
+    "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
+  },
+  {
     "imagem": "v_1795642821.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 173,04",
     "off": "31% OFF",
     "tag": "🎟 Cupom: MELI782YHDL 🎟️"
-  },
-  {
-    "imagem": "v_1795642265.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Oferta Imperdível Shopee",
-    "preco_de": "R$ 89,70",
-    "preco_por": "R$ 35,88",
-    "off": "60% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

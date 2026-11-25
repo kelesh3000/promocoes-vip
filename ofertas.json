@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795635041.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "3 Corações Café Torrado E Moído Extra Forte À Vácuo 250G",
+    "preco_de": "R$ 28,02",
+    "preco_por": "R$ 12,38 à vista",
+    "off": "56% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795634911.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.693,82",
     "off": "33% OFF",
     "tag": "🎟 Cupom: 15ELUX 🎟️"
-  },
-  {
-    "imagem": "v_1795634692.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 3 Camisetas Masculinas Algodão Polo Wear",
-    "preco_de": "R$ 179,00",
-    "preco_por": "R$ 85,99",
-    "off": "52% OFF",
-    "tag": "🎟 Cupom: MELI782YHDL 🎟️"
   }
 ]

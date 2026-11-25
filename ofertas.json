@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795641975.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Ventilador De Teto C/ Controle 6 Vel. Fenix Ventisol",
+    "preco_de": "R$ 349,00",
+    "preco_por": "R$ 299,00",
+    "off": "14% OFF",
+    "tag": "🎟 Cupom: ELETROTECHMELI 🎟️"
+  },
+  {
     "imagem": "v_1795641681.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 99,90",
     "off": "57% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795641420.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Pasta de Amendoim DR. Peanut Bombom Italiano 600G - Com Whey Protein",
-    "preco_de": "R$ 47,99",
-    "preco_por": "R$ 36,14",
-    "off": "25% OFF",
-    "tag": "🎟 Cupom: PROTEIN"
   }
 ]

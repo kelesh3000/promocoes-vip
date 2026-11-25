@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795621701.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "3 Corações TRES Cafeteira Espresso e Multibebida Touch Vermelha - 220V",
+    "preco_de": "R$ 599,99",
+    "preco_por": "R$ 300,73",
+    "off": "50% OFF",
+    "tag": "🎟 Cupom: 25BF26PRIME"
+  },
+  {
     "imagem": "v_1795621639.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 390,22",
     "preco_por": "R$ 127,99",
     "off": "67% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795621471.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Antiderrapante Contra Quedas Incolor para Pisos Externos e Internos",
-    "preco_de": "R$ 62,49",
-    "preco_por": "R$ 49,99",
-    "off": "20% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

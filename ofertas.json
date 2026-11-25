@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795626657.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Jaqueta Casaco Corta Vento Rock Saints Liso",
+    "preco_de": "R$ 99,00",
+    "preco_por": "R$ 52,00",
+    "off": "47% OFF",
+    "tag": "🎟 Cupom: MELISUPERCLUB 🎟️"
+  },
+  {
     "imagem": "v_1795626600.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 64,65",
     "off": "VIP",
     "tag": "🎟 CUPOM AMAZON"
-  },
-  {
-    "imagem": "v_1795626268.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ kit 2 Cadeira de Jantar Lua Decorativa Poltrona  Lua Sala de Estar Salão",
-    "preco_de": "R$ 599,97",
-    "preco_por": "R$ 185,99",
-    "off": "69% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

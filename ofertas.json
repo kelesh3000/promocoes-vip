@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795614774.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Aramis Deep Ii Branco",
+    "preco_de": "R$ 229,00",
+    "preco_por": "R$ 219,90",
+    "off": "VIP",
+    "tag": "🎟 Cupom: MELIAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795614749.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.998,00",
     "off": "48% OFF",
     "tag": "🎟 Cupom: 128GB"
-  },
-  {
-    "imagem": "v_1795614358.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis Barreda adidas",
-    "preco_de": "R$ 399,00",
-    "preco_por": "R$ 251,17",
-    "off": "37% OFF",
-    "tag": "🎟 Cupom: MELIAGORA 🎟️"
   }
 ]

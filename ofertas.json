@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795614832.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Geladeira Consul Cycle Defrost 332 Litros Duplex - CRD37MB",
+    "preco_de": "R$ 3.489,00",
+    "preco_por": "R$ 1.852,40",
+    "off": "47% OFF",
+    "tag": "🎟 Cupom: ELETROTECHMELI 🎟️"
+  },
+  {
     "imagem": "v_1795614774.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 176,90",
     "off": "50% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795614519.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Apple iPhone 16e de 128 GB — Preto",
-    "preco_de": "R$ 5.799,00",
-    "preco_por": "R$ 2.998,00",
-    "off": "48% OFF",
-    "tag": "🎟 Cupom: 128GB"
   }
 ]

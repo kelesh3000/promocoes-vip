@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795612534.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Notebook VAIO FE16 AMD Ryzen 7 5825U - Windows 11 Home Plus SL 16GB RAM 256",
+    "preco_de": "R$ 6.899,00",
+    "preco_por": "R$ 4.499,00",
+    "off": "35% OFF",
+    "tag": "🎟 Cupom: LIVREHOJE 🎟️"
+  },
+  {
     "imagem": "v_1795612505.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 37,11",
     "off": "23% OFF",
     "tag": "🎟 Cupom: PROTEIN"
-  },
-  {
-    "imagem": "v_1795580017.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Dove Desodorante Antitranspirante Stick Original 72h de Proteção 45g",
-    "preco_de": "R$ 33,53",
-    "preco_por": "R$ 22,79",
-    "off": "32% OFF",
-    "tag": "🎟 _Selecione \"programe e poupe"
   }
 ]

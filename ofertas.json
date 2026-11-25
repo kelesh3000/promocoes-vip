@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795649312.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Caixa Térmica 32 Litros Cooler Praia 45 Latas Azul Termolar",
+    "preco_de": "R$ 160,17",
+    "preco_por": "R$ 147,36",
+    "off": "8% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795649247.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 193,03",
     "off": "34% OFF",
     "tag": "🎟 Cupom: LIVREOFF 🎟️"
-  },
-  {
-    "imagem": "v_1795648860.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Oferta Imperdível Shopee",
-    "preco_de": "R$ 29,15",
-    "preco_por": "R$ 13,99",
-    "off": "52% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

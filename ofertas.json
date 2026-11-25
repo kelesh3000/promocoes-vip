@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795617753.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Calça Legging Fitness Zero Transparência Cintura Alta Koenig",
+    "preco_de": "R$ 59,00",
+    "preco_por": "R$ 29,00",
+    "off": "51% OFF",
+    "tag": "🎟 Cupom: SUPERDESCONTO ou LEVE"
+  },
+  {
     "imagem": "v_1795617684.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 802,00",
     "off": "9% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795617431.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Creme Hidratante Facial Matte 3 em 1 Neutrogena, Sem Perfume, 100g",
-    "preco_de": "R$ 48,99",
-    "preco_por": "R$ 23,38 à vista",
-    "off": "52% OFF",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795642265.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Oferta Imperdível Shopee",
+    "preco_de": "R$ 89,70",
+    "preco_por": "R$ 35,88",
+    "off": "60% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795642260.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 37,90",
     "off": "24% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795641975.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Ventilador De Teto C/ Controle 6 Vel. Fenix Ventisol",
-    "preco_de": "R$ 349,00",
-    "preco_por": "R$ 299,00",
-    "off": "14% OFF",
-    "tag": "🎟 Cupom: ELETROTECHMELI 🎟️"
   }
 ]

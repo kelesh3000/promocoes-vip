@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795634781.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Máquina de Lavar Electrolux 14,5kg Efficient Branca com Cesto Inox e Jet&Cl",
+    "preco_de": "R$ 2.511,00",
+    "preco_por": "R$ 1.693,82",
+    "off": "33% OFF",
+    "tag": "🎟 Cupom: 15ELUX 🎟️"
+  },
+  {
     "imagem": "v_1795634692.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 59,00",
     "preco_por": "R$ 51,90",
     "off": "12% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795634268.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Esteira Ergométrica Elétrica QBuen 2.5hp 10km/h 120kg, Vibração 6 Níveis e ",
-    "preco_de": "R$ 1.797,14",
-    "preco_por": "R$ 549,00",
-    "off": "69% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

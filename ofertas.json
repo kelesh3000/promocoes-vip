@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795620743.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Bronzer E Contorno Bastão Too Faced Chocolate Soleil",
+    "preco_de": "R$ 259,00",
+    "preco_por": "R$ 207,00",
+    "off": "20% OFF",
+    "tag": "🎟 Cupom: MELIAGORA + cupom na "
+  },
+  {
     "imagem": "v_1795620717.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 59,80",
     "preco_por": "R$ 23,92",
     "off": "60% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795620579.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Kit 5 Pastilhas Aromatizantes BaClean Ar Condicionado Chá Branco",
-    "preco_de": "R$ 69,99",
-    "preco_por": "R$ 55,99",
-    "off": "20% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

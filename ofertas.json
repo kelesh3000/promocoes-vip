@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795641681.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Principia Kit Completo Para Pele Sensível Com Fps 60",
+    "preco_de": "R$ 137,00",
+    "preco_por": "R$ 95,00",
+    "off": "31% OFF",
+    "tag": "🎟 Cupom: BELEZABLACK 🎟️"
+  },
+  {
     "imagem": "v_1795641678.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 36,14",
     "off": "25% OFF",
     "tag": "🎟 Cupom: PROTEIN"
-  },
-  {
-    "imagem": "v_1795641385.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tasty Whey 3w Gourmet 900g Milkshake Morango - Adaptogen Science Creme De M",
-    "preco_de": "R$ 320,00",
-    "preco_por": "R$ 193,80",
-    "off": "39% OFF",
-    "tag": "🎟 Cupom: VIVERML 🎟️"
   }
 ]

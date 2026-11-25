@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795575716.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Vichy, Dercos Shampoo Anticaspa Intensivo para Cabelos Secos",
+    "preco_de": "R$ 129,90",
+    "preco_por": "R$ 80,14",
+    "off": "38% OFF",
+    "tag": "🎟 _Selecione \"programe e poupe"
+  },
+  {
     "imagem": "v_1795575440.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 44,28",
     "off": "63% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795574888.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Growth Supplements - Creatina Monohidratada 250g - Growth Supplements - Sem",
-    "preco_de": "R$ 82,90",
-    "preco_por": "R$ 29,92",
-    "off": "64% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

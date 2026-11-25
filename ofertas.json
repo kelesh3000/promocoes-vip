@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795635429.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Pack de Coca-Cola sem Açúcar 350Ml 6 unidades",
+    "preco_de": "",
+    "preco_por": "R$ 42,32",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795635393.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.399,00",
     "off": "8% OFF",
     "tag": "🎟 Cupom: LIVREHOJE 🎟️"
-  },
-  {
-    "imagem": "v_1795635041.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "3 Corações Café Torrado E Moído Extra Forte À Vácuo 250G",
-    "preco_de": "R$ 28,02",
-    "preco_por": "R$ 12,38 à vista",
-    "off": "56% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795632593.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Controle Sem Fio Sony Dualsense, Playstation 5, Bluetooth",
+    "preco_de": "R$ 371,00",
+    "preco_por": "R$ 345,10",
+    "off": "7% OFF",
+    "tag": "🎟 Cupom: MELIAGORA"
+  },
+  {
     "imagem": "v_1795632511.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 429,00",
     "off": "10% OFF",
     "tag": "🎟 Cupom: OFICIAIS2511"
-  },
-  {
-    "imagem": "v_1795632076.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Gillette Mach3 Carga para Aparelho de Barbear 16 Unidades",
-    "preco_de": "R$ 151,92",
-    "preco_por": "R$ 76,09",
-    "off": "50% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

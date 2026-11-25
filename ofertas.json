@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795626467.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Oferta Amazon",
+    "preco_de": "",
+    "preco_por": "R$ 64,65",
+    "off": "VIP",
+    "tag": "🎟 CUPOM AMAZON"
+  },
+  {
     "imagem": "v_1795626268.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 157,41",
     "off": "51% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795625540.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Apple iPhone 15 (128 GB) - Preto",
-    "preco_de": "R$ 4.393,00",
-    "preco_por": "R$ 3.879,00",
-    "off": "12% OFF",
-    "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
   }
 ]

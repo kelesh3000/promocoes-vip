@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795639353.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Cadeira de escritório ergonômica com estofado de mesh (Preto profundo)",
+    "preco_de": "R$ 699,00",
+    "preco_por": "R$ 242,96 à vista",
+    "off": "65% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795639234.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 8,09 à vista",
     "off": "56% OFF",
     "tag": "🎟 selecione \"Programe e Poupe\""
-  },
-  {
-    "imagem": "v_1795639032.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 6 Camisetas Mais Procuradas Alpha",
-    "preco_de": "R$ 299,00",
-    "preco_por": "R$ 156,60",
-    "off": "48% OFF",
-    "tag": "🎟 Cupom: MELI782YHDL 🎟️"
   }
 ]

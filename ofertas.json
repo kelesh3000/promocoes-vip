@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795620579.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Kit 5 Pastilhas Aromatizantes BaClean Ar Condicionado Chá Branco",
+    "preco_de": "R$ 69,99",
+    "preco_por": "R$ 55,99",
+    "off": "20% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795620511.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 77,00",
     "off": "22% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795620108.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Caixa De Som Jbl Boombox 4 210w Bluetooth Ip68 Bateria 34h",
-    "preco_de": "R$ 2.466,00",
-    "preco_por": "R$ 2.094,84",
-    "off": "15% OFF",
-    "tag": "🎟 Cupom: ELETRO2511 🎟️"
   }
 ]

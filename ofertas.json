@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795622747.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Smart TV Hisense 75\" Qled Q6 4k",
+    "preco_de": "R$ 4.255,00",
+    "preco_por": "R$ 3.927,35",
+    "off": "8% OFF",
+    "tag": "🎟 Cupom: MENOSPRATECH 🎟️"
+  },
+  {
     "imagem": "v_1795622592.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.478,06",
     "off": "21% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795622503.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis Olympikus Voa 3",
-    "preco_de": "R$ 379,00",
-    "preco_por": "R$ 321,06",
-    "off": "15% OFF",
-    "tag": "🎟 NOVO CUPOM MERCADO LIVRE 🚨"
   }
 ]

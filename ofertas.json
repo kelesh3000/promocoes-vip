@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795648437.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Samsung Galaxy Buds Core, Fone de Ouvido, sem fio, cancelamento de ruído, i",
+    "preco_de": "R$ 399,00",
+    "preco_por": "R$ 181,90",
+    "off": "54% OFF",
+    "tag": "🎟 Cupom: CUPOMAMAZON"
+  },
+  {
     "imagem": "v_1795648363.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 160,55",
     "off": "19% OFF",
     "tag": "🎟 Cupom: 22338"
-  },
-  {
-    "imagem": "v_1795648020.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "⚡ Kit Sabonete Dove Original 90g 6 Unidades (2 kits)",
-    "preco_de": "",
-    "preco_por": "R$ 47,88",
-    "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

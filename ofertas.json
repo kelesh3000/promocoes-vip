@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795644054.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Principia Tripla Hidratação Ch-02 250g + Lh-02 500ml + Ch-01",
+    "preco_de": "R$ 127,00",
+    "preco_por": "R$ 95,25",
+    "off": "25% OFF",
+    "tag": "🎟 Cupom: BELEZABLACK 🎟️"
+  },
+  {
     "imagem": "v_1795644031.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 42,79",
     "off": "81% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795643364.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Ar-condicionado Split Samsung Inverter WindFree AI Pro 18.000 BTUs Frio AR6",
-    "preco_de": "R$ 3.893,68",
-    "preco_por": "R$ 3.059,00",
-    "off": "21% OFF",
-    "tag": "🎟 Cupom: 39000"
   }
 ]

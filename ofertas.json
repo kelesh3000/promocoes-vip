@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795649104.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Mesa De Centro Maderatto Edn Móveis",
+    "preco_de": "R$ 294,00",
+    "preco_por": "R$ 193,03",
+    "off": "34% OFF",
+    "tag": "🎟 Cupom: LIVREOFF 🎟️"
+  },
+  {
     "imagem": "v_1795648860.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.619,00",
     "off": "27% OFF",
     "tag": "🎟 Cupom: LIVREOFF 🎟️"
-  },
-  {
-    "imagem": "v_1795648437.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Samsung Galaxy Buds Core, Fone de Ouvido, sem fio, cancelamento de ruído, i",
-    "preco_de": "R$ 399,00",
-    "preco_por": "R$ 181,90",
-    "off": "54% OFF",
-    "tag": "🎟 Cupom: CUPOMAMAZON"
   }
 ]

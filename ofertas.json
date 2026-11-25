@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795626817.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Panela De Arroz Elétrica Gran Rizzo 700w Elgin 10 Xíc Preto",
+    "preco_de": "R$ 244,00",
+    "preco_por": "R$ 219,90",
+    "off": "10% OFF",
+    "tag": "🎟 Use o cupom: MELIAGORA"
+  },
+  {
     "imagem": "v_1795626751.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 52,00",
     "off": "47% OFF",
     "tag": "🎟 Cupom: MELISUPERCLUB 🎟️"
-  },
-  {
-    "imagem": "v_1795626600.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Ar Condicionado Split Inverter 12000 Btus 220v Britânia",
-    "preco_de": "R$ 1.949,00",
-    "preco_por": "R$ 1.832,91",
-    "off": "6% OFF",
-    "tag": "🎟 Cupom: MELIAGORA + _Aplique "
   }
 ]

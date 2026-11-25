@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795631318.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
+    "preco_de": "R$ 229,00",
+    "preco_por": "R$ 89,99",
+    "off": "61% OFF",
+    "tag": "🎟 Cupom: MELI782YHDL 🎟️"
+  },
+  {
     "imagem": "v_1795631195.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.299,00",
     "off": "23% OFF",
     "tag": "🎟 Cupom: MELIAGORA"
-  },
-  {
-    "imagem": "v_1795630917.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 6 Cuecas Boxer Lupo Sem Costura Box Microfibra Original",
-    "preco_de": "R$ 299,00",
-    "preco_por": "R$ 117,29",
-    "off": "61% OFF",
-    "tag": "🎟 Cupom: MELI782YHDL 🎟️"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795637748.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Electrolux STK14B aspirador de pó vertical com fio 1450W 2 em 1 filtro HEPA",
+    "preco_de": "R$ 169,00",
+    "preco_por": "R$ 152,91",
+    "off": "10% OFF",
+    "tag": "🎟 Cupom: MELIYTBF26 🎟️"
+  },
+  {
     "imagem": "v_1795637514.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 295,00",
     "off": "50% OFF",
     "tag": "🎟 Cupom MELIAGORA 🎟️"
-  },
-  {
-    "imagem": "v_1795636857.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Controle S/ Fio Dualsense Playstation 5 - Chroma Pearl",
-    "preco_de": "R$ 549,00",
-    "preco_por": "R$ 417,57",
-    "off": "24% OFF",
-    "tag": "🎟 Cupom: MELIAGORA"
   }
 ]

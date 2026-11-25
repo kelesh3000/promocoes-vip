@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795616766.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Jogo de Panela 9 Peças Smart Ceramic Neuhaus - Revestimento Antiaderente em",
+    "preco_de": "R$ 451,00",
+    "preco_por": "R$ 242,40",
+    "off": "46% OFF",
+    "tag": "🎟 No carrinho insira o código "
+  },
+  {
     "imagem": "v_1795616703.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.650,50",
     "off": "22% OFF",
     "tag": "🎟 Cupom: LIVREHOJE 🎟️"
-  },
-  {
-    "imagem": "v_1795616573.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Chuveiro Elétrico Fame Compacta 7800w Preto Controle Eletrônico 220v 7.8 Kw",
-    "preco_de": "R$ 551,00",
-    "preco_por": "R$ 246,00",
-    "off": "55% OFF",
-    "tag": "🎟 Cupom: OBRASEGURA"
   }
 ]

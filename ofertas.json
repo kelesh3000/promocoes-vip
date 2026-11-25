@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795639774.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "L'Oréal Paris Elseve Hidra Hialurônico Kit Capilar Shampoo, Cond e Máscara",
+    "preco_de": "R$ 94,18",
+    "preco_por": "R$ 69,99 à vista",
+    "off": "26% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795639712.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 269,91",
     "off": "19% OFF",
     "tag": "🎟 Cupom: OFFAUTO 🎟️"
-  },
-  {
-    "imagem": "v_1795639372.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Jaqueta Masculina Jeans Sarja Slim Fit Coloridas Versátil",
-    "preco_de": "R$ 123,00",
-    "preco_por": "R$ 110,25",
-    "off": "10% OFF",
-    "tag": "🎟 Cupom: MELI782YHDL 🎟️"
   }
 ]

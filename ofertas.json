@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795658137.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Chiclete Trident Max Hortelã Fresca Sem Açúcar - Caixa com 14 unid. de 16,5",
+    "preco_de": "R$ 62,86",
+    "preco_por": "R$ 33,29 à vista",
+    "off": "47% OFF",
+    "tag": "🎟 Selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795657980.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 19,33 à vista",
     "off": "41% OFF",
     "tag": "🎟 selecione \"Programe e Poupe\""
-  },
-  {
-    "imagem": "v_1795656276.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Câmera de Segurança Inteligente Intelbras iM3 C Branca",
-    "preco_de": "R$ 215,00",
-    "preco_por": "R$ 116,25",
-    "off": "46% OFF",
-    "tag": "🎟 Aplique o cupom no anúncio"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795713267.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Relógio Casio Masculino G-shock Digital Preto Dw-5600bb-1dr",
+    "preco_de": "R$ 599,00",
+    "preco_por": "R$ 280,80",
+    "off": "53% OFF",
+    "tag": "🎟 Cupom: OFERTAVIP 🎟️"
+  },
+  {
     "imagem": "v_1795713252.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 276,99",
     "off": "27% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795712955.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Frigideira Funda Tramontina Loreto em Alumínio com Revestimento Interno e E",
-    "preco_de": "R$ 80,78",
-    "preco_por": "R$ 49,89 à vista",
-    "off": "38% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

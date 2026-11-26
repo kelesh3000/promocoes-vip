@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795657980.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Creme Crocante Ovomaltine, 260g",
+    "preco_de": "",
+    "preco_por": "R$ 199,99",
+    "off": "VIP",
+    "tag": "🎟 Selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795656519.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 116,25",
     "off": "46% OFF",
     "tag": "🎟 Aplique o cupom no anúncio"
-  },
-  {
-    "imagem": "v_1795656147.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Composto Lácteo, Nestlé, Ninho Forti+, Pacote, 750g",
-    "preco_de": "R$ 38,99",
-    "preco_por": "R$ 29,02 à vista",
-    "off": "26% OFF",
-    "tag": "🎟 Selecione \"Programe e Poupe\""
   }
 ]

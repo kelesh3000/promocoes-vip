@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795666085.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Samsung Galaxy A17, 128Gb, 4Gb, 50Mp Tela 6.7\", Ip54 Cinza",
+    "preco_de": "",
+    "preco_por": "R$ 649,00",
+    "off": "VIP",
+    "tag": "🎟 Cupom: 15IMPERDIVEL ou SAMSU"
+  },
+  {
     "imagem": "v_1795665907.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 194,00",
     "off": "64% OFF",
     "tag": "🎟 Cupom: IMPERDIVEL15 🎟️"
-  },
-  {
-    "imagem": "v_1795665445.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Lava E Seca Philco Smart Invertplus Lavagem 10kg Branco",
-    "preco_de": "R$ 3.612,00",
-    "preco_por": "R$ 2.456,77",
-    "off": "32% OFF",
-    "tag": "🎟 Cupom: MODOCASA 🎟️"
   }
 ]

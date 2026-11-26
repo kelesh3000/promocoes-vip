@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795732348.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Micro-ondas Midea 20l Prata Espelhado Mhp20s1",
+    "preco_de": "R$ 799,00",
+    "preco_por": "R$ 424,39",
+    "off": "47% OFF",
+    "tag": "🎟 Cupom: CASA50"
+  },
+  {
     "imagem": "v_1795729887.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 455,05 no Pix",
     "off": "17% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795729715.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Fritadeira Air Fryer 11 Litros 8 Funções 1800w Philco PAF11B 220v",
-    "preco_de": "R$ 899,00",
-    "preco_por": "R$ 396,47",
-    "off": "56% OFF",
-    "tag": "🎟 Cupom: TDS50BF26"
   }
 ]

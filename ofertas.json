@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795706267.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Smartphone OPPO A6t 128GB 12GB RAM (4GB + 8GB RAM Virtual) Bateria Gigante ",
+    "preco_de": "R$ 1.299,00",
+    "preco_por": "R$ 746,10",
+    "off": "43% OFF",
+    "tag": "🎟 Cupom: PROMOAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795706213.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 474,78",
     "off": "54% OFF",
     "tag": "🎟 Cupom: MAISDESCONTODEZ 🎟️"
-  },
-  {
-    "imagem": "v_1795706083.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 6 Cuecas Boxer Mash Microfibra Sem Costura Adulto",
-    "preco_de": "R$ 233,00",
-    "preco_por": "R$ 71,92",
-    "off": "69% OFF",
-    "tag": "🎟 Cupom: PROMOAGORA + cupom po"
   }
 ]

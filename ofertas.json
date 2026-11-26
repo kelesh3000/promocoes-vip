@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795713823.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Pack YoPRO Bebida Láctea UHT Chocolate 15g de proteínas 250ml - 24 unidades",
+    "preco_de": "R$ 192,19",
+    "preco_por": "R$ 120,70",
+    "off": "37% OFF",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795713718.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 139,00",
     "off": "39% OFF",
     "tag": "🎟 Cupom: SUPEROFERTA"
-  },
-  {
-    "imagem": "v_1795713482.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Mesa Passadeira Tabua de Passar Roupa  Dobrável Regulável Extra Forte Co",
-    "preco_de": "R$ 234,57",
-    "preco_por": "R$ 107,90",
-    "off": "54% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

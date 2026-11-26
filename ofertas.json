@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795721479.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Lixador de Pé Elétrico - Esfoliador Tira Calos Pedicure Portátil",
+    "preco_de": "R$ 79,95",
+    "preco_por": "R$ 15,99",
+    "off": "80% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795721448.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 159,99",
     "off": "54% OFF",
     "tag": "🎟 Cupom: PROMOAGORA"
-  },
-  {
-    "imagem": "v_1795721163.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Rodo de Pia Dobrável com  Cabo de Bambu -  Oikos",
-    "preco_de": "R$ 50,63",
-    "preco_por": "R$ 31,90",
-    "off": "37% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

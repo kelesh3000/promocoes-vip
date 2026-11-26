@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795719182.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Cafeteira Nescafé Dolce Gusto Genio S Basic Grafite",
+    "preco_de": "R$ 599,00",
+    "preco_por": "R$ 340,09",
+    "off": "43% OFF",
+    "tag": "🎟 Cupom: PROMOAGORA"
+  },
+  {
     "imagem": "v_1795719059.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 339,15",
     "off": "15% OFF",
     "tag": "🎟 Cupom: OFERTAVIP 🎟️"
-  },
-  {
-    "imagem": "v_1795718838.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Smartwatch MINI 38MM PRO Com monitor De Frequência ​Cardíaca Do Computador ",
-    "preco_de": "R$ 203,81",
-    "preco_por": "R$ 52,99",
-    "off": "74% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

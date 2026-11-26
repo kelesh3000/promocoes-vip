@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795665280.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Echo Dot Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth",
+    "preco_de": "",
+    "preco_por": "R$ 649,00",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795665194.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 676,44",
     "off": "45% OFF",
     "tag": "🎟 Cupom: MELIXF9 🎟️"
-  },
-  {
-    "imagem": "v_1795664954.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Stanley Copo Quencher Cream 591ml",
-    "preco_de": "R$ 289,00",
-    "preco_por": "R$ 101,15",
-    "off": "65% OFF",
-    "tag": "🎟 Cupom: IMPERDIVEL30"
   }
 ]

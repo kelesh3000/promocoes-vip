@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795729546.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Pack Ração Úmida Pedigree Sachê Cordeiro ao Molho para Cães Adultos de Raça",
+    "preco_de": "R$ 52,20",
+    "preco_por": "R$ 35,91 à vista",
+    "off": "31% OFF",
+    "tag": "🎟 Selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795729475.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 674,10",
     "off": "32% OFF",
     "tag": "🎟 Cupom: 15ELUX"
-  },
-  {
-    "imagem": "v_1795729255.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Ar Condicionado Split LG Inverter Smart Ai 12000 Btus Frio Branco",
-    "preco_de": "R$ 2.428,00",
-    "preco_por": "R$ 2.024,92",
-    "off": "17% OFF",
-    "tag": "🎟 Cupom: TECHVIP 🎟️"
   }
 ]

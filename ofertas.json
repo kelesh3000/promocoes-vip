@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795719268.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Calça Legging Max Esportiva Lupo",
+    "preco_de": "R$ 199,00",
+    "preco_por": "R$ 121,71",
+    "off": "39% OFF",
+    "tag": "🎟 Cupom: MPODAWSB82GA6 🎟️"
+  },
+  {
     "imagem": "v_1795719242.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 59,98",
     "off": "62% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795718957.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Jogo De Panelas 8 Peças Teflon Antiaderente C Tampa De Vidro",
-    "preco_de": "R$ 229,00",
-    "preco_por": "R$ 127,01",
-    "off": "45% OFF",
-    "tag": "🎟 Cupom: OFERTAVIP + _Aplique "
   }
 ]

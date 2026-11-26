@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795721737.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "L’Oréal Professionnel Pro Longer Shampoo Para Cabelos Finos Serie Expert 1L",
+    "preco_de": "R$ 259,90",
+    "preco_por": "R$ 93,09",
+    "off": "64% OFF",
+    "tag": "🎟 Cupom: 25990"
+  },
+  {
     "imagem": "v_1795721641.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 15,99",
     "off": "80% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795721448.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis Nike Air Max Excee Masculino",
-    "preco_de": "R$ 799,00",
-    "preco_por": "R$ 398,99",
-    "off": "50% OFF",
-    "tag": "🎟 Cupom: MPODAWSB82GA6 🎟️"
   }
 ]

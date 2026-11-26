@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795719678.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Edredom Dupla Face Casal Queen 2,20x 2,40m",
+    "preco_de": "R$ 67,34",
+    "preco_por": "R$ 65,99",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795719342.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 69,98",
     "off": "50% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795719182.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Cafeteira Nescafé Dolce Gusto Genio S Basic Grafite",
-    "preco_de": "R$ 599,00",
-    "preco_por": "R$ 340,09",
-    "off": "43% OFF",
-    "tag": "🎟 Cupom: PROMOAGORA"
   }
 ]

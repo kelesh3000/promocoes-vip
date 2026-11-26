@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795708889.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Olympikus Voa 3",
+    "preco_de": "R$ 379,00",
+    "preco_por": "R$ 321,06",
+    "off": "15% OFF",
+    "tag": "🎟 NOVO CUPOM MERCADO LIVRE 🚨"
+  },
+  {
     "imagem": "v_1795708727.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 289,84",
     "off": "76% OFF",
     "tag": "🎟 Cupom: MAISDESCONTODEZ 🎟️"
-  },
-  {
-    "imagem": "v_1795708563.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Kit Eudora Siàge Pro Cronology (3 Produtos)",
-    "preco_de": "R$ 168,00",
-    "preco_por": "R$ 86,81 à vista",
-    "off": "48% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

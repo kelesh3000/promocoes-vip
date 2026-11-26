@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795717732.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Conjunto de Bowls Tigelas de Inox com Tampa Plástica Electrolux",
+    "preco_de": "R$ 159,90",
+    "preco_por": "R$ 75,90",
+    "off": "53% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795717619.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 114,95",
     "off": "58% OFF",
     "tag": "🎟 Cupom: OFERTAVIP 🎟️"
-  },
-  {
-    "imagem": "v_1795717328.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "LG UltraGear Monitor Gamer 27\" IPS 200Hz, 1ms (GtG), Full HD (1920x1080), H",
-    "preco_de": "R$ 1.049,00",
-    "preco_por": "R$ 799,00",
-    "off": "24% OFF",
-    "tag": "🎟 Cupom: 27G523B"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795661313.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Dr. Peanut Pasta de Amendoim Avelã 600G - Com Whey Protein",
+    "preco_de": "R$ 47,99",
+    "preco_por": "R$ 35,15",
+    "off": "27% OFF",
+    "tag": "🎟 Cupom: PROTEIN"
+  },
+  {
     "imagem": "v_1795660950.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 49,77",
     "off": "38% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795660253.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Creme Facial Antissinais Neutrogena Face Care Intensive, FPS 22, 100g",
-    "preco_de": "R$ 48,99",
-    "preco_por": "R$ 22,20",
-    "off": "55% OFF",
-    "tag": "🎟 _Selecione \"programe e poupe"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795658258.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Bundle Nintendo Switch 2 + EA Sports FC 27",
+    "preco_de": "R$ 4.699,90",
+    "preco_por": "R$ 3.519,00",
+    "off": "25% OFF",
+    "tag": "🎟 Aplique o cupom de 5% OFF no"
+  },
+  {
     "imagem": "v_1795658137.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 349,99",
     "off": "30% OFF",
     "tag": "🎟 Cupom: LIVREOFF 🎟️"
-  },
-  {
-    "imagem": "v_1795656421.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Hellmann's Supreme Kit Ketchup 390g + Maionese 330g",
-    "preco_de": "R$ 32,99",
-    "preco_por": "R$ 19,33 à vista",
-    "off": "41% OFF",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

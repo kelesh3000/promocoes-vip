@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795666897.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tel",
+    "preco_de": "R$ 11.499,00",
+    "preco_por": "R$ 5.799,00",
+    "off": "50% OFF",
+    "tag": "🎟 Cupom: 25IMPERDIVEL 🎟️"
+  },
+  {
     "imagem": "v_1795666732.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 649,00",
     "off": "VIP",
     "tag": "🎟 Cupom: 15IMPERDIVEL ou SAMSU"
-  },
-  {
-    "imagem": "v_1795665907.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Limpador Multiuso Veja Pro Line, Original, 5L",
-    "preco_de": "",
-    "preco_por": "R$ 17,41",
-    "off": "VIP",
-    "tag": "🎟 _Selecione \"programe e poupe"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795736490.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit Com 3 Calças Jeans Masculina Skinny Corte Tradicional",
+    "preco_de": "R$ 189,00",
+    "preco_por": "R$ 107,06",
+    "off": "43% OFF",
+    "tag": "🎟 Cupom: SOHOJE 🎟️"
+  },
+  {
     "imagem": "v_1795736360.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 347,13",
     "off": "26% OFF",
     "tag": "🎟 Cupom: SOHOJE 🎟️"
-  },
-  {
-    "imagem": "v_1795736144.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Batedeira Planetária Bowl Inox Iii Obat641 Oster Cor Preto Frequência 1",
-    "preco_de": "R$ 659,00",
-    "preco_por": "R$ 359,16",
-    "off": "45% OFF",
-    "tag": "🎟 Cupom: PROMOAGORA"
   }
 ]

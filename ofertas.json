@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795652194.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ cuba pia cozinha gourmet aço inox 304 50x40  luxo com acessórios",
+    "preco_de": "",
+    "preco_por": "R$ 114,99",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795652140.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 219,90",
     "off": "61% OFF",
     "tag": "🎟 Cupom: LIVREOFF 🎟️"
-  },
-  {
-    "imagem": "v_1795651727.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Wella Invigo Nutri-Enrich Máscara Capilar Nutrição Profunda 500ml",
-    "preco_de": "R$ 278,00",
-    "preco_por": "R$ 119,00",
-    "off": "57% OFF",
-    "tag": "🎟 Cupom: 15290"
   }
 ]

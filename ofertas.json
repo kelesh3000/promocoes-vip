@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795704317.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Ultimashow 2.0 adidas",
+    "preco_de": "R$ 379,00",
+    "preco_por": "R$ 198,35",
+    "off": "48% OFF",
+    "tag": "🎟 Cupom MAISDESCONTODEZ 🎟️"
+  },
+  {
     "imagem": "v_1795667052.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 5.799,00",
     "off": "50% OFF",
     "tag": "🎟 Cupom: 25IMPERDIVEL 🎟️"
-  },
-  {
-    "imagem": "v_1795666732.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Webcam 1080p HP 320 - com Ajuste Automático de Luz, Conexão USB Plug and Pl",
-    "preco_de": "R$ 252,78",
-    "preco_por": "R$ 101,92",
-    "off": "60% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795710585.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Arno Genio S Basic DGS5 Gris",
+    "preco_de": "R$ 814,00",
+    "preco_por": "R$ 367,68",
+    "off": "55% OFF",
+    "tag": "🎟 Cupom: PROMOAGORA"
+  },
+  {
     "imagem": "v_1795710542.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 122,45",
     "off": "50% OFF",
     "tag": "🎟 Cupom: MAISDESCONTODEZ 🎟️"
-  },
-  {
-    "imagem": "v_1795710123.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Cuba de Apoio Oval Viena para Banheiro Lavabo + Válvula Click ABS Cromad",
-    "preco_de": "R$ 185,71",
-    "preco_por": "R$ 156,00",
-    "off": "16% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

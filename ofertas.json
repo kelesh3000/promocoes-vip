@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795723848.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "TV AOC Smart 43\" Roku TV Full HD 43S5155/78G",
+    "preco_de": "",
+    "preco_por": "Confira no link",
+    "off": "VIP",
+    "tag": "🎟 NOVO CUPOM AMAZON 🚨"
+  },
+  {
     "imagem": "v_1795723760.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 118,99",
     "off": "76% OFF",
     "tag": "🎟 MAIS CUPOM NO MERCADO LIVRE"
-  },
-  {
-    "imagem": "v_1795723562.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Pia Cozinha Anti Queda Aço Inoxidável Com  ABS Multifuncional Saída Cach",
-    "preco_de": "R$ 1.058,80",
-    "preco_por": "R$ 496,80 no Pix",
-    "off": "53% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

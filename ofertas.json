@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795656147.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Composto Lácteo, Nestlé, Ninho Forti+, Pacote, 750g",
+    "preco_de": "R$ 38,99",
+    "preco_por": "R$ 29,02 à vista",
+    "off": "26% OFF",
+    "tag": "🎟 Selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795655976.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 886,41",
     "off": "50% OFF",
     "tag": "🎟 Cupom: LIVREOFF 🎟️"
-  },
-  {
-    "imagem": "v_1795654771.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Rodo  de Pia Dobrável com Cabo de Bambu Oikos Rodinho Off White Bege",
-    "preco_de": "R$ 29,84",
-    "preco_por": "R$ 19,99",
-    "off": "33% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

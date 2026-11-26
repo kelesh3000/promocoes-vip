@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795724770.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Smart Tv Tcl 55 Qled 4k P8ls Bluetooth Google Tv 55p8ls",
+    "preco_de": "R$ 6.599,00",
+    "preco_por": "R$ 2.999,00",
+    "off": "55% OFF",
+    "tag": "🎟 Cupom: TECHVIP 🎟️"
+  },
+  {
     "imagem": "v_1795724701.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 60,13",
     "preco_por": "R$ 46,90",
     "off": "22% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795724464.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Manteigueira De Vidro Com Tampa Premium Porta Manteiga Elegante Café Da Man",
-    "preco_de": "R$ 25,91",
-    "preco_por": "R$ 20,99",
-    "off": "19% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

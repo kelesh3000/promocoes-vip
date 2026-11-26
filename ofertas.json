@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795736127.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 2 Camisetas Reserva Notificação + Carimbo Gaze Pica-pau",
+    "preco_de": "R$ 338,00",
+    "preco_por": "R$ 71,99",
+    "off": "79% OFF",
+    "tag": "🎟 Cupom: SOHOJE 🎟️"
+  },
+  {
     "imagem": "v_1795736040.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 174,90",
     "off": "12% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795735833.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Máquina de Lavar Midea 16Kg MA512W160A/WK04 Wave Agitator Função Turbo Bran",
-    "preco_de": "R$ 1.949,00",
-    "preco_por": "R$ 1.793,08",
-    "off": "8% OFF",
-    "tag": "🎟 Cupom: MODOCASA 🎟️"
   }
 ]

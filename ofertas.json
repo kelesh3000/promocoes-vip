@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795663247.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "JBL Boombox 3 Caixa de Som Bluetooth à Prova D'Água Preta",
+    "preco_de": "R$ 1.979,00",
+    "preco_por": "R$ 1.386,00",
+    "off": "30% OFF",
+    "tag": "🎟 Cupom: BLACK100OFF 🎟️"
+  },
+  {
     "imagem": "v_1795663182.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.799,00",
     "off": "60% OFF",
     "tag": "🎟 Cupom: SAMSUNG200 + BLACK100"
-  },
-  {
-    "imagem": "v_1795662938.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 2",
-    "preco_de": "R$ 5.973,24",
-    "preco_por": "R$ 4.498,00",
-    "off": "25% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

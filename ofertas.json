@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795726003.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Principia Kit Shampoo E Condicionador Antiqueda Aq-01",
+    "preco_de": "R$ 103,00",
+    "preco_por": "R$ 85,48",
+    "off": "17% OFF",
+    "tag": "🎟 Cupom: BELEZA20"
+  },
+  {
     "imagem": "v_1795725966.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.149,00",
     "off": "48% OFF",
     "tag": "🎟 Cupom: TECHVIP 🎟️"
-  },
-  {
-    "imagem": "v_1795725849.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Secret Clinical Desodorante Antitranspirante em Gel Lavanda Invisível 45 g",
-    "preco_de": "R$ 37,90",
-    "preco_por": "R$ 12,90 à vista",
-    "off": "66% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

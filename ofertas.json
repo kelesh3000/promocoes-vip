@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795663182.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Monitor Gamer Aoc 23,8 Full Hd 144hz Agon G50 0,5ms",
+    "preco_de": "R$ 539,00",
+    "preco_por": "R$ 499,00",
+    "off": "7% OFF",
+    "tag": "🎟 Cupom: MELIXF9"
+  },
+  {
     "imagem": "v_1795663064.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 4.498,00",
     "off": "25% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795662828.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Apple iPhone 16e de 128 GB — Preto",
-    "preco_de": "R$ 5.799,00",
-    "preco_por": "R$ 2.998,00",
-    "off": "48% OFF",
-    "tag": "🎟 Cupom: 128GB"
   }
 ]

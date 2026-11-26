@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795722364.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Caixa de Som Boombox Plus AIWA BBS-01-GR 200W Bluetooth 30H IP66 USB Verde",
+    "preco_de": "R$ 2.290,00",
+    "preco_por": "R$ 1.249,00",
+    "off": "45% OFF",
+    "tag": "🎟 Cupom: MELIEBG 🎟️"
+  },
+  {
     "imagem": "v_1795722305.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 829,99 no Pix",
     "off": "29% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795722082.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Cafeteira Tres Corações Automática Multipressão Passione Vermelho",
-    "preco_de": "R$ 499,00",
-    "preco_por": "R$ 345,59",
-    "off": "31% OFF",
-    "tag": "🎟 Cupom: PROMOAGORA + VIPTECH"
   }
 ]

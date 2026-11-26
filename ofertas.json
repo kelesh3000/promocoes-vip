@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795659696.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Chocolate ao Leite Lacta 145g",
+    "preco_de": "R$ 17,99",
+    "preco_por": "R$ 11,39",
+    "off": "37% OFF",
+    "tag": "🎟 _Selecione \"programe e poupe"
+  },
+  {
     "imagem": "v_1795659553.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 161,91",
     "off": "46% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795658520.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
-    "preco_de": "",
-    "preco_por": "R$ 399,12",
-    "off": "VIP",
-    "tag": "🎟 Cupom: 52621"
   }
 ]

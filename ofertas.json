@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795722601.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Panela de Pressão Antiaderente Cerâmico 4,2 Litros Indução Marmol Fecham",
+    "preco_de": "R$ 440,51",
+    "preco_por": "R$ 246,91 no Pix",
+    "off": "44% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795722413.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.599,00",
     "off": "48% OFF",
     "tag": "🎟 Cupom: MELIEBG 🎟️"
-  },
-  {
-    "imagem": "v_1795722274.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Red Bull Energético, Pomelo, Sem Açúcar, 250ml, 4 latas",
-    "preco_de": "R$ 41,96",
-    "preco_por": "R$ 30,80 à vista",
-    "off": "27% OFF",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

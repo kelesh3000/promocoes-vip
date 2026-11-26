@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795717994.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "⚡ Conjunto Feminino Alfaiateria  Short e Cropped Com Alça Elegante verão",
+    "preco_de": "",
+    "preco_por": "R$ 63,00",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795717952.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ .",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795717770.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "WAP Aspirador Automotivo Portátil 12V, 420ML Sólido, Filto Hepa, cabo de 3,",
-    "preco_de": "R$ 119,90",
-    "preco_por": "R$ 52,00",
-    "off": "57% OFF",
-    "tag": "🎟 Cupom: BLACK25OFF 🎟️"
   }
 ]

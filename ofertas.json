@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795722413.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Aparelho De Jantar E Chá/café 42 Pçs Oxford Ryo Maresia",
+    "preco_de": "R$ 950,00",
+    "preco_por": "R$ 584,91",
+    "off": "38% OFF",
+    "tag": "🎟 Cupom: PROMOAGORA"
+  },
+  {
     "imagem": "v_1795722364.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 30,80 à vista",
     "off": "27% OFF",
     "tag": "🎟 selecione \"Programe e Poupe\""
-  },
-  {
-    "imagem": "v_1795722129.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Conjunto Sala  de Jantar Mesa Tampo de Vidro com 4 Cadeiras Rustic/Crema",
-    "preco_de": "R$ 1.171,64",
-    "preco_por": "R$ 829,99 no Pix",
-    "off": "29% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

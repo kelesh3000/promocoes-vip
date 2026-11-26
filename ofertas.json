@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795722871.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Relógio Tommy Hilfiger David Masculino Em Borracha Azul 1710",
+    "preco_de": "R$ 990,00",
+    "preco_por": "R$ 380,00",
+    "off": "62% OFF",
+    "tag": "🎟 Cupom: PROMOAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795722716.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 584,91",
     "off": "38% OFF",
     "tag": "🎟 Cupom: PROMOAGORA"
-  },
-  {
-    "imagem": "v_1795722364.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Caixa de Som Boombox Plus AIWA BBS-01-GR 200W Bluetooth 30H IP66 USB Verde",
-    "preco_de": "R$ 2.290,00",
-    "preco_por": "R$ 1.249,00",
-    "off": "45% OFF",
-    "tag": "🎟 Cupom: MELIEBG 🎟️"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795720630.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Fritadeira Sem Óleo Super Cook Fryer Frt410 3,8l Cadence Cor Preto",
+    "preco_de": "R$ 684,00",
+    "preco_por": "R$ 179,90",
+    "off": "74% OFF",
+    "tag": "🎟 Cupom: IDMMELI 🎟️"
+  },
+  {
     "imagem": "v_1795720478.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 106,16",
     "off": "59% OFF",
     "tag": "🎟 Cupom: AMOPADTYQID 🎟️"
-  },
-  {
-    "imagem": "v_1795720270.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Pasta Sanfonada Com 12 Divisórias ou Pasta Prancheta Tamanho A4 Escritório ",
-    "preco_de": "R$ 41,00",
-    "preco_por": "R$ 11,89",
-    "off": "71% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

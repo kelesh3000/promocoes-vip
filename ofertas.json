@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795726380.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Camiseta Regular Essence Reserva Masculina",
+    "preco_de": "R$ 139,00",
+    "preco_por": "R$ 57,99",
+    "off": "58% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795726251.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 85,48",
     "off": "17% OFF",
     "tag": "🎟 Cupom: BELEZA20"
-  },
-  {
-    "imagem": "v_1795725966.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Kit 10 Cadeiras  NANA, GRUVYER, CHIFRE ou ALLEGRA para Cozinha, Sala de ",
-    "preco_de": "R$ 870,36",
-    "preco_por": "R$ 648,60 no Pix",
-    "off": "25% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

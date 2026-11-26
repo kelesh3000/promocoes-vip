@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795729255.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Ar Condicionado Split LG Inverter Smart Ai 12000 Btus Frio Branco",
+    "preco_de": "R$ 2.428,00",
+    "preco_por": "R$ 2.024,92",
+    "off": "17% OFF",
+    "tag": "🎟 Cupom: TECHVIP 🎟️"
+  },
+  {
     "imagem": "v_1795729124.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 196,57 no Pix",
     "off": "32% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795728824.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Celular Samsung Galaxy S26 FE 128GB, 8GB RAM Tela 6,7\" - Grafite",
-    "preco_de": "R$ 5.499,00",
-    "preco_por": "R$ 3.198,60",
-    "off": "42% OFF",
-    "tag": "🎟 Cupom: TECHVIP"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795725519.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Ar-condicionado Prime Air Split 9000btus Quente/frio 9qg",
+    "preco_de": "R$ 2.345,00",
+    "preco_por": "R$ 1.759,42",
+    "off": "25% OFF",
+    "tag": "🎟 Cupom: TECHVIP 🎟️"
+  },
+  {
     "imagem": "v_1795725481.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 117,75",
     "off": "25% OFF",
     "tag": "🎟 Cupom: BELEZA20 🎟️"
-  },
-  {
-    "imagem": "v_1795725323.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Wella Treatment Oil Reflections Light 100ml",
-    "preco_de": "R$ 193,00",
-    "preco_por": "R$ 96,51",
-    "off": "50% OFF",
-    "tag": "🎟 Resgate na página: 10% OFF c"
   }
 ]

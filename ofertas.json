@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795734422.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 127V",
+    "preco_de": "R$ 575,00",
+    "preco_por": "R$ 289,00",
+    "off": "50% OFF",
+    "tag": "🎟 NOVO CUPOM MERCADO LIVRE"
+  },
+  {
     "imagem": "v_1795734403.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 396,69",
     "off": "5% OFF",
     "tag": "🎟 Cupom: PROMOAGORA ou MELHORO"
-  },
-  {
-    "imagem": "v_1795734120.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ FORMA PARA  BROWNIE  - 31.5X31.5X3",
-    "preco_de": "",
-    "preco_por": "R$ 47,90",
-    "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

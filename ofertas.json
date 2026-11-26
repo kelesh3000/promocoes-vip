@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795734403.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Kappa Park 2.0 Original Unissex Caminhada Academia",
+    "preco_de": "R$ 169,00",
+    "preco_por": "R$ 71,15",
+    "off": "58% OFF",
+    "tag": "🎟 Resgate na página: Activaste"
+  },
+  {
     "imagem": "v_1795734355.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 47,90",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795733939.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "KIT SHAMPOO V-FLOC CERA TOK FINAL REVITALIZADOR INTENSE 240ML VONIXX PRETIN",
-    "preco_de": "R$ 102,79",
-    "preco_por": "R$ 85,52",
-    "off": "17% OFF",
-    "tag": "🎟 Cupom: AUTOVIP"
   }
 ]

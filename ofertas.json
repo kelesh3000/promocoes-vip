@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795733160.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Torneira Egyto Dourada Alta para Banheiro em Metal Premium GoldenX",
+    "preco_de": "R$ 398,33",
+    "preco_por": "R$ 239,00",
+    "off": "40% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795732870.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 56,33",
     "off": "53% OFF",
     "tag": "🎟 Resgate na página: R$ 52 com"
-  },
-  {
-    "imagem": "v_1795732474.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Volante Gamer G29 Driving Force Logitech G",
-    "preco_de": "R$ 1.999,00",
-    "preco_por": "R$ 1.499,00",
-    "off": "25% OFF",
-    "tag": "🎟 Cupom: NKLCAN79"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795662295.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Samsung Smart TV 70\" Crystal UHD 4K U8000H 2027",
+    "preco_de": "R$ 5.199,00",
+    "preco_por": "R$ 3.699,00",
+    "off": "29% OFF",
+    "tag": "🎟 Cupom BLACK100OFF 🎟️"
+  },
+  {
     "imagem": "v_1795662270.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 36,90",
     "preco_por": "R$ 14,02",
     "off": "62% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795661801.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Parafusadeira Furadeira The Black Tools TB12A 3/8 a Bateria Cor Amarelo Fre",
-    "preco_de": "R$ 119,00",
-    "preco_por": "R$ 59,30",
-    "off": "50% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

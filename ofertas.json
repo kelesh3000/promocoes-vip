@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795737061.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Fritadeira Air Fryer Philco 16 Litros Paf16c",
+    "preco_de": "R$ 623,00",
+    "preco_por": "R$ 419,00",
+    "off": "33% OFF",
+    "tag": "🎟 Cupom: SOHOJE"
+  },
+  {
     "imagem": "v_1795736998.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 409,90",
     "off": "32% OFF",
     "tag": "🎟 Cupom: SOHOJE"
-  },
-  {
-    "imagem": "v_1795736767.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Colchão Casal Emma Basics 17 – 138x188cm - Espuma D28 17cm com Tecnologia A",
-    "preco_de": "R$ 1.999,00",
-    "preco_por": "R$ 911,70",
-    "off": "54% OFF",
-    "tag": "🎟 Cupom: MELHOROFERTA 🎟️"
   }
 ]

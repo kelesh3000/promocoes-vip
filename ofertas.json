@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795709163.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Kit 2 Prateleiras Canaleta porta temperos multiuso MDF",
+    "preco_de": "R$ 140,61",
+    "preco_por": "R$ 89,99",
+    "off": "36% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795709068.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 321,06",
     "off": "15% OFF",
     "tag": "🎟 NOVO CUPOM MERCADO LIVRE 🚨"
-  },
-  {
-    "imagem": "v_1795708727.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Achocolatado em Cápsula Nescafé Dolce Gusto Kopenhagen Língua de Gato 10 cá",
-    "preco_de": "R$ 26,39",
-    "preco_por": "R$ 13,49 à vista",
-    "off": "49% OFF",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

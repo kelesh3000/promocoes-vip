@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795736548.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Fone Bluetooth Samsung Galaxy Buds Core Preto",
+    "preco_de": "R$ 1.099,00",
+    "preco_por": "R$ 209,00",
+    "off": "81% OFF",
+    "tag": "🎟 Cupom: SOHOJE 🎟️"
+  },
+  {
     "imagem": "v_1795736523.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 92,42",
     "off": "54% OFF",
     "tag": "🎟 Cupom: SOHOJE"
-  },
-  {
-    "imagem": "v_1795736357.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Cama Box Baú Casal Colchão Molas Flora Bege 138x188x61cm",
-    "preco_de": "R$ 1.550,00",
-    "preco_por": "R$ 899,00",
-    "off": "42% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

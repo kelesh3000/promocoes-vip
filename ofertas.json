@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795662012.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa ",
+    "preco_de": "R$ 36,90",
+    "preco_por": "R$ 14,02",
+    "off": "62% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795661801.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 75,42",
     "off": "59% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795661313.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Dr. Peanut Pasta de Amendoim Avelã 600G - Com Whey Protein",
-    "preco_de": "R$ 47,99",
-    "preco_por": "R$ 35,15",
-    "off": "27% OFF",
-    "tag": "🎟 Cupom: PROTEIN"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795662715.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg",
+    "preco_de": "R$ 4.838,90",
+    "preco_por": "R$ 2.959,00",
+    "off": "39% OFF",
+    "tag": "🎟 Cupom: BLACK100OFF"
+  },
+  {
     "imagem": "v_1795662596.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "Confira no link",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795662396.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Galaxy Tab S10 Lite, 128GB, Tela 10.9\", WIFI, Vermelho",
-    "preco_de": "R$ 3.149,00",
-    "preco_por": "R$ 1.490,00 à vista",
-    "off": "53% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

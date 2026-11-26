@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795737300.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Air Fryer Kitchen Art 16l 4 Em 1 Espeto Rotisserie Kaf16a",
+    "preco_de": "R$ 620,00",
+    "preco_por": "R$ 391,92",
+    "off": "37% OFF",
+    "tag": "🎟 Cupom: SOHOJE"
+  },
+  {
     "imagem": "v_1795737213.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 141,90",
     "off": "10% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795737061.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Fritadeira Air Fryer Philco 16 Litros Paf16c",
-    "preco_de": "R$ 623,00",
-    "preco_por": "R$ 419,00",
-    "off": "33% OFF",
-    "tag": "🎟 Cupom: SOHOJE"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795725411.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Principia Kit Trio Limpeza Facial Personalizada",
+    "preco_de": "R$ 157,00",
+    "preco_por": "R$ 117,75",
+    "off": "25% OFF",
+    "tag": "🎟 Cupom: BELEZA20 🎟️"
+  },
+  {
     "imagem": "v_1795725323.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 792,27",
     "preco_por": "R$ 205,99",
     "off": "74% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795725001.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Chuveiro Elétrico De Parede Lorenzetti Acqua Ultra Storm Preto 220v 7800",
-    "preco_de": "R$ 592,47",
-    "preco_por": "R$ 455,91 no Pix",
-    "off": "23% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

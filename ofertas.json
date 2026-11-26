@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795707242.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Suporte De Cozinha Porta Talheres 50cm Cromado Com  8 Ganchos",
+    "preco_de": "R$ 89,02",
+    "preco_por": "R$ 73,00",
+    "off": "18% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795707072.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 529,00",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795706709.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Whey Protein Concentrado Baunilha Pote 900g – Contribui para o Ganho Muscul",
-    "preco_de": "R$ 213,67",
-    "preco_por": "R$ 149,90",
-    "off": "30% OFF",
-    "tag": "🎟 Cupom: HEALTH"
   }
 ]

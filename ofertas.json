@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795709621.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Mochila Phase Backpack Puma",
+    "preco_de": "R$ 229,00",
+    "preco_por": "R$ 99,90",
+    "off": "56% OFF",
+    "tag": "🎟 Cupom: MAISDESCONTODEZ 🎟️"
+  },
+  {
     "imagem": "v_1795709591.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 140,61",
     "preco_por": "R$ 89,99",
     "off": "36% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795709068.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Samsung Smart TV 50\" Mini LED 4K M75H 26/2027",
-    "preco_de": "R$ 3.799,00",
-    "preco_por": "R$ 2.199,00",
-    "off": "42% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

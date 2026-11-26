@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795734120.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ FORMA PARA  BROWNIE  - 31.5X31.5X3",
+    "preco_de": "",
+    "preco_por": "R$ 47,90",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795733939.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 769,98",
     "off": "48% OFF",
     "tag": "🎟 Cupom: MODOTECH ou TECHVIP"
-  },
-  {
-    "imagem": "v_1795733640.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Kit 6 Sacos Organizadores a Vácuo com Cabide para Pendurar Roupas no Gua",
-    "preco_de": "R$ 199,97",
-    "preco_por": "R$ 79,99",
-    "off": "60% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795723116.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Camiseta Tech Light Insider Masculino",
+    "preco_de": "R$ 189,00",
+    "preco_por": "R$ 64,26",
+    "off": "66% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795723082.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 448,11",
     "off": "36% OFF",
     "tag": "🎟 Cupom: PROMOAGORA 🎟️"
-  },
-  {
-    "imagem": "v_1795722601.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Panela de Pressão Antiaderente Cerâmico 4,2 Litros Indução Marmol Fecham",
-    "preco_de": "R$ 440,51",
-    "preco_por": "R$ 246,91 no Pix",
-    "off": "44% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

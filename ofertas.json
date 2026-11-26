@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795664339.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Monitor Gamer Philips Evnia 27 Ips Fhd 27m2n3200nf Preto 127",
+    "preco_de": "R$ 1.999,00",
+    "preco_por": "R$ 597,08",
+    "off": "70% OFF",
+    "tag": "🎟 Cupom: MELIXF9"
+  },
+  {
     "imagem": "v_1795664236.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.971,59",
     "off": "13% OFF",
     "tag": "🎟 Cupom: MODOCASA 🎟️"
-  },
-  {
-    "imagem": "v_1795663871.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Air Fryer Philco 9,5L Visor Glass Redstone 1800W PAF95A 220V",
-    "preco_de": "R$ 579,00",
-    "preco_por": "R$ 285,90",
-    "off": "51% OFF",
-    "tag": "🎟 Cupom: IMPERDIVEL30"
   }
 ]

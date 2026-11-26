@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795663726.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Geladeira Electrolux Frost Free 320L Duplex Branca (TF38)",
+    "preco_de": "R$ 3.049,00",
+    "preco_por": "R$ 2.299,00",
+    "off": "25% OFF",
+    "tag": "🎟 Cupom: MELIXF9"
+  },
+  {
     "imagem": "v_1795663647.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.108,00",
     "off": "23% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795663307.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Fonte XPG Core Reactor II VE, 850W, 80 Plus Gold, ATX 3.1 PCIe 5.1, Full Mo",
-    "preco_de": "R$ 611,00",
-    "preco_por": "R$ 450,49",
-    "off": "26% OFF",
-    "tag": "🎟 Cupom: MELIXF9"
   }
 ]

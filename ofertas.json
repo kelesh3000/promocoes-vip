@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795653525.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Refrigerante Fanta Guaraná Zero Açúcar, 6 Unidades de 350ml",
+    "preco_de": "",
+    "preco_por": "R$ 13,77",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795653368.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "",
     "preco_por": "R$ 57,76",
     "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795653067.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Secador De Salada Centrífuga Manual 4 Litros Seca ​Folhas Verduras E Legume",
-    "preco_de": "R$ 78,51",
-    "preco_por": "R$ 47,89",
-    "off": "39% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

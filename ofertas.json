@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795725323.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Wella Treatment Oil Reflections Light 100ml",
+    "preco_de": "R$ 193,00",
+    "preco_por": "R$ 96,51",
+    "off": "50% OFF",
+    "tag": "🎟 Resgate na página: 10% OFF c"
+  },
+  {
     "imagem": "v_1795725115.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 455,91 no Pix",
     "off": "23% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795724770.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Smart Tv Tcl 55 Qled 4k P8ls Bluetooth Google Tv 55p8ls",
-    "preco_de": "R$ 6.599,00",
-    "preco_por": "R$ 2.999,00",
-    "off": "55% OFF",
-    "tag": "🎟 Cupom: TECHVIP 🎟️"
   }
 ]

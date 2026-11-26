@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795717032.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Oferta Amazon",
+    "preco_de": "",
+    "preco_por": "R$ 3,95",
+    "off": "VIP",
+    "tag": "🎟 CUPOM AMAZON"
+  },
+  {
     "imagem": "v_1795716843.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 30,76",
     "preco_por": "R$ 23,99",
     "off": "22% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795716363.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️  Panela  de Pressão 4,5L Antiaderente Fechamento Externo Teflon Cinza Ve",
-    "preco_de": "R$ 226,53",
-    "preco_por": "R$ 137,74 no Pix",
-    "off": "39% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

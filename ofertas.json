@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795708727.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Achocolatado em Cápsula Nescafé Dolce Gusto Kopenhagen Língua de Gato 10 cá",
+    "preco_de": "R$ 26,39",
+    "preco_por": "R$ 13,49 à vista",
+    "off": "49% OFF",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795708682.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 86,81 à vista",
     "off": "48% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795708386.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Caffeine Army Supercoffee Classic Size Sabor Doce De Leite 380g",
-    "preco_de": "R$ 216,00",
-    "preco_por": "R$ 179,99",
-    "off": "17% OFF",
-    "tag": "🎟 Cupom: MAISDESCONTODEZ"
   }
 ]

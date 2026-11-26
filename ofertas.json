@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795722716.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Cadeira Escritório Ergonômica Genebra G500 NR-17 Luvinco Cor Cinza Com Supo",
+    "preco_de": "R$ 705,00",
+    "preco_por": "R$ 448,11",
+    "off": "36% OFF",
+    "tag": "🎟 Cupom: PROMOAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795722601.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 2.290,00",
     "preco_por": "R$ 1.249,00",
     "off": "45% OFF",
-    "tag": "🎟 Cupom: MELIEBG 🎟️"
-  },
-  {
-    "imagem": "v_1795722305.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Smart TV Philco 60\" P60VIK 4K UHD LED Roku Dolby Audio Wi-Fi HDR10",
-    "preco_de": "R$ 4.999,00",
-    "preco_por": "R$ 2.599,00",
-    "off": "48% OFF",
     "tag": "🎟 Cupom: MELIEBG 🎟️"
   }
 ]

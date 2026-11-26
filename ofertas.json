@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795736040.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️  Açucareiro Oásis de Cerâmica c/ Tampa e Colher Preto 360ml",
+    "preco_de": "",
+    "preco_por": "R$ 39,90",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795736003.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.793,08",
     "off": "8% OFF",
     "tag": "🎟 Cupom: MODOCASA 🎟️"
-  },
-  {
-    "imagem": "v_1795735730.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-    "preco_de": "R$ 2.529,00",
-    "preco_por": "R$ 1.949,48",
-    "off": "23% OFF",
-    "tag": "🎟 Cupom: MODOCASA"
   }
 ]

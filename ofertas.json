@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795729684.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit Cronograma Capilar Wella Fios Perfeitos 3 Produtos",
+    "preco_de": "R$ 465,00",
+    "preco_por": "R$ 278,76",
+    "off": "40% OFF",
+    "tag": "🎟 Cupom: PROMOAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795729546.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 209,00 no Pix",
     "off": "48% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795729272.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Frigobar Electrolux 47L Efficient com Controle de Temperatura Cor Branca EM",
-    "preco_de": "R$ 989,00",
-    "preco_por": "R$ 674,10",
-    "off": "32% OFF",
-    "tag": "🎟 Cupom: 15ELUX"
   }
 ]

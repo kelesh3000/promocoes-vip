@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795734694.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Máscara Invigo Nutri-enrich 500ml Wella Pro - Nutrição e Hidratação",
+    "preco_de": "R$ 264,00",
+    "preco_por": "R$ 129,97",
+    "off": "51% OFF",
+    "tag": "🎟 Cupom: NDCNHS78 🎟️"
+  },
+  {
     "imagem": "v_1795734599.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 233,02",
     "off": "26% OFF",
     "tag": "🎟 Cupom: NDCNHS78 🎟️"
-  },
-  {
-    "imagem": "v_1795734422.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 127V",
-    "preco_de": "R$ 575,00",
-    "preco_por": "R$ 289,00",
-    "off": "50% OFF",
-    "tag": "🎟 NOVO CUPOM MERCADO LIVRE"
   }
 ]

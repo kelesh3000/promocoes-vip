@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795734979.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Relógio De Pulso Casio Youth W-218H-1AV",
+    "preco_de": "R$ 259,00",
+    "preco_por": "R$ 131,00",
+    "off": "49% OFF",
+    "tag": "🎟 Cupom: MELHOROFERTA 🎟️"
+  },
+  {
     "imagem": "v_1795734976.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 190,00",
     "off": "42% OFF",
     "tag": "🎟 _Aplique o cupom de R$30 OFF"
-  },
-  {
-    "imagem": "v_1795734694.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Máscara Invigo Nutri-enrich 500ml Wella Pro - Nutrição e Hidratação",
-    "preco_de": "R$ 264,00",
-    "preco_por": "R$ 129,97",
-    "off": "51% OFF",
-    "tag": "🎟 Cupom: NDCNHS78 🎟️"
   }
 ]

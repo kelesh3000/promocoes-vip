@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795735392.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
+    "preco_de": "R$ 229,00",
+    "preco_por": "R$ 78,90",
+    "off": "66% OFF",
+    "tag": "🎟 Cupom: AGORAMODA 🎟️"
+  },
+  {
     "imagem": "v_1795735389.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 9,89 à vista",
     "off": "47% OFF",
     "tag": "🎟 selecione \"Programe e Poupe\""
-  },
-  {
-    "imagem": "v_1795735246.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Perfume Arabe Opulent Dubai Eau De Parfum 100 ML Original Com Nf",
-    "preco_de": "R$ 228,00",
-    "preco_por": "R$ 147,20",
-    "off": "35% OFF",
-    "tag": "🎟 _Aplique o cupom de R$30 OFF"
   }
 ]

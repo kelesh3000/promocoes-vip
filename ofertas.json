@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795713718.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tinta Acrílica Cor Branco Neve Parede Nova Super Econômica",
+    "preco_de": "R$ 238,00",
+    "preco_por": "R$ 131,99",
+    "off": "45% OFF",
+    "tag": "🎟 Cupom: DESCONTOHOJE 🎟️"
+  },
+  {
     "imagem": "v_1795713673.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 107,90",
     "off": "54% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795713386.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Combo Egeo Choc High Desodorante Colônia 90ml (2 itens)",
-    "preco_de": "R$ 329,00",
-    "preco_por": "R$ 132,68",
-    "off": "60% OFF",
-    "tag": "🎟 Cupom: DESCONTOHOJE 🎟️"
   }
 ]

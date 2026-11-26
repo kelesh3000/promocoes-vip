@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795713527.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Bateria Carregador Portátil 2x Usb-c, 10000mah, 25w",
+    "preco_de": "R$ 229,00",
+    "preco_por": "R$ 139,00",
+    "off": "39% OFF",
+    "tag": "🎟 Cupom: SUPEROFERTA"
+  },
+  {
     "imagem": "v_1795713482.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 280,80",
     "off": "53% OFF",
     "tag": "🎟 Cupom: OFERTAVIP 🎟️"
-  },
-  {
-    "imagem": "v_1795713252.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Geladeira Brastemp B= Smart Frost Free 3 Portas 486L - BRO78",
-    "preco_de": "R$ 5.199,00",
-    "preco_por": "R$ 4.279,00",
-    "off": "18% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

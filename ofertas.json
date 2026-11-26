@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795706307.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Camiseta Masculina Academia Dry Lupo Blusa Sport Fit",
+    "preco_de": "R$ 78,00",
+    "preco_por": "R$ 57,99",
+    "off": "26% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795706284.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 124,44",
     "off": "VIP",
     "tag": "🎟 Cupom: MAISDESCONTODEZ 🎟️"
-  },
-  {
-    "imagem": "v_1795706181.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Apple iPhone 16 (256 GB) – Preto",
-    "preco_de": "R$ 7.599,00",
-    "preco_por": "R$ 4.399,00",
-    "off": "42% OFF",
-    "tag": "🎟 Cupom: 15IMPERDIVEL"
   }
 ]

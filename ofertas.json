@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795712310.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Electrolux Kit 12 Potes Herméticos de Plástico Retangulares",
+    "preco_de": "R$ 119,00",
+    "preco_por": "R$ 64,90",
+    "off": "45% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795712105.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 369,90",
     "off": "38% OFF",
     "tag": "🎟 Cupom: PROMOAGORA 🎟️"
-  },
-  {
-    "imagem": "v_1795711873.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Principia Kit Cremes Hidratantes Rosto E Corpo Ch-01 + Ch-02 Seca Dia/noite",
-    "preco_de": "R$ 88,00",
-    "preco_por": "R$ 72,16",
-    "off": "18% OFF",
-    "tag": "🎟 Cupom: BELEZABLACK 🎟️"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795717173.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Console Nintendo Switch 2 + Mario Kart World Bundle Preto",
+    "preco_de": "R$ 5.646,00",
+    "preco_por": "R$ 3.821,84",
+    "off": "32% OFF",
+    "tag": "🎟 Cupom: MODOTECH 🎟️"
+  },
+  {
     "imagem": "v_1795717032.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 99,90",
     "off": "52% OFF",
     "tag": "🎟 Cupom: AMLQOGSTENZ 🎟️"
-  },
-  {
-    "imagem": "v_1795716427.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Oferta Imperdível Shopee",
-    "preco_de": "R$ 30,76",
-    "preco_por": "R$ 23,99",
-    "off": "22% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

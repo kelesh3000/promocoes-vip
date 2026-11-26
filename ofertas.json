@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795663307.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Fonte XPG Core Reactor II VE, 850W, 80 Plus Gold, ATX 3.1 PCIe 5.1, Full Mo",
+    "preco_de": "R$ 611,00",
+    "preco_por": "R$ 450,49",
+    "off": "26% OFF",
+    "tag": "🎟 Cupom: MELIXF9"
+  },
+  {
     "imagem": "v_1795663247.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 539,10",
     "off": "10% OFF",
     "tag": "🎟 Cupom: MELIXF9"
-  },
-  {
-    "imagem": "v_1795662974.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, ",
-    "preco_de": "R$ 6.999,00",
-    "preco_por": "R$ 2.799,00",
-    "off": "60% OFF",
-    "tag": "🎟 Cupom: SAMSUNG200 + BLACK100"
   }
 ]

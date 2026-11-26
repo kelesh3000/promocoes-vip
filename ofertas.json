@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795717216.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Máquina de Lavar Electrolux 15kg Branca Essential Care com Cesto Inox e Jet",
+    "preco_de": "R$ 2.299,00",
+    "preco_por": "R$ 1.849,00",
+    "off": "20% OFF",
+    "tag": "🎟 Cupom: MODOTECH 🎟️"
+  },
+  {
     "imagem": "v_1795717173.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 94,91 no Pix",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795716831.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Uomini Infinite Colônia 100ml (nova Embalagem)",
-    "preco_de": "R$ 209,00",
-    "preco_por": "R$ 99,90",
-    "off": "52% OFF",
-    "tag": "🎟 Cupom: AMLQOGSTENZ 🎟️"
   }
 ]

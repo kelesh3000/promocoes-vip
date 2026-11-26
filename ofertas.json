@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795720170.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Pack Nestlé Purina Friskies Ração Úmida Para Gatos Adultos Carne Ao Molho -",
+    "preco_de": "R$ 55,90",
+    "preco_por": "R$ 28,36 à vista",
+    "off": "49% OFF",
+    "tag": "🎟 Selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795719930.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 393,98",
     "preco_por": "R$ 348,08 no Pix",
     "off": "12% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795719678.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Edredom Dupla Face Casal Queen 2,20x 2,40m",
-    "preco_de": "R$ 67,34",
-    "preco_por": "R$ 65,99",
-    "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

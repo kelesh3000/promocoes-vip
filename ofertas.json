@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795719930.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit Nuti-enrich Duo - 2 L",
+    "preco_de": "R$ 446,00",
+    "preco_por": "R$ 236,70",
+    "off": "47% OFF",
+    "tag": "🎟 Cupom: PROMOAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795719889.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 65,99",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795719342.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Philips OneBlade Aparador e Barbeador Elétrico com Pente Ajustável 5 em 1 |",
-    "preco_de": "R$ 212,00",
-    "preco_por": "R$ 126,94",
-    "off": "40% OFF",
-    "tag": "🎟 Cupom: AMOPADTYQID 🎟️"
   }
 ]

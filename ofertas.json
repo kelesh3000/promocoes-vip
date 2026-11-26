@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795663422.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Monitor Samsung Viewfinity S5 34\" WQHD Ultrawide 100Hz",
+    "preco_de": "R$ 1.437,49",
+    "preco_por": "R$ 1.108,00",
+    "off": "23% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795663307.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 539,00",
     "preco_por": "R$ 499,00",
     "off": "7% OFF",
-    "tag": "🎟 Cupom: MELIXF9"
-  },
-  {
-    "imagem": "v_1795663064.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Monitor Gamer AOC AGON G50 27\" 144Hz 0,5ms IPS HDR10 G-SYNC 27G50F",
-    "preco_de": "R$ 599,00",
-    "preco_por": "R$ 539,10",
-    "off": "10% OFF",
     "tag": "🎟 Cupom: MELIXF9"
   }
 ]

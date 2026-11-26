@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795729475.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Cafeteira Tres Automática Lov Vermelha Vermelho",
+    "preco_de": "R$ 630,00",
+    "preco_por": "R$ 312,55",
+    "off": "50% OFF",
+    "tag": "🎟 Cupom: PROMOAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795729323.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.024,92",
     "off": "17% OFF",
     "tag": "🎟 Cupom: TECHVIP 🎟️"
-  },
-  {
-    "imagem": "v_1795729124.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "WAP Robô Aspirador Robot W90 3 em 1, 250ml, Bivolt, Sistema Antiqueda",
-    "preco_de": "R$ 549,90",
-    "preco_por": "R$ 297,40 à vista",
-    "off": "46% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

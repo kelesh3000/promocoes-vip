@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795658520.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+    "preco_de": "",
+    "preco_por": "R$ 399,12",
+    "off": "VIP",
+    "tag": "🎟 Cupom: 52621"
+  },
+  {
     "imagem": "v_1795658403.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 62,86",
     "preco_por": "R$ 33,29 à vista",
     "off": "47% OFF",
-    "tag": "🎟 Selecione \"Programe e Poupe\""
-  },
-  {
-    "imagem": "v_1795657980.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Creme Crocante Ovomaltine, 260g",
-    "preco_de": "",
-    "preco_por": "R$ 199,99",
-    "off": "VIP",
     "tag": "🎟 Selecione \"Programe e Poupe\""
   }
 ]

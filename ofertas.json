@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795725115.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Principia Kit Dupla Diária Com Fps 60 Todo Tipo De Pele Dia/noite",
+    "preco_de": "R$ 88,00",
+    "preco_por": "R$ 72,16",
+    "off": "18% OFF",
+    "tag": "🎟 Cupom: BELEZA20"
+  },
+  {
     "imagem": "v_1795725075.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.999,00",
     "off": "55% OFF",
     "tag": "🎟 Cupom: TECHVIP 🎟️"
-  },
-  {
-    "imagem": "v_1795724701.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Suporte Tripé Celular Smartphone De Mesa Escritório 360º",
-    "preco_de": "R$ 23,02",
-    "preco_por": "R$ 12,89",
-    "off": "44% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

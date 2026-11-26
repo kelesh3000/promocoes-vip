@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795722305.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Smart TV Philco 60\" P60VIK 4K UHD LED Roku Dolby Audio Wi-Fi HDR10",
+    "preco_de": "R$ 4.999,00",
+    "preco_por": "R$ 2.599,00",
+    "off": "48% OFF",
+    "tag": "🎟 Cupom: MELIEBG 🎟️"
+  },
+  {
     "imagem": "v_1795722274.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 345,59",
     "off": "31% OFF",
     "tag": "🎟 Cupom: PROMOAGORA + VIPTECH"
-  },
-  {
-    "imagem": "v_1795722025.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Lava Louças 8 Serviços Branco Touch Plus Midea",
-    "preco_de": "R$ 2.249,00",
-    "preco_por": "R$ 1.599,00",
-    "off": "29% OFF",
-    "tag": "🎟 Cupom: MELIEBG 🎟️"
   }
 ]

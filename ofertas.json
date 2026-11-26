@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795733659.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Impressora Epson Ecotank L1250 Tanque De Tinta Colorida Cor Preto",
+    "preco_de": "R$ 1.470,00",
+    "preco_por": "R$ 769,98",
+    "off": "48% OFF",
+    "tag": "🎟 Cupom: MODOTECH ou TECHVIP"
+  },
+  {
     "imagem": "v_1795733640.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.499,90",
     "off": "26% OFF",
     "tag": "🎟 Cupom: TECHVIP 🎟️"
-  },
-  {
-    "imagem": "v_1795733250.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Invictus de Rabanne Eau de Toilette 100 ml",
-    "preco_de": "R$ 779,00",
-    "preco_por": "R$ 394,68",
-    "off": "49% OFF",
-    "tag": "🎟 Cupom: PROMOAGORA"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795736003.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 4 Cuecas Boxer Lupo Algodão Confortável Box Original",
+    "preco_de": "R$ 299,00",
+    "preco_por": "R$ 61,74",
+    "off": "79% OFF",
+    "tag": "🎟 Cupom: AGORAMODA 🎟️"
+  },
+  {
     "imagem": "v_1795735974.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.949,48",
     "off": "23% OFF",
     "tag": "🎟 Cupom: MODOCASA"
-  },
-  {
-    "imagem": "v_1795735649.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 2 Camisetas Gota Pica Pau Bordado Reserva",
-    "preco_de": "R$ 238,00",
-    "preco_por": "R$ 110,87",
-    "off": "53% OFF",
-    "tag": "🎟 Cupom: SOHOJE 🎟️"
   }
 ]

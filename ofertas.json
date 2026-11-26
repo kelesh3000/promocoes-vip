@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795662938.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 2",
+    "preco_de": "R$ 5.973,24",
+    "preco_por": "R$ 4.498,00",
+    "off": "25% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795662828.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.952,00",
     "off": "28% OFF",
     "tag": "🎟 Cupom: 1000G"
-  },
-  {
-    "imagem": "v_1795662473.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Ar condicionado Split Hi Wall Gree G-Side Auto Inverter 12.000 Btus Frio 22",
-    "preco_de": "",
-    "preco_por": "R$ 1.879,00",
-    "off": "VIP",
-    "tag": "🎟 Cupom: BLACK100OFF 🎟️"
   }
 ]

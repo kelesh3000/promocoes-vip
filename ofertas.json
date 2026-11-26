@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795735347.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Panettone Lindt Gotas de Chocolate 400g",
+    "preco_de": "R$ 89,11",
+    "preco_por": "R$ 49,90",
+    "off": "44% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795735342.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 386,89 no Pix",
     "off": "29% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795734979.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Relógio De Pulso Casio Youth W-218H-1AV",
-    "preco_de": "R$ 259,00",
-    "preco_por": "R$ 131,00",
-    "off": "49% OFF",
-    "tag": "🎟 Cupom: MELHOROFERTA 🎟️"
   }
 ]

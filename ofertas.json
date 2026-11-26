@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795729272.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Frigobar Electrolux 47L Efficient com Controle de Temperatura Cor Branca EM",
+    "preco_de": "R$ 989,00",
+    "preco_por": "R$ 674,10",
+    "off": "32% OFF",
+    "tag": "🎟 Cupom: 15ELUX"
+  },
+  {
     "imagem": "v_1795729255.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.788,99",
     "off": "7% OFF",
     "tag": "🎟 Cupom: TECHVIP ou PROMOTOP"
-  },
-  {
-    "imagem": "v_1795728840.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Escrivaninha De Escritório Home Office Berlim Em L Mesa Estilo  Industri",
-    "preco_de": "R$ 287,38",
-    "preco_por": "R$ 196,57 no Pix",
-    "off": "32% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

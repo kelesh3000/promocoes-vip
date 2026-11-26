@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795718778.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Conjunto De Bowls Tigelas De Inox Com Tampa Plástica",
+    "preco_de": "R$ 79,00",
+    "preco_por": "R$ 75,90",
+    "off": "VIP",
+    "tag": "🎟 Cupom: OFERTAVIP 🎟️"
+  },
+  {
     "imagem": "v_1795718764.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 19,99",
     "off": "50% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795718394.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis adidas Duramo Rc2 Caminhada Treino Academia",
-    "preco_de": "R$ 709,00",
-    "preco_por": "R$ 220,02",
-    "off": "69% OFF",
-    "tag": "🎟 Cupom: MPODAWSB82GA6 🎟️"
   }
 ]

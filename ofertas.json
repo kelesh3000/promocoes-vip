@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795662396.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Galaxy Tab S10 Lite, 128GB, Tela 10.9\", WIFI, Vermelho",
+    "preco_de": "R$ 3.149,00",
+    "preco_por": "R$ 1.490,00 à vista",
+    "off": "53% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795662295.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "Confira no link",
     "off": "VIP",
     "tag": "🎟 CUPOM AMAZON"
-  },
-  {
-    "imagem": "v_1795662012.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa ",
-    "preco_de": "R$ 36,90",
-    "preco_por": "R$ 14,02",
-    "off": "62% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

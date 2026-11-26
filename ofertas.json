@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795735342.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Caixa de Variedades Favoritos Lacta 250,6g",
+    "preco_de": "R$ 18,49",
+    "preco_por": "R$ 9,89 à vista",
+    "off": "47% OFF",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795735246.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 131,00",
     "off": "49% OFF",
     "tag": "🎟 Cupom: MELHOROFERTA 🎟️"
-  },
-  {
-    "imagem": "v_1795734976.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Conjunto Travessa Saladeira Baixelas Para Servir Ryo Maresia Areia  Oxford ",
-    "preco_de": "R$ 150,73",
-    "preco_por": "R$ 105,51",
-    "off": "30% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

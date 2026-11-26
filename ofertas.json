@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795706181.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Apple iPhone 16 (256 GB) – Preto",
+    "preco_de": "R$ 7.599,00",
+    "preco_por": "R$ 4.399,00",
+    "off": "42% OFF",
+    "tag": "🎟 Cupom: 15IMPERDIVEL"
+  },
+  {
     "imagem": "v_1795706156.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 229,99",
     "off": "53% OFF",
     "tag": "🎟 Cupom: MAISDESCONTODEZ 🎟️"
-  },
-  {
-    "imagem": "v_1795705944.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "O Boticário Quasar Deep Blue Desodorante Colônia 100ml",
-    "preco_de": "R$ 189,00",
-    "preco_por": "R$ 99,90",
-    "off": "47% OFF",
-    "tag": "🎟 Cupom: MAISDESCONTODEZ"
   }
 ]

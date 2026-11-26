@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795666398.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Notebook Lenovo IdeaPad Slim 3i 15.3\" - Intel Core i5-13420H, 8GB RAM, 256G",
+    "preco_de": "R$ 3.899,00",
+    "preco_por": "R$ 2.897,00",
+    "off": "26% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795666085.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 139,00",
     "preco_por": "R$ 40,00",
     "off": "71% OFF",
-    "tag": "🎟 Cupom: IMPERDIVEL15 🎟️"
-  },
-  {
-    "imagem": "v_1795665749.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Calvin Klein Eternity for Men EDT 50ml + Body Lotion 100ml",
-    "preco_de": "R$ 539,00",
-    "preco_por": "R$ 194,00",
-    "off": "64% OFF",
     "tag": "🎟 Cupom: IMPERDIVEL15 🎟️"
   }
 ]

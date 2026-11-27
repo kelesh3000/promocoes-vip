@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795802809.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Whisky Johnnie Walker Red Label 750ml",
+    "preco_de": "R$ 92,90",
+    "preco_por": "R$ 49,00",
+    "off": "47% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795802673.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.000,92",
     "off": "45% OFF",
     "tag": "🎟 Use o cupom: CUPONOMOVEIS"
-  },
-  {
-    "imagem": "v_1795802216.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit Principia para Rotina de Skincare Pele Sensível com Protetor Solar FPS ",
-    "preco_de": "R$ 137,00",
-    "preco_por": "R$ 67,14",
-    "off": "51% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795789456.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Casual Masculino Break Start adidas",
+    "preco_de": "R$ 399,00",
+    "preco_por": "R$ 218,50",
+    "off": "45% OFF",
+    "tag": "🎟 Cupom: RELAMPAGO 🎟️"
+  },
+  {
     "imagem": "v_1795789412.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 380,00",
     "off": "62% OFF",
     "tag": "🎟 Cupom: RELAMPAGO 🎟️"
-  },
-  {
-    "imagem": "v_1795789282.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Samsung Smart TV 75\" Crystal UHD 4K U8000H 26/2027",
-    "preco_de": "R$ 4.544,00",
-    "preco_por": "R$ 4.089,69",
-    "off": "10% OFF",
-    "tag": "🎟 Cupom: BFIN2711XX"
   }
 ]

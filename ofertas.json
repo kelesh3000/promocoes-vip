@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795819472.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Panettone Lindt Trufado ao Leite 410g",
+    "preco_de": "R$ 109,72",
+    "preco_por": "R$ 79,00",
+    "off": "28% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795819429.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 622,75 no Pix",
     "off": "37% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795818675.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Marvel's Spider-Man: Miles Morales Edição Padrão - PlayStation 5",
-    "preco_de": "",
-    "preco_por": "R$ 145,90",
-    "off": "VIP",
-    "tag": "🎟 Cupom: 19990"
   }
 ]

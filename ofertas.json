@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795750843.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Nintendo Switch Oled + Mario Wonder + 3 Meses Online",
+    "preco_de": "",
+    "preco_por": "Consulte no link",
+    "off": "VIP",
+    "tag": "🎟 Cupom: GANHEBLACK"
+  },
+  {
     "imagem": "v_1795750773.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 439,99",
     "off": "26% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795750705.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Oferta Amazon",
-    "preco_de": "R$ 4.699,90",
-    "preco_por": "R$ 3.999,90",
-    "off": "15% OFF",
-    "tag": "🎟 CUPOM AMAZON"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795806864.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Notebook Acer Aspire Go 15 com Processador Intel Core i3 13ª Geração 8GB de",
+    "preco_de": "R$ 4.427,00",
+    "preco_por": "R$ 2.735,10",
+    "off": "38% OFF",
+    "tag": "🎟 Cupom: MEUDESCONTOBLACK 🎟️"
+  },
+  {
     "imagem": "v_1795806857.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 86,00",
     "off": "VIP",
     "tag": "🎟 Cupom: 12900"
-  },
-  {
-    "imagem": "v_1795806777.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Conjunto Bowls de Inox Electrolux com Tampa Plástica 3 Peças",
-    "preco_de": "R$ 109,45",
-    "preco_por": "R$ 63,92",
-    "off": "42% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

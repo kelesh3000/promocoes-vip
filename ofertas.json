@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795806811.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Batedeira Philco Paris Duo Mixer Turbo 4L 500W 127V",
+    "preco_de": "",
+    "preco_por": "R$ 86,00",
+    "off": "VIP",
+    "tag": "🎟 Cupom: 12900"
+  },
+  {
     "imagem": "v_1795806777.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 116,05",
     "preco_por": "R$ 34,93",
     "off": "70% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795806674.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Wella Professionals Invigo Nutri-Enrich Máscara Capilar 500ml",
-    "preco_de": "R$ 485,37",
-    "preco_por": "R$ 159,20",
-    "off": "67% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

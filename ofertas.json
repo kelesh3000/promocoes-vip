@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795803510.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Chinelo Lacoste Masculino Serve Slide 2.0 - Original",
+    "preco_de": "R$ 349,00",
+    "preco_por": "R$ 192,28",
+    "off": "45% OFF",
+    "tag": "🎟 Cupom: BLACKMELI 🎟️"
+  },
+  {
     "imagem": "v_1795803371.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 218,41 no Pix",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795802809.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Whisky Johnnie Walker Red Label 750ml",
-    "preco_de": "R$ 92,90",
-    "preco_por": "R$ 49,00",
-    "off": "47% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

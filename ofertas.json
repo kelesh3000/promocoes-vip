@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795795959.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ kit 2 Cadeira de Jantar Lua Decorativa Poltrona Lua Sala de Estar Salão ",
+    "preco_de": "R$ 599,97",
+    "preco_por": "R$ 185,99",
+    "off": "69% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795795826.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 114,99",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795795448.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Creatina Monohidratada Sem Sabor - Pote 300g - Suplementação Treino Academi",
-    "preco_de": "R$ 54,00",
-    "preco_por": "R$ 38,00",
-    "off": "30% OFF",
-    "tag": "🎟 Cupom: BLACKSONHO"
   }
 ]

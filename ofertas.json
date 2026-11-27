@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795800322.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Geladeira Brastemp B= Smart Frost Free 3 Portas 630L - BRO88",
+    "preco_de": "R$ 6.699,00",
+    "preco_por": "R$ 5.999,00",
+    "off": "10% OFF",
+    "tag": "🎟 Cupom: SUPEROFF"
+  },
+  {
     "imagem": "v_1795800276.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 205,00",
     "preco_por": "R$ 97,84",
     "off": "52% OFF",
-    "tag": "🎟 Cupom: QEQPLAMDPRASD"
-  },
-  {
-    "imagem": "v_1795799600.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Fritadeira Air Fryer 5,5l Widemax Com Interior De Alumínio 1900w Midea",
-    "preco_de": "R$ 739,00",
-    "preco_por": "R$ 212,41",
-    "off": "71% OFF",
     "tag": "🎟 Cupom: QEQPLAMDPRASD"
   }
 ]

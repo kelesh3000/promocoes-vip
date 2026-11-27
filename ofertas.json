@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795753809.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Celular Samsung Galaxy A17, 128GB, 4GB, 50MP Tela 6.7\", IP54 - Azul",
+    "preco_de": "R$ 1.599,00",
+    "preco_por": "R$ 649,25",
+    "off": "59% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795753729.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.999,00",
     "off": "57% OFF",
     "tag": "🎟 Cupom: 25IMPERDIVEL 🎟️"
-  },
-  {
-    "imagem": "v_1795753408.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Se",
-    "preco_de": "R$ 205,00",
-    "preco_por": "R$ 97,84",
-    "off": "52% OFF",
-    "tag": "🎟 Resgate na página: R$ 42 , 1"
   }
 ]

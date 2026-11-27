@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795796700.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Notebook Vaio Fe16 Amd Ryzen 7 5825u Linux 8gb RAM 512gb Ssd Wi-Fi 6 Tela 1",
+    "preco_de": "R$ 5.099,00",
+    "preco_por": "R$ 3.104,10",
+    "off": "39% OFF",
+    "tag": "🎟 Cupom: TECHNOMELI 🎟️"
+  },
+  {
     "imagem": "v_1795796462.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 701,04",
     "preco_por": "R$ 349,59",
     "off": "50% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795796315.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Quarto de Bebê Completo ​Berço 3 em 1 com Colchão/Guarda-roupa e Cômoda Enc",
-    "preco_de": "R$ 1.106,27",
-    "preco_por": "R$ 674,39",
-    "off": "39% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

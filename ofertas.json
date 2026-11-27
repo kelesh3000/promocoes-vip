@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795807091.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Ar Condicionado Gree G-side Auto Inverter 12000 Btu 220v",
+    "preco_de": "R$ 4.043,00",
+    "preco_por": "R$ 2.045,07",
+    "off": "49% OFF",
+    "tag": "🎟 Cupom: MEUDESCONTOBLACK 🎟️"
+  },
+  {
     "imagem": "v_1795807066.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.510,09",
     "off": "16% OFF",
     "tag": "🎟 Cupom: MEUDESCONTOBLACK"
-  },
-  {
-    "imagem": "v_1795806997.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Tela  Sombrite  90% 6x4m Bainha Reforçada Com Llhos Metálicos",
-    "preco_de": "R$ 403,13",
-    "preco_por": "R$ 122,55 no Pix",
-    "off": "70% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

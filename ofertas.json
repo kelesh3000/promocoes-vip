@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795747768.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Bicicleta Ergométrica Bike Spinning Para Exercícios Com Volante e Display L",
+    "preco_de": "R$ 1.109,00",
+    "preco_por": "R$ 399,59",
+    "off": "64% OFF",
+    "tag": "🎟 Cupom: BAIXOU 🎟️"
+  },
+  {
     "imagem": "v_1795747516.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 63,19",
     "off": "68% OFF",
     "tag": "🎟 CUPOM: AGORAMODA"
-  },
-  {
-    "imagem": "v_1795746455.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "JBL Tune 530BT Fone Bluetooth Over-Ear Sem Fio Branco",
-    "preco_de": "R$ 199,00",
-    "preco_por": "R$ 160,55",
-    "off": "19% OFF",
-    "tag": "🎟 Cupom: 17500"
   }
 ]

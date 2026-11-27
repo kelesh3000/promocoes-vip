@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795788868.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Bundle Nintendo Switch 2 + EA Sports FC 27",
+    "preco_de": "R$ 4.699,00",
+    "preco_por": "R$ 3.989,05",
+    "off": "15% OFF",
+    "tag": "🎟 Cupom: BFIN2711XX"
+  },
+  {
     "imagem": "v_1795788756.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 115,00",
     "off": "58% OFF",
     "tag": "🎟 Cupom: AGORAMODA 🎟️"
-  },
-  {
-    "imagem": "v_1795788433.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Proteína Soldiers Nutrition Suplementação Whey Protein em pó sabor Chocolat",
-    "preco_de": "R$ 429,00",
-    "preco_por": "R$ 142,40",
-    "off": "67% OFF",
-    "tag": "🎟 Cupom: HORABLACK 🎟️"
   }
 ]

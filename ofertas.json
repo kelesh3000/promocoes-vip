@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795793314.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Samsung Galaxy Buds Core Preto",
+    "preco_de": "R$ 499,00",
+    "preco_por": "R$ 196,99",
+    "off": "61% OFF",
+    "tag": "🎟 Cupom: BLACKVIPMELI 🎟️"
+  },
+  {
     "imagem": "v_1795793246.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 82,90",
     "off": "58% OFF",
     "tag": "🎟 Cupom: BLACKVIPMELI 🎟️"
-  },
-  {
-    "imagem": "v_1795793110.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Principia Kit 2 Gel De Limpeza Facial Gl-01",
-    "preco_de": "R$ 108,00",
-    "preco_por": "R$ 54,39",
-    "off": "50% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

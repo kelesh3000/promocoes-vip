@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795813619.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Philips OneBlade Aparador e Barbeador Elétrico com Pente Ajustável 5 em 1 |",
+    "preco_de": "R$ 212,00",
+    "preco_por": "R$ 106,16",
+    "off": "50% OFF",
+    "tag": "🎟 _Aplique o cupom de 15% OFF_"
+  },
+  {
     "imagem": "v_1795813617.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 603,03",
     "preco_por": "R$ 179,00",
     "off": "70% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795813510.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Panela de Pressão Com Indução Brinox Pressure 4,2 L - 20x14,5 cm Vanilla",
-    "preco_de": "R$ 435,26",
-    "preco_por": "R$ 149,73",
-    "off": "66% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

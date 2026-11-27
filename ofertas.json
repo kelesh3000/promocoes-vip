@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795747269.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Britânia Escova Secadora BEC02PR Bivolt 4 em 1 1300W Plástico Rosa/Preto",
+    "preco_de": "R$ 129,90",
+    "preco_por": "R$ 73,90",
+    "off": "43% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795746601.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.249,90",
     "off": "15% OFF",
     "tag": "🎟 Cupom: TECHVIP 🎟️"
-  },
-  {
-    "imagem": "v_1795746284.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis Nike Flex Experience 12 Masculino",
-    "preco_de": "R$ 349,00",
-    "preco_por": "R$ 210,52",
-    "off": "40% OFF",
-    "tag": "🎟 CUPOM: BAIXOU"
   }
 ]

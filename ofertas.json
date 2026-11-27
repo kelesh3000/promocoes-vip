@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795816362.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Camiseta Dry Fit Slim Academia Proteção Uv Voker Original",
+    "preco_de": "R$ 49,00",
+    "preco_por": "R$ 26,23",
+    "off": "46% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795816115.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 130,50",
     "off": "67% OFF",
     "tag": "🎟 Cupom: MODARELAMPAGO 🎟️"
-  },
-  {
-    "imagem": "v_1795815652.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "NIVEA KIT Sabonete Líquido Óleo de Banho 200ml - 2 Unidades",
-    "preco_de": "",
-    "preco_por": "R$ 7,39",
-    "off": "VIP",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

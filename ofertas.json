@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795748878.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Kit  Dove Shampoo 600ml + Condicionador 600ml Reconstrução + Aminoácido",
+    "preco_de": "R$ 70,24",
+    "preco_por": "R$ 41,58",
+    "off": "41% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795748872.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.800,00",
     "off": "85% OFF",
     "tag": "🎟 Cupom: BLACK150 🎟️"
-  },
-  {
-    "imagem": "v_1795748211.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Máscara de Reconstrução Profunda para Cabelos Danificados, Força e Elastici",
-    "preco_de": "R$ 399,00",
-    "preco_por": "R$ 188,10",
-    "off": "53% OFF",
-    "tag": "🎟 CUPOM: KERASTASE15"
   }
 ]

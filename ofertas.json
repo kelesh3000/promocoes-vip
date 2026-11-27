@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795822018.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Kit 4 Pacotes Café Especial em Grãos Coffee Mais Variedades: Cerrado Mineir",
+    "preco_de": "R$ 119,90",
+    "preco_por": "R$ 85,01",
+    "off": "29% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795822004.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 401,35",
     "preco_por": "R$ 118,80",
     "off": "70% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795821892.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Tábua de Corte Inox Dupla Face 5 em 1 com Afiador e Ralador de Alho 36,5x25",
-    "preco_de": "R$ 79,98",
-    "preco_por": "R$ 31,99",
-    "off": "60% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795810648.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Ar Condicionado Split Zen Agratto 12000 Btus Frio 220v",
+    "preco_de": "R$ 2.129,00",
+    "preco_por": "R$ 1.747,47",
+    "off": "18% OFF",
+    "tag": "🎟 Cupom: ACABANDO 🎟️"
+  },
+  {
     "imagem": "v_1795810585.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.967,20",
     "off": "27% OFF",
     "tag": "🎟 Cupom: ACABANDO"
-  },
-  {
-    "imagem": "v_1795810357.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Panela de Pressão Antiaderente  Cerâmico 4,2 Litros Indução Marmol Fecha",
-    "preco_de": "R$ 440,51",
-    "preco_por": "R$ 246,91 no Pix",
-    "off": "44% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

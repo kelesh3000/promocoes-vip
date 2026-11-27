@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795748833.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Ar condicionado Split Hi Wall Gree G-Side Auto Inverter 12.000 Btus Frio 22",
+    "preco_de": "R$ 12.000,00",
+    "preco_por": "R$ 1.800,00",
+    "off": "85% OFF",
+    "tag": "🎟 Cupom: BLACK150 🎟️"
+  },
+  {
     "imagem": "v_1795748211.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 1.059,00",
     "preco_por": "R$ 860,43",
     "off": "19% OFF",
-    "tag": "🎟 Cupom: BAIXOU 🎟️"
-  },
-  {
-    "imagem": "v_1795747768.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Bicicleta Ergométrica Bike Spinning Para Exercícios Com Volante e Display L",
-    "preco_de": "R$ 1.109,00",
-    "preco_por": "R$ 399,59",
-    "off": "64% OFF",
     "tag": "🎟 Cupom: BAIXOU 🎟️"
   }
 ]

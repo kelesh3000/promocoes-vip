@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795822096.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Lava-louça Electrolux 14 Serviços Lava E Seca 50 Min (lp14e) Preto 110v",
+    "preco_de": "R$ 3.748,00",
+    "preco_por": "R$ 3.223,87",
+    "off": "14% OFF",
+    "tag": "🎟 Cupom: ELETRO300 + MELINABLA"
+  },
+  {
     "imagem": "v_1795822018.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.199,00",
     "off": "6% OFF",
     "tag": "🎟 Cupom: MELINABLACK 🎟️"
-  },
-  {
-    "imagem": "v_1795821947.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Gaabor Triturador Processador Carne Legumes 2L 4 Lâminas Aço Tigela Vidro M",
-    "preco_de": "R$ 401,35",
-    "preco_por": "R$ 118,80",
-    "off": "70% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

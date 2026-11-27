@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795803191.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Ar Condicionado Hw Gree G-side Auto Inverter 9k Frio 220v",
+    "preco_de": "R$ 4.992,00",
+    "preco_por": "R$ 1.747,08",
+    "off": "65% OFF",
+    "tag": "🎟 Cupom: BLACKMELI 🎟️"
+  },
+  {
     "imagem": "v_1795803157.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 827,08 no Pix",
     "off": "47% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795802389.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Ar-condicionado Split Gree G-classic 12000 Btus Inverter Branco",
-    "preco_de": "R$ 2.599,00",
-    "preco_por": "R$ 2.117,67",
-    "off": "19% OFF",
-    "tag": "🎟 Use o cupom: SUPEROFF"
   }
 ]

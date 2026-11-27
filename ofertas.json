@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795808257.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Fogão 4 Bocas Atlas Preto Mônaco Top Glass",
+    "preco_de": "R$ 788,42",
+    "preco_por": "R$ 688,42",
+    "off": "13% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795808227.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 98,09",
     "off": "59% OFF",
     "tag": "🎟 _Aplique o cupom de 30% OFF "
-  },
-  {
-    "imagem": "v_1795808086.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Bicicleta Elétrica Gts 500w Scooter Gold Fish Sem Cnh",
-    "preco_de": "R$ 3.799,00",
-    "preco_por": "R$ 3.039,00",
-    "off": "20% OFF",
-    "tag": "🎟 Use o cupom: MEUDESCONTOBLAC"
   }
 ]

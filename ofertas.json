@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795787350.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Relógio Masculino Orient Prateado Quartzo Analógico Fundo Preto Prova D'águ",
+    "preco_de": "R$ 470,00",
+    "preco_por": "R$ 269,10",
+    "off": "43% OFF",
+    "tag": "🎟 Cupom: HORABLACK 🎟️"
+  },
+  {
     "imagem": "v_1795787339.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 231,00",
     "off": "58% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795753699.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Celular Samsung Galaxy A17, 128GB, 4GB, 50MP Tela 6.7\", IP54 - Cinza",
-    "preco_de": "R$ 1.599,00",
-    "preco_por": "R$ 749,00",
-    "off": "53% OFF",
-    "tag": "🎟 Cupom: 15IMPERDIVEL 🎟️"
   }
 ]

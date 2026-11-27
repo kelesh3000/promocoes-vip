@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795750309.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Monitor Gamer Curvo AOC AGON QUAD 32\" 180Hz 0,5ms HDR10 CQ32G4E",
+    "preco_de": "R$ 1.399,00",
+    "preco_por": "R$ 785,55",
+    "off": "44% OFF",
+    "tag": "🎟 Cupom: MAGALUOFF"
+  },
+  {
     "imagem": "v_1795750200.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 109,45",
     "preco_por": "R$ 63,92",
     "off": "42% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795750112.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Kit Coala Laundry + Os Favoritos Chá Branco",
-    "preco_de": "R$ 147,96",
-    "preco_por": "R$ 63,92",
-    "off": "57% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

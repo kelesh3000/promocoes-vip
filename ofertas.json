@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795813729.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Processador AMD Ryzen 7 5700X 3.4GHz (4.6GHz Max Turbo) AM4",
+    "preco_de": "R$ 1.499,00",
+    "preco_por": "R$ 1.042,26",
+    "off": "30% OFF",
+    "tag": "🎟 Cupom: BLACKVIP"
+  },
+  {
     "imagem": "v_1795813713.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 106,16",
     "off": "50% OFF",
     "tag": "🎟 _Aplique o cupom de 15% OFF_"
-  },
-  {
-    "imagem": "v_1795813617.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Jogo de Panelas Brinox 10 Peças Ceramic Life Nevada  Champanhe",
-    "preco_de": "R$ 574,31",
-    "preco_por": "R$ 262,90",
-    "off": "54% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

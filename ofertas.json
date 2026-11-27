@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795751049.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Ar-condicionado Split Inverter 18000 Btus Samsung Windfree Connect Black Hi",
+    "preco_de": "",
+    "preco_por": "R$ 5.899,00",
+    "off": "VIP",
+    "tag": "🎟 Cupom: 39000"
+  },
+  {
     "imagem": "v_1795750952.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 77,59",
     "off": "65% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795750885.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Perfume Árabe - Maison Alhambra Jean Lowe Fantasme Edp 100ml",
-    "preco_de": "R$ 381,00",
-    "preco_por": "R$ 172,65",
-    "off": "55% OFF",
-    "tag": "🎟 Resgate na página: R$ 142 co"
   }
 ]

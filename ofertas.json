@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795787469.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Jogo Lanche De 8 Peças Oxford Flat Chuvisco",
+    "preco_de": "R$ 333,19",
+    "preco_por": "R$ 273,20",
+    "off": "18% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795787350.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 649,25",
     "off": "59% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795753729.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Echo Dot Smart Speaker com Alexa",
-    "preco_de": "R$ 549,00",
-    "preco_por": "R$ 231,00",
-    "off": "58% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

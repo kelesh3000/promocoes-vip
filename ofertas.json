@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795815652.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "NIVEA KIT Sabonete Líquido Óleo de Banho 200ml - 2 Unidades",
+    "preco_de": "",
+    "preco_por": "R$ 7,39",
+    "off": "VIP",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795815640.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 63,55",
     "off": "47% OFF",
     "tag": "🎟 Aplique o cupom de 10% OFF n"
-  },
-  {
-    "imagem": "v_1795815516.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 2 Cobertor Mantinha Microfibra Casal Manta Macia Diversa",
-    "preco_de": "R$ 59,00",
-    "preco_por": "R$ 23,17",
-    "off": "61% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

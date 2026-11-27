@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795812729.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Top Puma Original Feminino Alta Sustentação Academia Fitness",
+    "preco_de": "R$ 149,00",
+    "preco_por": "R$ 32,79",
+    "off": "78% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795812548.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 78,00",
     "preco_por": "R$ 55,09",
     "off": "29% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795812277.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Escorredor de Louça Duplo  Master Vermelho  - Niquelart.",
-    "preco_de": "R$ 116,11",
-    "preco_por": "R$ 101,48 no Pix",
-    "off": "13% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

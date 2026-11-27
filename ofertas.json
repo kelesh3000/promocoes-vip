@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795750112.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Kit Coala Laundry + Os Favoritos Chá Branco",
+    "preco_de": "R$ 147,96",
+    "preco_por": "R$ 63,92",
+    "off": "57% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795750107.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.855,42",
     "off": "7% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795749916.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Máquina de Lavar Electrolux Efficient 12kg Branca Compacta, Econômica e Pré",
-    "preco_de": "R$ 2.249,00",
-    "preco_por": "R$ 1.566,00",
-    "off": "30% OFF",
-    "tag": "🎟 Cupom: LAOMCPAOD 🎟️"
   }
 ]

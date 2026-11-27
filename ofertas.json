@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795753593.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, ",
+    "preco_de": "R$ 6.999,00",
+    "preco_por": "R$ 2.999,00",
+    "off": "57% OFF",
+    "tag": "🎟 Cupom: 25IMPERDIVEL 🎟️"
+  },
+  {
     "imagem": "v_1795753408.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 5.798,00",
     "off": "50% OFF",
     "tag": "🎟 Cupom: 25IMPERDIVEL 🎟️"
-  },
-  {
-    "imagem": "v_1795753068.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Apple iPhone 16e de 128 GB — Preto",
-    "preco_de": "R$ 5.799,00",
-    "preco_por": "R$ 2.933,00",
-    "off": "49% OFF",
-    "tag": "🎟 Cupom: 128GB"
   }
 ]

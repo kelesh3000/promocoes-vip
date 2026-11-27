@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795753189.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Perfume Jean Paul Gaultier Le Male Eau de Toilette 200 ml Masculino",
+    "preco_de": "R$ 1.078,00",
+    "preco_por": "R$ 567,89",
+    "off": "47% OFF",
+    "tag": "🎟 Cupom: LAOMCPAOD 🎟️"
+  },
+  {
     "imagem": "v_1795753114.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 4.849,00",
     "off": "19% OFF",
     "tag": "🎟 Cupom: 25IMPE 🎟️"
-  },
-  {
-    "imagem": "v_1795752819.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Celular Samsung Galaxy A37 5g 128gb, 6gb Ram, Câmera 50mp Lavanda",
-    "preco_de": "R$ 3.499,00",
-    "preco_por": "R$ 1.599,00",
-    "off": "54% OFF",
-    "tag": "🎟 Resgate na página: R$ 1359 c"
   }
 ]

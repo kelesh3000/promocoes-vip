@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795806915.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Gaabor Processador  2L 300W 4 Lâminas Triturador Carne Legumes Multislice V",
+    "preco_de": "R$ 401,35",
+    "preco_por": "R$ 118,80",
+    "off": "70% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795806864.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 45,28",
     "off": "65% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795806811.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Batedeira Philco Paris Duo Mixer Turbo 4L 500W 127V",
-    "preco_de": "",
-    "preco_por": "R$ 86,00",
-    "off": "VIP",
-    "tag": "🎟 Cupom: 12900"
   }
 ]

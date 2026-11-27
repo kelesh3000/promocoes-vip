@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795750450.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Máquina de Lavar Electrolux Expert, 18Kg, Preta, Tripla Filtragem, Jatos Po",
+    "preco_de": "R$ 2.899,00",
+    "preco_por": "R$ 2.484,00",
+    "off": "14% OFF",
+    "tag": "🎟 Cupom: ELECTRO80BLK 🎟️"
+  },
+  {
     "imagem": "v_1795750411.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 785,55",
     "off": "44% OFF",
     "tag": "🎟 Cupom: MAGALUOFF"
-  },
-  {
-    "imagem": "v_1795750200.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Smart Tv Aoc Dled 32 Pole Wi-fi Roku Tv Quadcore 32s5155/78g",
-    "preco_de": "R$ 1.260,00",
-    "preco_por": "R$ 855,51",
-    "off": "32% OFF",
-    "tag": "🎟 Cupom: LAOMCPAOD 🎟️"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795752321.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Smart TV 50\" Philco QLED UHD Roku P50CRA",
+    "preco_de": "R$ 2.187,38",
+    "preco_por": "R$ 1.649,90",
+    "off": "25% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795752293.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 321,06",
     "off": "15% OFF",
     "tag": "🎟 CUPOM MERCADO LIVRE"
-  },
-  {
-    "imagem": "v_1795751861.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Conjunto 1 Bowl 1L e 4 Taças 120ml Diamond Lyor Cristal com Fio de Ouro par",
-    "preco_de": "R$ 150,92",
-    "preco_por": "R$ 63,99",
-    "off": "58% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795794529.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Azeite de oliva extra virgem, O-LIVE & Co, Chileno, vidro, 450ml",
+    "preco_de": "R$ 28,99",
+    "preco_por": "R$ 24,90 à vista",
+    "off": "14% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795794516.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.199,00",
     "off": "29% OFF",
     "tag": "🎟 Cupom: UN65U8000HGXZD"
-  },
-  {
-    "imagem": "v_1795794218.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Jogo Toalhas Banho Grossas Macias Algodão 4pç Absorventes",
-    "preco_de": "R$ 139,00",
-    "preco_por": "R$ 60,39",
-    "off": "57% OFF",
-    "tag": "🎟 _Aplique o cupom de 15% OFF "
   }
 ]

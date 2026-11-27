@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795808188.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Aparelho de Jantar Chá 20 Peças Oxford Redondo Porcelana",
+    "preco_de": "R$ 299,90",
+    "preco_por": "R$ 269,90",
+    "off": "10% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795808144.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.069,08",
     "off": "8% OFF",
     "tag": "🎟 Use o cupom: MEUDESCONTOBLAC"
-  },
-  {
-    "imagem": "v_1795807958.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Suporte De Shampoo Prateleiras De Banheiro  Reto Sem Furo  - CH",
-    "preco_de": "R$ 45,09",
-    "preco_por": "R$ 23,90",
-    "off": "47% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

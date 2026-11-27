@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795814190.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Celular Samsung Galaxy S26 FE 128GB, 8GB RAM Tela 6,7\" - Grafite",
+    "preco_de": "R$ 5.499,00",
+    "preco_por": "R$ 3.198,60",
+    "off": "42% OFF",
+    "tag": "🎟 Cupom: BLACKVIP"
+  },
+  {
     "imagem": "v_1795814186.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 390,10",
     "off": "29% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795814023.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 10 Pares Meias Lupo Algodão Cano Médio Alto Atoalhada",
-    "preco_de": "R$ 199,00",
-    "preco_por": "R$ 63,19",
-    "off": "68% OFF",
-    "tag": "🎟 Cupom: MODARELAMPAGO 🎟️"
   }
 ]

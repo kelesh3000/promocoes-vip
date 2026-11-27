@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795812548.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Limpador Multiuso Veja Pro Line, Original, 5L",
+    "preco_de": "",
+    "preco_por": "R$ 7,99",
+    "off": "VIP",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795812394.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 101,48 no Pix",
     "off": "13% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795812255.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Smart TV Hisense FHD 43\" Polegadas 43A4NV com HDR10, DTS Virtual X, Compati",
-    "preco_de": "R$ 1.399,00",
-    "preco_por": "R$ 1.299,90",
-    "off": "7% OFF",
-    "tag": "🎟 Cupom: ACABANDO 🎟️"
   }
 ]

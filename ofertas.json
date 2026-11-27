@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795740823.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit Camiseta Tommy Hilfiger 1985 Masculina Preta/marinho",
+    "preco_de": "R$ 496,00",
+    "preco_por": "R$ 248,30",
+    "off": "50% OFF",
+    "tag": "🎟 Cupom: GARANTAJAHJ + _Apliqu"
+  },
+  {
     "imagem": "v_1795740621.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 118,91",
     "off": "14% OFF",
     "tag": "🎟 Cupom: GARANTAJAHJ ou SOHOJE"
-  },
-  {
-    "imagem": "v_1795740233.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit Wella Professionals Invigo Nutri-enrich Trio Pequeno",
-    "preco_de": "R$ 350,00",
-    "preco_por": "R$ 186,76",
-    "off": "47% OFF",
-    "tag": "🎟 Cupom: PROMOAGORA 🎟️"
   }
 ]

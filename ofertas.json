@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795746601.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 10 Pares Meias Lupo Algodão Cano Médio Alto Atoalhada",
+    "preco_de": "R$ 199,00",
+    "preco_por": "R$ 63,19",
+    "off": "68% OFF",
+    "tag": "🎟 CUPOM: AGORAMODA"
+  },
+  {
     "imagem": "v_1795746455.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 210,52",
     "off": "40% OFF",
     "tag": "🎟 CUPOM: BAIXOU"
-  },
-  {
-    "imagem": "v_1795746082.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Dreame Aspirador Robô D20 Ultra 13000pa Com Base E Mop Branco",
-    "preco_de": "R$ 5.999,00",
-    "preco_por": "R$ 3.199,00",
-    "off": "47% OFF",
-    "tag": "🎟 CUPOM: CORREHOJEAGORA"
   }
 ]

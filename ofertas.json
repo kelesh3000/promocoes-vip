@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795745299.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Micro-ondas Philco 20L 1100W Limpa Fácil Tira Odor PMO24E",
+    "preco_de": "R$ 649,00",
+    "preco_por": "R$ 469,00",
+    "off": "28% OFF",
+    "tag": "🎟 Cupom: L40EL300BF150 🎟️"
+  },
+  {
     "imagem": "v_1795745214.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 42,65",
     "off": "28% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795743237.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Apple AirPods 5 ​​​​​​​",
-    "preco_de": "R$ 1.499,00",
-    "preco_por": "R$ 995,25",
-    "off": "34% OFF",
-    "tag": "🎟 Cupom: 15IMPERDIVEL"
   }
 ]

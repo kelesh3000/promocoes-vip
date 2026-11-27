@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795749916.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Máquina de Lavar Electrolux Efficient 12kg Branca Compacta, Econômica e Pré",
+    "preco_de": "R$ 2.249,00",
+    "preco_por": "R$ 1.566,00",
+    "off": "30% OFF",
+    "tag": "🎟 Cupom: LAOMCPAOD 🎟️"
+  },
+  {
     "imagem": "v_1795749914.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 721,01",
     "off": "48% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795749775.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "PlayStation®5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7",
-    "preco_de": "R$ 5.099,90",
-    "preco_por": "R$ 4.499,00",
-    "off": "12% OFF",
-    "tag": "🎟 Cupom: 19990"
   }
 ]

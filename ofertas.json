@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795823988.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "> Cancele quando quiser.",
+    "preco_de": "",
+    "preco_por": "Confira no link",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795823798.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.799,00",
     "off": "33% OFF",
     "tag": "🎟 Cupom: MELINABLACK 🎟️"
-  },
-  {
-    "imagem": "v_1795823402.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 1 litro",
-    "preco_de": "R$ 178,90",
-    "preco_por": "R$ 72,99 à vista",
-    "off": "59% OFF",
-    "tag": "🎟 Cupom: SONHOBLACK10"
   }
 ]

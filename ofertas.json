@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795818284.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Fogão Brastemp 5 Bocas Cor Inox Com Turbo Chama - Bfs5gdr Cor Prateado",
+    "preco_de": "R$ 2.089,00",
+    "preco_por": "R$ 1.794,55",
+    "off": "14% OFF",
+    "tag": "🎟 Cupom: OFERTABLACK 🎟️"
+  },
+  {
     "imagem": "v_1795818037.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.207,08",
     "off": "8% OFF",
     "tag": "🎟 Cupom: MEUDESCONTOBLACK 🎟️"
-  },
-  {
-    "imagem": "v_1795817707.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Máquina De Lavar 13kg Electrolux Cesto Inox, Jet&clean Led13 Cor Branco",
-    "preco_de": "R$ 1.649,00",
-    "preco_por": "R$ 1.349,10",
-    "off": "18% OFF",
-    "tag": "🎟 Cupom: OFERTABLACK 🎟️"
   }
 ]

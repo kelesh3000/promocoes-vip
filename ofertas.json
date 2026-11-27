@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795823798.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️  FORMA PARA  BROWNIE  - 31.5X31.5X3",
+    "preco_de": "",
+    "preco_por": "R$ 47,90",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795823670.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 72,99 à vista",
     "off": "59% OFF",
     "tag": "🎟 Cupom: SONHOBLACK10"
-  },
-  {
-    "imagem": "v_1795823321.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ iPhone 18 Pro Apple Bordô, 2TB",
-    "preco_de": "R$ 22.104,21",
-    "preco_por": "R$ 20.999,00",
-    "off": "5% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

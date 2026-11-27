@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795792120.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Prateleira 2 Lugares Modelo Industrial - Porta Temperos - Porta  toalhas",
+    "preco_de": "R$ 66,56",
+    "preco_por": "R$ 59,90",
+    "off": "10% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795791910.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.519,00",
     "off": "25% OFF",
     "tag": "🎟 PRA QUEM NÃO PEGOU COM O CUP"
-  },
-  {
-    "imagem": "v_1795791684.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis De Corrida Masculino Duramo Sl 2 adidas",
-    "preco_de": "R$ 499,00",
-    "preco_por": "R$ 145,49",
-    "off": "71% OFF",
-    "tag": "🎟 Resgate na página: R$ 130 co"
   }
 ]

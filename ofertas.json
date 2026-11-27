@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795807518.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Tablet Samsung Galaxy Tab S10 FE, Cinza, 128GB, 8GB RAM, Tela Imersiva de 1",
+    "preco_de": "R$ 4.199,00",
+    "preco_por": "R$ 2.379,00",
+    "off": "43% OFF",
+    "tag": "🎟 Cupom: BLACK120"
+  },
+  {
     "imagem": "v_1795807474.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.310,99",
     "off": "8% OFF",
     "tag": "🎟 Cupom MEUDESCONTOBLACK 🎟️"
-  },
-  {
-    "imagem": "v_1795807377.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "BLENDER OSTER OBLD700 700W",
-    "preco_de": "R$ 189,14",
-    "preco_por": "R$ 175,90",
-    "off": "7% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

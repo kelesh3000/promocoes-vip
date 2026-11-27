@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795822387.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Lavadora Digital Inverter Samsung WW11T Inox 11kg",
+    "preco_de": "R$ 4.699,00",
+    "preco_por": "R$ 3.093,68",
+    "off": "34% OFF",
+    "tag": "🎟 Cupom: ELETRO300 + MELINABLA"
+  },
+  {
     "imagem": "v_1795822356.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.999,00",
     "off": "38% OFF",
     "tag": "🎟 Cupom: MELINABLACK 🎟️"
-  },
-  {
-    "imagem": "v_1795822230.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Quarto de Bebê Completo com  Guarda Roupa Uli 4 Portas Cômoda Uli 4 Gavetas",
-    "preco_de": "R$ 1.657,84",
-    "preco_por": "R$ 1.043,91",
-    "off": "37% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

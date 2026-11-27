@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795743237.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Apple AirPods 5 ​​​​​​​",
+    "preco_de": "R$ 1.499,00",
+    "preco_por": "R$ 995,25",
+    "off": "34% OFF",
+    "tag": "🎟 Cupom: 15IMPERDIVEL"
+  },
+  {
     "imagem": "v_1795742990.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 329,45",
     "off": "45% OFF",
     "tag": "🎟 Cupom: GARANTAJAHJ + _Apliqu"
-  },
-  {
-    "imagem": "v_1795741165.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Ar-condicionado Split Inv 9000 Tcl Breeze In Frio 220v",
-    "preco_de": "R$ 2.403,00",
-    "preco_por": "R$ 1.699,00",
-    "off": "29% OFF",
-    "tag": "🎟 Cupom: ACHADINHO + _Aplique "
   }
 ]

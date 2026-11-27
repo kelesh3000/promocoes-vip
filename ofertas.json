@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795803748.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "iPhone Air 256 GB - Branco-nuvem - somente eSIM - Distribuidor Autorizado",
+    "preco_de": "R$ 10.499,00",
+    "preco_por": "R$ 5.399,10",
+    "off": "49% OFF",
+    "tag": "🎟 Cupom: DESCONTABF300"
+  },
+  {
     "imagem": "v_1795803636.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 289,84",
     "off": "76% OFF",
     "tag": "🎟 Cupom: BELEZAPREMIUM ou BLAC"
-  },
-  {
-    "imagem": "v_1795803510.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Chinelo Lacoste Masculino Serve Slide 2.0 - Original",
-    "preco_de": "R$ 349,00",
-    "preco_por": "R$ 192,28",
-    "off": "45% OFF",
-    "tag": "🎟 Cupom: BLACKMELI 🎟️"
   }
 ]

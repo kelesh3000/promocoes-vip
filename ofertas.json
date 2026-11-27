@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795822321.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Lava-Louças Brastemp 15 Serviços Branca - BLF61AB",
+    "preco_de": "",
+    "preco_por": "R$ 2.899,00",
+    "off": "VIP",
+    "tag": "🎟 Cupom: MELINABLACK 🎟️"
+  },
+  {
     "imagem": "v_1795822254.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.223,87",
     "off": "14% OFF",
     "tag": "🎟 Cupom: ELETRO300 + MELINABLA"
-  },
-  {
-    "imagem": "v_1795822018.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Kit 4 Pacotes Café Especial em Grãos Coffee Mais Variedades: Cerrado Mineir",
-    "preco_de": "R$ 119,90",
-    "preco_por": "R$ 85,01",
-    "off": "29% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

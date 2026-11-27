@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795807101.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "KIT 01 und Panettone Frutas Cristalizadas 400g + 01 und Chocottone 400g Bau",
+    "preco_de": "R$ 70,48",
+    "preco_por": "R$ 30,09",
+    "off": "57% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795807091.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 39,92",
     "off": "50% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795807015.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Samsung Odyssey G5 2.7 Qhd 180 Hz 0,03 ms G-sync Freesync",
-    "preco_de": "R$ 2.999,00",
-    "preco_por": "R$ 2.510,09",
-    "off": "16% OFF",
-    "tag": "🎟 Cupom: MEUDESCONTOBLACK"
   }
 ]

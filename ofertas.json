@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795752293.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Sanduicheira Elétrica Cadence Click - 127V",
+    "preco_de": "R$ 159,90",
+    "preco_por": "R$ 75,00",
+    "off": "53% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795752284.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 63,99",
     "off": "58% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795751830.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Whey Protein Gourmet Growth Supplements Banana Toffee 800g",
-    "preco_de": "R$ 229,00",
-    "preco_por": "R$ 128,71",
-    "off": "44% OFF",
-    "tag": "🎟 Cupom: CORREBLACK 🎟️"
   }
 ]

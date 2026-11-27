@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795807813.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Perfume Sedutor Árabe Sabah 100ml Original Feminino",
+    "preco_de": "R$ 199,00",
+    "preco_por": "R$ 125,71",
+    "off": "37% OFF",
+    "tag": "🎟 _Aplique o Cupom de R$ 35 OF"
+  },
+  {
     "imagem": "v_1795807706.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.207,08",
     "off": "43% OFF",
     "tag": "🎟 Cupom: MEUDESCONTOBLACK 🎟️"
-  },
-  {
-    "imagem": "v_1795807518.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Tablet Samsung Galaxy Tab S10 FE, Cinza, 128GB, 8GB RAM, Tela Imersiva de 1",
-    "preco_de": "R$ 4.199,00",
-    "preco_por": "R$ 2.379,00",
-    "off": "43% OFF",
-    "tag": "🎟 Cupom: BLACK120"
   }
 ]

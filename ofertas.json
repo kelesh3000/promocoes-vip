@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795749153.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Avon Segno Deo Parfum Masculino 100 ml",
+    "preco_de": "R$ 154,00",
+    "preco_por": "R$ 72,49",
+    "off": "53% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795749134.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.547,74",
     "off": "46% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795749019.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg",
-    "preco_de": "R$ 4.838,90",
-    "preco_por": "R$ 2.909,00",
-    "off": "40% OFF",
-    "tag": "🎟 Cupom: BLACK150 🎟️"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795751207.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Relógio Lacoste Lc33 Masculino Borracha Branca 2011364",
+    "preco_de": "R$ 590,00",
+    "preco_por": "R$ 295,00",
+    "off": "50% OFF",
+    "tag": "🎟 Cupom: CORREBLACK 🎟️"
+  },
+  {
     "imagem": "v_1795751137.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.724,00",
     "off": "30% OFF",
     "tag": "🎟 Cupom: BLACK150 🎟️"
-  },
-  {
-    "imagem": "v_1795751049.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Ar-condicionado Split Inverter 18000 Btus Samsung Windfree Connect Black Hi",
-    "preco_de": "",
-    "preco_por": "R$ 5.899,00",
-    "off": "VIP",
-    "tag": "🎟 Cupom: 39000"
   }
 ]

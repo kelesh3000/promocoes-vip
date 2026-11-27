@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795796887.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Máquina de Lavar Frontal Electrolux 12kg Cinza Ônix Inverter com Água Quent",
+    "preco_de": "R$ 3.009,68",
+    "preco_por": "R$ 2.699,00",
+    "off": "10% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795796864.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.690,00",
     "off": "22% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795796713.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz,",
-    "preco_de": "R$ 2.899,00",
-    "preco_por": "R$ 218,89 à vista ou em até 10x sem juros (com cupom 91330)",
-    "off": "92% OFF",
-    "tag": "🎟 Cupom: 91330"
   }
 ]

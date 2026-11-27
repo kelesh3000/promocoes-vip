@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795819954.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Gloss Fran By Franciny Ehlke Liphoney Mel",
+    "preco_de": "R$ 69,00",
+    "preco_por": "R$ 9,75",
+    "off": "86% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795819736.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 189,00",
     "preco_por": "R$ 78,42",
     "off": "59% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795819472.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Panettone Lindt Trufado ao Leite 410g",
-    "preco_de": "R$ 109,72",
-    "preco_por": "R$ 79,00",
-    "off": "28% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

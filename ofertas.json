@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795808003.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Lavadora De Roupas Electrolux 18kg Cesto Inox 11 Programas",
+    "preco_de": "R$ 2.249,00",
+    "preco_por": "R$ 2.069,08",
+    "off": "8% OFF",
+    "tag": "🎟 Use o cupom: MEUDESCONTOBLAC"
+  },
+  {
     "imagem": "v_1795807958.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.666,48",
     "off": "8% OFF",
     "tag": "🎟 Cupom: WEUYRUE"
-  },
-  {
-    "imagem": "v_1795807645.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Aspirador de Pó Vertical Britânia 1,1L 2 em 1 1400W BAS1450C",
-    "preco_de": "R$ 212,00",
-    "preco_por": "R$ 110,11",
-    "off": "48% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

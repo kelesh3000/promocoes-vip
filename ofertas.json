@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795753114.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tel",
+    "preco_de": "R$ 11.499,00",
+    "preco_por": "R$ 5.798,00",
+    "off": "50% OFF",
+    "tag": "🎟 Cupom: 25IMPERDIVEL 🎟️"
+  },
+  {
     "imagem": "v_1795753068.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.599,00",
     "off": "54% OFF",
     "tag": "🎟 Resgate na página: R$ 1359 c"
-  },
-  {
-    "imagem": "v_1795752716.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Panettone Chocotone Gotas De Chocolate Lindt 390g",
-    "preco_de": "R$ 99,00",
-    "preco_por": "R$ 51,99",
-    "off": "47% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

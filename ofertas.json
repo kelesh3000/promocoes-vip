@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795811922.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Achocolatado NESCAU® 2,01kg",
+    "preco_de": "R$ 37,39",
+    "preco_por": "R$ 32,90 à vista",
+    "off": "12% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795811818.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 139,99",
     "off": "58% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795811433.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Aspirador Vertical Britânia BAS1295P 1250W Preto",
-    "preco_de": "R$ 234,00",
-    "preco_por": "R$ 103,41",
-    "off": "56% OFF",
-    "tag": "🎟 Resgate na página: R$ 96 com"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795815367.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Softride Exo Puma",
+    "preco_de": "R$ 399,00",
+    "preco_por": "R$ 188,59",
+    "off": "53% OFF",
+    "tag": "🎟 Cupom: MODARELAMPAGO 🎟️"
+  },
+  {
     "imagem": "v_1795815313.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 76,90",
     "off": "48% OFF",
     "tag": "🎟 Cupom: MODARELAMPAGO + Apliq"
-  },
-  {
-    "imagem": "v_1795815156.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Sapateira Organizador Sapato Prateleira 12 Pares",
-    "preco_de": "R$ 230,00",
-    "preco_por": "R$ 181,36 no Pix",
-    "off": "21% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795809398.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ iPhone 18 Pro Max Apple Prateado, 2TB!",
+    "preco_de": "R$ 23.156,84",
+    "preco_por": "R$ 21.999,00",
+    "off": "5% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795809353.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 4.620,27",
     "preco_por": "R$ 3.319,00",
     "off": "28% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795809102.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Geladeira Electrolux Frost Free Inverter 490L Experience Inverse cor Inox L",
-    "preco_de": "R$ 4.041,49",
-    "preco_por": "R$ 3.699,00",
-    "off": "8% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

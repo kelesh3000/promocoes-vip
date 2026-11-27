@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795790560.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Masculino Caven 2.0 Puma Liso 40",
+    "preco_de": "R$ 449,00",
+    "preco_por": "R$ 212,90",
+    "off": "53% OFF",
+    "tag": "🎟 Cupom: RELAMPAGO 🎟️"
+  },
+  {
     "imagem": "v_1795790536.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 67,83",
     "off": "77% OFF",
     "tag": "🎟 Cupom: RELAMPAGO 🎟️"
-  },
-  {
-    "imagem": "v_1795790330.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Geladeira Electrolux Frost Free 431l Bivolt Inox (es40s)",
-    "preco_de": "R$ 6.879,00",
-    "preco_por": "R$ 4.514,38",
-    "off": "34% OFF",
-    "tag": "🎟 Use o cupom: BFIN2711XX"
   }
 ]

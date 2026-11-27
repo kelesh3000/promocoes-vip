@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795740233.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit Wella Professionals Invigo Nutri-enrich Trio Pequeno",
+    "preco_de": "R$ 350,00",
+    "preco_por": "R$ 186,76",
+    "off": "47% OFF",
+    "tag": "🎟 Cupom: PROMOAGORA 🎟️"
+  },
+  {
     "imagem": "v_1795740072.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 145,40",
     "off": "58% OFF",
     "tag": "🎟 Cupom: GARANTAJAHJ 🎟️"
-  },
-  {
-    "imagem": "v_1795739498.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Smart Tv 4k 65 LG Nano Uhd Ai Nu850 2026 Processador 7 Ger9 Hdr10 Xbox Blue",
-    "preco_de": "R$ 4.999,00",
-    "preco_por": "R$ 3.324,05",
-    "off": "34% OFF",
-    "tag": "🎟 Cupom: CORREHOJEAGORA 🎟️"
   }
 ]

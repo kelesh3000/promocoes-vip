@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795789720.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Torneira Banco De Cozinha Gourmet Misturador Extensível Cor Prata Escova",
+    "preco_de": "R$ 129,61",
+    "preco_por": "R$ 69,99",
+    "off": "46% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795789717.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 89,99",
     "off": "55% OFF",
     "tag": "🎟 Cupom: RELAMPAGO 🎟️"
-  },
-  {
-    "imagem": "v_1795789494.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Deo Parfum Natura Homem Nós 100 Ml",
-    "preco_de": "R$ 244,00",
-    "preco_por": "R$ 97,96",
-    "off": "60% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

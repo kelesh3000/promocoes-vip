@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795750563.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Wella Professionals Invigo Nutri-Enrich Máscara Capilar 500ml",
+    "preco_de": "R$ 496,30",
+    "preco_por": "R$ 107,20",
+    "off": "78% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795750450.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 79,92",
     "off": "20% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795750309.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Monitor Gamer Curvo AOC AGON QUAD 32\" 180Hz 0,5ms HDR10 CQ32G4E",
-    "preco_de": "R$ 1.399,00",
-    "preco_por": "R$ 785,55",
-    "off": "44% OFF",
-    "tag": "🎟 Cupom: MAGALUOFF"
   }
 ]

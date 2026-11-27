@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795792199.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Tablet Samsung Galaxy TAB A11+, 128GB, 6GB RAM, WiFi",
+    "preco_de": "R$ 1.799,00",
+    "preco_por": "R$ 1.130,00",
+    "off": "37% OFF",
+    "tag": "🎟 Cupom: BLACK199"
+  },
+  {
     "imagem": "v_1795792159.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 59,90",
     "off": "10% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795791910.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
-    "preco_de": "R$ 64,00",
-    "preco_por": "R$ 29,61",
-    "off": "54% OFF",
-    "tag": "🎟 SAIU CUPOM NO MERCADO LIVRE"
   }
 ]

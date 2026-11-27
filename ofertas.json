@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795807159.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
+    "preco_de": "R$ 3.199,00",
+    "preco_por": "R$ 2.379,90",
+    "off": "26% OFF",
+    "tag": "🎟 Cupom: MEUDESCONTOBLACK 🎟️"
+  },
+  {
     "imagem": "v_1795807143.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.045,07",
     "off": "49% OFF",
     "tag": "🎟 Cupom: MEUDESCONTOBLACK 🎟️"
-  },
-  {
-    "imagem": "v_1795807066.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Kit Mochila Rodinha Lancheira Estojo Escolar Resistente Infantil Coban",
-    "preco_de": "R$ 749,97",
-    "preco_por": "R$ 254,99",
-    "off": "66% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795813817.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Micro-ondas Bancada Philco PMO38T 33L 1400W Inox Espelhado 110V",
+    "preco_de": "R$ 499,00",
+    "preco_por": "R$ 449,00",
+    "off": "10% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795813779.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 379,00",
     "off": "12% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795813729.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Processador AMD Ryzen 7 5700X 3.4GHz (4.6GHz Max Turbo) AM4",
-    "preco_de": "R$ 1.499,00",
-    "preco_por": "R$ 1.042,26",
-    "off": "30% OFF",
-    "tag": "🎟 Cupom: BLACKVIP"
   }
 ]

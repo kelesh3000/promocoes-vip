@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795790536.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Kappa Run 200 Original Caminhada Academia",
+    "preco_de": "R$ 169,00",
+    "preco_por": "R$ 72,99",
+    "off": "57% OFF",
+    "tag": "🎟 USE O CUPOM: AGORAMODA"
+  },
+  {
     "imagem": "v_1795790482.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 4.514,38",
     "off": "34% OFF",
     "tag": "🎟 Use o cupom: BFIN2711XX"
-  },
-  {
-    "imagem": "v_1795790291.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Fone De Ouvido Samsung Buds3 Fe Intra-auricular Cinza Ruído",
-    "preco_de": "R$ 665,00",
-    "preco_por": "R$ 532,45",
-    "off": "20% OFF",
-    "tag": "🎟 Cupom: RELAMPAGO"
   }
 ]

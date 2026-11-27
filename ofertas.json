@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795815621.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Camiseta Calvin Klein Flame Front Logo Azul Marinho",
+    "preco_de": "R$ 240,00",
+    "preco_por": "R$ 112,79",
+    "off": "53% OFF",
+    "tag": "🎟 Cupom: MODARELAMPAGO 🎟️"
+  },
+  {
     "imagem": "v_1795815562.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 399,00",
     "preco_por": "R$ 169,57",
     "off": "58% OFF",
-    "tag": "🎟 Cupom: MODARELAMPAGO 🎟️"
-  },
-  {
-    "imagem": "v_1795815367.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis Softride Exo Puma",
-    "preco_de": "R$ 399,00",
-    "preco_por": "R$ 188,59",
-    "off": "53% OFF",
     "tag": "🎟 Cupom: MODARELAMPAGO 🎟️"
   }
 ]

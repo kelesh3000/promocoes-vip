@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795797670.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada",
+    "preco_de": "R$ 135,00",
+    "preco_por": "R$ 54,05",
+    "off": "60% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795797486.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.049,00",
     "off": "32% OFF",
     "tag": "🎟 Cupom: DESCONTO199 🎟️"
-  },
-  {
-    "imagem": "v_1795797047.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Pula Pula Cama Elástica Infantil Trampolim Playground Desmontável Eloria 1,",
-    "preco_de": "R$ 401,23",
-    "preco_por": "R$ 295,00",
-    "off": "26% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

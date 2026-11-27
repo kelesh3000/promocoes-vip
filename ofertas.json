@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795813580.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Purificador Electrolux Eletrônico Compacto  Efficient Painel Mecânico Bivol",
+    "preco_de": "R$ 499,89",
+    "preco_por": "R$ 409,90",
+    "off": "18% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795813554.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 90,07",
     "off": "43% OFF",
     "tag": "🎟 Cupom: BELEZA20 + cupom extr"
-  },
-  {
-    "imagem": "v_1795813240.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Duracell Pilhas Alcalinas AAA Palito Pack 24 Unidades – Dura Mais - Ideal p",
-    "preco_de": "R$ 124,90",
-    "preco_por": "R$ 89,67 à vista",
-    "off": "28% OFF",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

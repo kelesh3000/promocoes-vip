@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795791762.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Bundle Nintendo Switch 2 + EA Sports FC 27",
+    "preco_de": "R$ 4.699,90",
+    "preco_por": "R$ 3.519,00",
+    "off": "25% OFF",
+    "tag": "🎟 PRA QUEM NÃO PEGOU COM O CUP"
+  },
+  {
     "imagem": "v_1795791684.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 28,40",
     "off": "27% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795791414.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "6 Pares Meias Puma Cano Médio Alto Atoalhada Academia Sport",
-    "preco_de": "R$ 180,00",
-    "preco_por": "R$ 56,57",
-    "off": "69% OFF",
-    "tag": "🎟 Cupom: SUPERPROMO35 🎟️"
   }
 ]

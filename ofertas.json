@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795794360.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Samsung Smart TV 65\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Mo",
+    "preco_de": "R$ 4.499,00",
+    "preco_por": "R$ 3.199,00",
+    "off": "29% OFF",
+    "tag": "🎟 Cupom: UN65U8000HGXZD"
+  },
+  {
     "imagem": "v_1795794218.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 364,00",
     "off": "67% OFF",
     "tag": "🎟 Cupom: BLACKVIPMELI 🎟️"
-  },
-  {
-    "imagem": "v_1795793720.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Creatina Dark Lab Premium Pure em pó Sem sabor x 300g",
-    "preco_de": "R$ 78,00",
-    "preco_por": "R$ 28,90",
-    "off": "63% OFF",
-    "tag": "🎟 Resgate na página: Activaste"
   }
 ]

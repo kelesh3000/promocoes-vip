@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795804695.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Chaleira  Elétrica Jarra 1.8L Café Chá Inox 220v",
+    "preco_de": "R$ 99,98",
+    "preco_por": "R$ 32,89",
+    "off": "67% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795804603.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 297,73",
     "off": "54% OFF",
     "tag": "🎟 Cupom: BLACKMELI 🎟️"
-  },
-  {
-    "imagem": "v_1795804524.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Kit Tramontina Cortador de Grama Elétrico CE35P e Tesoura Cerca Viva/Grama",
-    "preco_de": "",
-    "preco_por": "R$ 420,10",
-    "off": "VIP",
-    "tag": "🎟 Cupom: IMPERDIVEL30"
   }
 ]

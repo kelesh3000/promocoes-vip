@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795814527.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 2 Camisetas Dry Wolf Alpha",
+    "preco_de": "R$ 99,00",
+    "preco_por": "R$ 57,95",
+    "off": "41% OFF",
+    "tag": "🎟 Cupom: MODARELAMPAGO 🎟️"
+  },
+  {
     "imagem": "v_1795814453.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 378,83",
     "preco_por": "R$ 348,83",
     "off": "8% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795814207.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Raquete Elétrica Mata Mosquito Mosca Pernilongo Dengue Insetos Bateria Reca",
-    "preco_de": "R$ 49,00",
-    "preco_por": "R$ 9,83",
-    "off": "80% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

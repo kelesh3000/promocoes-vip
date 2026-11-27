@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795746406.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Smart Tv 55u7066/78g Dled 55 4k Wi-fi Roku Tv Aoc",
+    "preco_de": "R$ 2.660,00",
+    "preco_por": "R$ 2.249,90",
+    "off": "15% OFF",
+    "tag": "🎟 Cupom: TECHVIP 🎟️"
+  },
+  {
     "imagem": "v_1795746284.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 82,90",
     "off": "58% OFF",
     "tag": "🎟 Cupom: AGORAMODA 🎟️"
-  },
-  {
-    "imagem": "v_1795745826.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Micro-ondas Electrolux Branco 23L Efficient ME23B",
-    "preco_de": "R$ 659,00",
-    "preco_por": "R$ 483,92",
-    "off": "27% OFF",
-    "tag": "🎟 CUPOM: L40EL300BF150"
   }
 ]

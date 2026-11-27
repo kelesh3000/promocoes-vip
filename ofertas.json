@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795752330.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Liquidificador 1400 Full Oster Preto 3,2L - 127V",
+    "preco_de": "",
+    "preco_por": "R$ 219,00",
+    "off": "VIP",
+    "tag": "🎟 Cupom: 17990"
+  },
+  {
     "imagem": "v_1795752321.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.899,00",
     "off": "11% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795752187.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis Olympikus Voa 3",
-    "preco_de": "R$ 379,00",
-    "preco_por": "R$ 321,06",
-    "off": "15% OFF",
-    "tag": "🎟 CUPOM MERCADO LIVRE"
   }
 ]

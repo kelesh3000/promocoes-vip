@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795790675.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Prateleira Cabideiro 5 Pinos em Madeira Maciça – Funcionalidade, Organiz",
+    "preco_de": "",
+    "preco_por": "R$ 62,90",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795790654.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 72,99",
     "off": "57% OFF",
     "tag": "🎟 USE O CUPOM: AGORAMODA"
-  },
-  {
-    "imagem": "v_1795790482.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "TESTO ESSENCIAL - Fórmula Exclusiva com Feno Grego + Boro + Arginina + ZMA ",
-    "preco_de": "R$ 91,00",
-    "preco_por": "R$ 48,77",
-    "off": "46% OFF",
-    "tag": "🎟 Cupom: SUPERPROMO35 🎟️"
   }
 ]

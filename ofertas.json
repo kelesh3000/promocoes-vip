@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795796854.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Máquina de Lavar Electrolux Efficient 13kg Branca Compacta, Econômica e Pré",
+    "preco_de": "R$ 1.699,00",
+    "preco_por": "R$ 1.599,00",
+    "off": "6% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795796830.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.104,10",
     "off": "39% OFF",
     "tag": "🎟 Cupom: TECHNOMELI 🎟️"
-  },
-  {
-    "imagem": "v_1795796462.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Samsung Smart TV 50\" Crystal UHD 4K U8000H 26/2027",
-    "preco_de": "R$ 2.349,00",
-    "preco_por": "R$ 2.114,10",
-    "off": "10% OFF",
-    "tag": "🎟 Cupom: TECHONOMELI 🎟️"
   }
 ]

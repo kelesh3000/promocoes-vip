@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795823321.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ iPhone 18 Pro Apple Bordô, 2TB",
+    "preco_de": "R$ 22.104,21",
+    "preco_por": "R$ 20.999,00",
+    "off": "5% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795823110.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 31,00",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795822719.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Smart TV TCL 65 Polegadas QLED 4K P8LS WiFi Bluetooth Google TV HDR10+ 120 ",
-    "preco_de": "R$ 8.499,00",
-    "preco_por": "R$ 3.899,00",
-    "off": "54% OFF",
-    "tag": "🎟 Cupom: MELINABLACK 🎟️"
   }
 ]

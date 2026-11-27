@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795822838.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Cesta Bandeja  para Natal Cesta Natalina!",
+    "preco_de": "",
+    "preco_por": "R$ 31,00",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795822719.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.834,10",
     "off": "10% OFF",
     "tag": "🎟 Cupom: MELINABLACK 🎟️"
-  },
-  {
-    "imagem": "v_1795822443.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Esteira Ergométrica Elétrica Gallant Elite 2.9hp 16km/h 130kg 127v (GEE13)",
-    "preco_de": "R$ 4.998,44",
-    "preco_por": "R$ 3.099,00",
-    "off": "38% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

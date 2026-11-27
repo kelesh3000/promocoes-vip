@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795818675.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Marvel's Spider-Man: Miles Morales Edição Padrão - PlayStation 5",
+    "preco_de": "",
+    "preco_por": "R$ 145,90",
+    "off": "VIP",
+    "tag": "🎟 Cupom: 19990"
+  },
+  {
     "imagem": "v_1795818660.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 349,99",
     "off": "71% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795818580.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tablet Positivo Vision TAB 7 - Processador Octa-Core 3GB RAM 64GB Armazenam",
-    "preco_de": "R$ 699,00",
-    "preco_por": "R$ 364,65",
-    "off": "48% OFF",
-    "tag": "🎟 Cupom: MELIZA2 🎟️"
   }
 ]

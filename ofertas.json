@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795796864.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Celular Samsung Galaxy A17 5G Com IA, 128gb, 4gb Ram, Câm De 50mp, Tela De ",
+    "preco_de": "R$ 1.855,00",
+    "preco_por": "R$ 913,40",
+    "off": "51% OFF",
+    "tag": "🎟 Cupom: TECHONOMELI"
+  },
+  {
     "imagem": "v_1795796854.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 218,89 à vista ou em até 10x sem juros (com cupom 91330)",
     "off": "92% OFF",
     "tag": "🎟 Cupom: 91330"
-  },
-  {
-    "imagem": "v_1795796700.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Notebook Vaio Fe16 Amd Ryzen 7 5825u Linux 8gb RAM 512gb Ssd Wi-Fi 6 Tela 1",
-    "preco_de": "R$ 5.099,00",
-    "preco_por": "R$ 3.104,10",
-    "off": "39% OFF",
-    "tag": "🎟 Cupom: TECHNOMELI 🎟️"
   }
 ]

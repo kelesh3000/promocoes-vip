@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795753699.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Celular Samsung Galaxy A17, 128GB, 4GB, 50MP Tela 6.7\", IP54 - Cinza",
+    "preco_de": "R$ 1.599,00",
+    "preco_por": "R$ 749,00",
+    "off": "53% OFF",
+    "tag": "🎟 Cupom: 15IMPERDIVEL 🎟️"
+  },
+  {
     "imagem": "v_1795753593.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 567,89",
     "off": "47% OFF",
     "tag": "🎟 Cupom: LAOMCPAOD 🎟️"
-  },
-  {
-    "imagem": "v_1795753114.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tel",
-    "preco_de": "R$ 11.499,00",
-    "preco_por": "R$ 5.798,00",
-    "off": "50% OFF",
-    "tag": "🎟 Cupom: 25IMPERDIVEL 🎟️"
   }
 ]

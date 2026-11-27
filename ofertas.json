@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795806857.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Shampoo Invigo Nutri Enrich 1L",
+    "preco_de": "R$ 218,00",
+    "preco_por": "R$ 87,20",
+    "off": "60% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795806817.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 109,45",
     "preco_por": "R$ 63,92",
     "off": "42% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795806739.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Ferro de Passar Roupa a Vapor e a  Seco Electrolux",
-    "preco_de": "R$ 96,11",
-    "preco_por": "R$ 70,74",
-    "off": "26% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

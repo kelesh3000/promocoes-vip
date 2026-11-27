@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795796462.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Samsung Smart TV 50\" Crystal UHD 4K U8000H 26/2027",
+    "preco_de": "R$ 2.349,00",
+    "preco_por": "R$ 2.114,10",
+    "off": "10% OFF",
+    "tag": "🎟 Cupom: TECHONOMELI 🎟️"
+  },
+  {
     "imagem": "v_1795796437.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 674,39",
     "off": "39% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795796292.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Geladeira Brastemp Frost Free Inteligente 512 Litros Inox - BRM62AK",
-    "preco_de": "R$ 3.472,00",
-    "preco_por": "R$ 3.194,82",
-    "off": "8% OFF",
-    "tag": "🎟 Cupom: TECHONOMELI 🎟️"
   }
 ]

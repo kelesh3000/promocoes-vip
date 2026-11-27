@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795814655.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Chinelo Nike Victori One Masculino",
+    "preco_de": "R$ 229,00",
+    "preco_por": "R$ 129,99",
+    "off": "43% OFF",
+    "tag": "🎟 Cupom: MODARELAMPAGO 🎟️"
+  },
+  {
     "imagem": "v_1795814527.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 139,00",
     "preco_por": "R$ 43,85",
     "off": "68% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795814226.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Batedeira Planetária Oster Preta 850W",
-    "preco_de": "R$ 378,83",
-    "preco_por": "R$ 348,83",
-    "off": "8% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795740072.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Mala Duffel Tiro adidas",
+    "preco_de": "R$ 399,00",
+    "preco_por": "R$ 206,54",
+    "off": "48% OFF",
+    "tag": "🎟 Cupom: FASHION"
+  },
+  {
     "imagem": "v_1795739882.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.324,05",
     "off": "34% OFF",
     "tag": "🎟 Cupom: CORREHOJEAGORA 🎟️"
-  },
-  {
-    "imagem": "v_1795739399.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Kit 4 Toalhas de Banho Branca Grande 70 x 130 cm  100% Algodão Alta  Abs",
-    "preco_de": "",
-    "preco_por": "R$ 94,99",
-    "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

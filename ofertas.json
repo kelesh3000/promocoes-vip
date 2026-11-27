@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795823531.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linu",
+    "preco_de": "R$ 4.199,00",
+    "preco_por": "R$ 2.799,00",
+    "off": "33% OFF",
+    "tag": "🎟 Cupom: MELINABLACK 🎟️"
+  },
+  {
     "imagem": "v_1795823402.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 499,90",
     "preco_por": "R$ 300,10",
     "off": "40% OFF",
-    "tag": "🎟 Cupom: SONHOBLACK10"
-  },
-  {
-    "imagem": "v_1795822857.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Headset Gamer Redragon Zeus Lite Preto P3 H510-LT",
-    "preco_de": "R$ 249,90",
-    "preco_por": "R$ 119,99",
-    "off": "52% OFF",
     "tag": "🎟 Cupom: SONHOBLACK10"
   }
 ]

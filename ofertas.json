@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795822719.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Smart TV TCL 65 Polegadas QLED 4K P8LS WiFi Bluetooth Google TV HDR10+ 120 ",
+    "preco_de": "R$ 8.499,00",
+    "preco_por": "R$ 3.899,00",
+    "off": "54% OFF",
+    "tag": "🎟 Cupom: MELINABLACK 🎟️"
+  },
+  {
     "imagem": "v_1795822584.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.099,00",
     "off": "38% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795822387.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Lavadora Digital Inverter Samsung WW11T Inox 11kg",
-    "preco_de": "R$ 4.699,00",
-    "preco_por": "R$ 3.093,68",
-    "off": "34% OFF",
-    "tag": "🎟 Cupom: ELETRO300 + MELINABLA"
   }
 ]

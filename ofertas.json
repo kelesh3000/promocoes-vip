@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795749019.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg",
+    "preco_de": "R$ 4.838,90",
+    "preco_por": "R$ 2.909,00",
+    "off": "40% OFF",
+    "tag": "🎟 Cupom: BLACK150 🎟️"
+  },
+  {
     "imagem": "v_1795749012.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 3.899,99",
     "preco_por": "R$ 3.799,99",
     "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795748938.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Kit 5 potes ​de vidro tampa de bambu herméticos redondos - Tüd",
-    "preco_de": "R$ 167,35",
-    "preco_por": "R$ 45,52",
-    "off": "73% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

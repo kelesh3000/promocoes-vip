@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795746455.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "JBL Tune 530BT Fone Bluetooth Over-Ear Sem Fio Branco",
+    "preco_de": "R$ 199,00",
+    "preco_por": "R$ 160,55",
+    "off": "19% OFF",
+    "tag": "🎟 Cupom: 17500"
+  },
+  {
     "imagem": "v_1795746406.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.199,00",
     "off": "47% OFF",
     "tag": "🎟 CUPOM: CORREHOJEAGORA"
-  },
-  {
-    "imagem": "v_1795745840.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 10 Cuecas Masculinas Boxer Microfibra Polo Wear Sortido",
-    "preco_de": "R$ 199,00",
-    "preco_por": "R$ 82,90",
-    "off": "58% OFF",
-    "tag": "🎟 Cupom: AGORAMODA 🎟️"
   }
 ]

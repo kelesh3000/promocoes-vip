@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795737962.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Fruteira Centro de Mesa 24cm Vidro 24605 - Vencedor",
+    "preco_de": "",
+    "preco_por": "R$ 42,84",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795737526.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 175,80",
     "off": "64% OFF",
     "tag": "🎟 Cupom: AGORAMODA 🎟️"
-  },
-  {
-    "imagem": "v_1795737300.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Air Fryer Kitchen Art 16l 4 Em 1 Espeto Rotisserie Kaf16a",
-    "preco_de": "R$ 620,00",
-    "preco_por": "R$ 391,92",
-    "off": "37% OFF",
-    "tag": "🎟 Cupom: SOHOJE"
   }
 ]

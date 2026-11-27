@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795740621.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Masculino Dynasoft Flash V7 New Balance",
+    "preco_de": "R$ 799,00",
+    "preco_por": "R$ 249,99",
+    "off": "69% OFF",
+    "tag": "🎟 Cupom: GARANTAJAHJ 🎟️"
+  },
+  {
     "imagem": "v_1795740360.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 186,76",
     "off": "47% OFF",
     "tag": "🎟 Cupom: PROMOAGORA 🎟️"
-  },
-  {
-    "imagem": "v_1795740072.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Mala Duffel Tiro adidas",
-    "preco_de": "R$ 399,00",
-    "preco_por": "R$ 206,54",
-    "off": "48% OFF",
-    "tag": "🎟 Cupom: FASHION"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795815237.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Calça Alfaiataria Masculina Malha Elastano Stretch Conforto",
+    "preco_de": "R$ 179,00",
+    "preco_por": "R$ 117,99",
+    "off": "34% OFF",
+    "tag": "🎟 Cupom: MODARELAMPAGO 🎟️"
+  },
+  {
     "imagem": "v_1795815188.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 185,00",
     "preco_por": "R$ 89,99",
     "off": "51% OFF",
-    "tag": "🎟 Cupom: MODARELAMPAGO 🎟️"
-  },
-  {
-    "imagem": "v_1795814993.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Relógio De Pulso Casio Youth W-218H-1AV",
-    "preco_de": "R$ 259,00",
-    "preco_por": "R$ 128,99",
-    "off": "50% OFF",
     "tag": "🎟 Cupom: MODARELAMPAGO 🎟️"
   }
 ]

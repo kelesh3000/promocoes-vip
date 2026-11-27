@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795788482.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Camiseta Polo Core Masculino Insider",
+    "preco_de": "R$ 275,00",
+    "preco_por": "R$ 115,00",
+    "off": "58% OFF",
+    "tag": "🎟 Cupom: AGORAMODA 🎟️"
+  },
+  {
     "imagem": "v_1795788433.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 59,00",
     "preco_por": "R$ 26,72",
     "off": "55% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795788277.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Conjunto Sala de Jantar Mesa Tampo de Madeira 4 Cadeiras Rustic/Crema/Si",
-    "preco_de": "R$ 722,70",
-    "preco_por": "R$ 460,00 no Pix",
-    "off": "36% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

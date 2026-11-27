@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795752716.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Panettone Chocotone Gotas De Chocolate Lindt 390g",
+    "preco_de": "R$ 99,00",
+    "preco_por": "R$ 51,99",
+    "off": "47% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795752588.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 2.321,43",
     "preco_por": "R$ 1.200,00",
     "off": "48% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795752425.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Smart TV 32\" Philco P32CRB Roku TV HDMI USB",
-    "preco_de": "R$ 1.611,29",
-    "preco_por": "R$ 899,00",
-    "off": "44% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

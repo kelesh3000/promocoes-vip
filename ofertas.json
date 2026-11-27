@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795741672.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 3 Camisetas Light T-shirt Insider",
+    "preco_de": "R$ 567,00",
+    "preco_por": "R$ 159,00",
+    "off": "72% OFF",
+    "tag": "🎟 NOVO CUPOM NAS INSIDERS POR "
+  },
+  {
     "imagem": "v_1795741335.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 63,12",
     "off": "72% OFF",
     "tag": "🎟 Cupom: ENERGIAMELI"
-  },
-  {
-    "imagem": "v_1795740842.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Vitro Max Ar 60x60 Janela de Banheiro Alumínio Com Grade Perfil Linha 25",
-    "preco_de": "",
-    "preco_por": "R$ 218,41 no Pix",
-    "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

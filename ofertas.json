@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795745351.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Air Fryer Philco 6,5L Visor Glass e Redstone 1700W PAF65A",
+    "preco_de": "R$ 356,00",
+    "preco_por": "R$ 299,90",
+    "off": "16% OFF",
+    "tag": "🎟 Cupom L40EL300BF150 🎟️"
+  },
+  {
     "imagem": "v_1795745299.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.126,99",
     "off": "6% OFF",
     "tag": "🎟 Cupom: COMPREJA ou VIPTECH"
-  },
-  {
-    "imagem": "v_1795743390.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit Mochila Infantil 3 Pçs Com Lancheira E Estojo Desenho Unicórnio Encanta",
-    "preco_de": "R$ 59,00",
-    "preco_por": "R$ 42,65",
-    "off": "28% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

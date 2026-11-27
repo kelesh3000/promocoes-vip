@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795814023.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 10 Pares Meias Lupo Algodão Cano Médio Alto Atoalhada",
+    "preco_de": "R$ 199,00",
+    "preco_por": "R$ 63,19",
+    "off": "68% OFF",
+    "tag": "🎟 Cupom: MODARELAMPAGO 🎟️"
+  },
+  {
     "imagem": "v_1795813965.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 578,84",
     "preco_por": "R$ 499,90",
     "off": "14% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795813739.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "PlayStation®5 Slim Digital 825GB – Pacote ASTRO BOT e Gran Turismo 7",
-    "preco_de": "R$ 4.599,90",
-    "preco_por": "R$ 3.999,00",
-    "off": "13% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

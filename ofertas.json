@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795753729.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Echo Dot Smart Speaker com Alexa",
+    "preco_de": "R$ 549,00",
+    "preco_por": "R$ 231,00",
+    "off": "58% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795753699.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 97,84",
     "off": "52% OFF",
     "tag": "🎟 Resgate na página: R$ 42 , 1"
-  },
-  {
-    "imagem": "v_1795753189.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Perfume Jean Paul Gaultier Le Male Eau de Toilette 200 ml Masculino",
-    "preco_de": "R$ 1.078,00",
-    "preco_por": "R$ 567,89",
-    "off": "47% OFF",
-    "tag": "🎟 Cupom: LAOMCPAOD 🎟️"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795895795.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Poltrona Orgânica Curva Boucle Luxo Infinity Casualia",
+    "preco_de": "R$ 699,90",
+    "preco_por": "R$ 559,92",
+    "off": "20% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795895747.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 123,28",
     "off": "65% OFF",
     "tag": "🎟 Cupom: MODAPROMO 🎟️"
-  },
-  {
-    "imagem": "v_1795894837.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Torneira Banco  De Cozinha Gourmet Misturador  Extensível Cor Prata Esco",
-    "preco_de": "R$ 129,61",
-    "preco_por": "R$ 69,99",
-    "off": "46% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

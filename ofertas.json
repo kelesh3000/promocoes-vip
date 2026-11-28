@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795829402.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 3 Calça Masculina Sarja Slim Alfaitaria Esporte Fino",
+    "preco_de": "R$ 249,00",
+    "preco_por": "R$ 173,04",
+    "off": "31% OFF",
+    "tag": "🎟 Cupom: R3ZMELI 🎟️"
+  },
+  {
     "imagem": "v_1795829244.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.399,90",
     "off": "22% OFF",
     "tag": "🎟 Cupom: MAISBLACK 🎟️"
-  },
-  {
-    "imagem": "v_1795828916.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno",
-    "preco_de": "R$ 339,00",
-    "preco_por": "R$ 116,59",
-    "off": "66% OFF",
-    "tag": "🎟 Cupom: R3ZMELI 🎟️"
   }
 ]

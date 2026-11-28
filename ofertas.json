@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795890683.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit Com 2 Cuecas Low Rise Trunk Cotton Calvin Klein Original",
+    "preco_de": "R$ 249,00",
+    "preco_por": "R$ 84,39",
+    "off": "66% OFF",
+    "tag": "🎟 Cupom: MODAPROMO 🎟️"
+  },
+  {
     "imagem": "v_1795890621.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 124,99",
     "off": "50% OFF",
     "tag": "🎟 Cupom: MODAPROMO 🎟️"
-  },
-  {
-    "imagem": "v_1795890427.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Micro-ondas Philco 20L Branco Pintura Limpa Fácil PMO24B 127v",
-    "preco_de": "R$ 612,00",
-    "preco_por": "R$ 315,00",
-    "off": "49% OFF",
-    "tag": "🎟 Cupom: 39141"
   }
 ]

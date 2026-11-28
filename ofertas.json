@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795887155.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Kit Escova Com Base No Parede Ou Chão Com 8 Esponja Descartável Kit Limp",
+    "preco_de": "R$ 49,75",
+    "preco_por": "R$ 19,90",
+    "off": "60% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795886800.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 29,50",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795886397.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Monitor Gamer AOC AGON G50 24\" 144Hz 0,5ms IPS HDR10 G-SYNC 24G50F",
-    "preco_de": "R$ 749,00",
-    "preco_por": "R$ 493,05",
-    "off": "34% OFF",
-    "tag": "🎟 Cupom: 24G50F"
   }
 ]

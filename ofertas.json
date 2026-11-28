@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795838081.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "MONDIAL Espremedor Premium, Preto, 30W, 110V - E-02",
+    "preco_de": "R$ 99,90",
+    "preco_por": "R$ 55,23",
+    "off": "45% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795837886.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 80,67",
     "off": "22% OFF",
     "tag": "🎟 Cupom: VINTEX"
-  },
-  {
-    "imagem": "v_1795837218.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Nescau Cookie Cereal 180g",
-    "preco_de": "R$ 15,00",
-    "preco_por": "R$ 6,99",
-    "off": "53% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

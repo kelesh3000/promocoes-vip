@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795891313.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 6 Cuecas Boxer Sem Costura Polo Wear Microfibra",
+    "preco_de": "R$ 99,00",
+    "preco_por": "R$ 56,20",
+    "off": "43% OFF",
+    "tag": "🎟 Cupom: MODAPROMO 🎟️"
+  },
+  {
     "imagem": "v_1795891245.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "",
     "preco_por": "R$ 50,00",
     "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795890766.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Kit 10, 5 ou 3 Pano De Prato Atoalhado Grande  Copa Chef Copa Listrado 100%",
-    "preco_de": "R$ 42,71",
-    "preco_por": "R$ 29,90",
-    "off": "30% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795882815.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Frigobar Philco 47 Litros Compacto Porta Reversível PH50N",
+    "preco_de": "R$ 887,00",
+    "preco_por": "R$ 556,71",
+    "off": "37% OFF",
+    "tag": "🎟 Cupom: ZOQMELI 🎟️"
+  },
+  {
     "imagem": "v_1795882527.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 260,91",
     "off": "25% OFF",
     "tag": "🎟 Cupom: ZOQMELI 🎟️"
-  },
-  {
-    "imagem": "v_1795882242.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Achocolatado ALPINO® 1Kg",
-    "preco_de": "",
-    "preco_por": "R$ 10,48",
-    "off": "VIP",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

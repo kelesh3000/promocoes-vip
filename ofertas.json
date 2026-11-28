@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795875549.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Secador De Cabelos Britânia Original 1200w Bsc1200 Cor Preto",
+    "preco_de": "R$ 86,00",
+    "preco_por": "R$ 69,90",
+    "off": "19% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795875405.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 223,00",
     "off": "54% OFF",
     "tag": "🎟 Cupom: BOIADEIRA30 🎟️"
-  },
-  {
-    "imagem": "v_1795875176.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Panettone Lindt ​Trufado ao Leite 410g",
-    "preco_de": "R$ 109,72",
-    "preco_por": "R$ 79,00",
-    "off": "28% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

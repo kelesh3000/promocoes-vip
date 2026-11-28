@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795867442.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Olympikus Voa 3",
+    "preco_de": "R$ 379,00",
+    "preco_por": "R$ 305,01",
+    "off": "20% OFF",
+    "tag": "🎟 CUPOM MERCADO LIVRE"
+  },
+  {
     "imagem": "v_1795838483.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 55,23",
     "off": "45% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795837886.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "MONDIAL Liquidificador Pratic Power, Branco, 550W, 110V - L-97-W",
-    "preco_de": "R$ 139,90",
-    "preco_por": "R$ 79,89",
-    "off": "43% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795868081.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 220V",
+    "preco_de": "R$ 575,00",
+    "preco_por": "R$ 289,56",
+    "off": "50% OFF",
+    "tag": "🎟 Cupom: MELIGVN"
+  },
+  {
     "imagem": "v_1795868037.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 95,94",
     "off": "31% OFF",
     "tag": "🎟 Cupom: MELIGVN"
-  },
-  {
-    "imagem": "v_1795867475.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Dispenser Giratório Organizador de Alimentos com 6 Compartimentos para G",
-    "preco_de": "R$ 118,90",
-    "preco_por": "R$ 79,07 no Pix",
-    "off": "33% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

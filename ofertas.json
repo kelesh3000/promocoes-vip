@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795870419.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Protetor Solar Corporal em Loção Neutrogena Sun Fresh, FPS 50, 200ml",
+    "preco_de": "R$ 89,99",
+    "preco_por": "R$ 44,15 à vista",
+    "off": "51% OFF",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795870373.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 359,25",
     "off": "40% OFF",
     "tag": "🎟 Cupom: 25IMPERDIVEL"
-  },
-  {
-    "imagem": "v_1795870086.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Sandália Feminina Vizzano Salto Bloco Grosso Básica em X CONFORTO ORIGINAL",
-    "preco_de": "R$ 149,24",
-    "preco_por": "R$ 99,99",
-    "off": "33% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

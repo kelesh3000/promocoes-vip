@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795826471.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Camiseta Algodão Gota Pica Pau Bordado Reserva",
+    "preco_de": "R$ 129,00",
+    "preco_por": "R$ 79,20",
+    "off": "39% OFF",
+    "tag": "🎟 Cupom: PROMOFASHION 🎟️"
+  },
+  {
     "imagem": "v_1795826135.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 112,00",
     "off": "55% OFF",
     "tag": "🎟 Cupom: PROMOFASHION 🎟️"
-  },
-  {
-    "imagem": "v_1795825493.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Fritadeira Elétrica Air Fryer 8 em 1 Wap Barbecue Heat Digital Wc Ab1030 22",
-    "preco_de": "R$ 999,00",
-    "preco_por": "R$ 492,90",
-    "off": "51% OFF",
-    "tag": "🎟 Resgate na página: R$ 443 co"
   }
 ]

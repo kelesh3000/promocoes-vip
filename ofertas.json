@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795886222.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 3 Bermudas 2 Em 1 Short Duplo Masculino Academia Treino",
+    "preco_de": "R$ 149,00",
+    "preco_por": "R$ 104,00",
+    "off": "30% OFF",
+    "tag": "🎟 Cupom: GANHEDESCONTO 🎟️"
+  },
+  {
     "imagem": "v_1795886194.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "",
     "preco_por": "R$ 80,66 no Pix",
     "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795885459.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Camiseta Masculina Academia Dry Lupo Blusa Sport Fit",
-    "preco_de": "R$ 78,00",
-    "preco_por": "R$ 55,95",
-    "off": "28% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

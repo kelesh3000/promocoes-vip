@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795890427.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Micro-ondas Philco 20L Branco Pintura Limpa Fácil PMO24B 127v",
+    "preco_de": "R$ 612,00",
+    "preco_por": "R$ 315,00",
+    "off": "49% OFF",
+    "tag": "🎟 Cupom: 39141"
+  },
+  {
     "imagem": "v_1795890365.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 111,99",
     "off": "61% OFF",
     "tag": "🎟 Cupom: MODAPROMO 🎟️"
-  },
-  {
-    "imagem": "v_1795890080.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Arvore Natal 1,5 Metros 600 Galhos Volumosa Pinheiro Natalino Verde Base de",
-    "preco_de": "R$ 209,00",
-    "preco_por": "R$ 119,90",
-    "off": "43% OFF",
-    "tag": "🎟 Cupom: WLPMELI 🎟️"
   }
 ]

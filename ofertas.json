@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795870544.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Whey Protein Isolado Complex Pretorian de Chocolate, 2kg",
+    "preco_de": "R$ 259,00",
+    "preco_por": "R$ 89,82",
+    "off": "65% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795870419.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 278,35 no Pix",
     "off": "44% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795870207.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Monitor Philips 24\" 100Hz 1ms Gaming Alto-falantes",
-    "preco_de": "R$ 599,00",
-    "preco_por": "R$ 359,25",
-    "off": "40% OFF",
-    "tag": "🎟 Cupom: 25IMPERDIVEL"
   }
 ]

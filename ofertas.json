@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795879594.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Apple iPhone 15 (128 GB) - Azul",
+    "preco_de": "R$ 4.110,00",
+    "preco_por": "R$ 3.699,00",
+    "off": "10% OFF",
+    "tag": "🎟 Cupom: MELIT94 🎟️"
+  },
+  {
     "imagem": "v_1795879571.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 20,99",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795879430.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Smart Tv 4k 65 LG Nano Uhd Ai Nu850 2026 Processador 7 Ger9 Hdr10 Xbox Blue",
-    "preco_de": "R$ 4.999,00",
-    "preco_por": "R$ 3.324,05",
-    "off": "34% OFF",
-    "tag": "🎟 Cupom: MELIT94 🎟️"
   }
 ]

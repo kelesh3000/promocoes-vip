@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795891065.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Camiseta Ess Puma Logo Poly Puma",
+    "preco_de": "R$ 99,00",
+    "preco_por": "R$ 66,49",
+    "off": "33% OFF",
+    "tag": "🎟 Cupom: MODAPROMO 🎟️"
+  },
+  {
     "imagem": "v_1795890997.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 109,51",
     "off": "50% OFF",
     "tag": "🎟 Cupom: MODAPROMO"
-  },
-  {
-    "imagem": "v_1795890683.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit Com 2 Cuecas Low Rise Trunk Cotton Calvin Klein Original",
-    "preco_de": "R$ 249,00",
-    "preco_por": "R$ 84,39",
-    "off": "66% OFF",
-    "tag": "🎟 Cupom: MODAPROMO 🎟️"
   }
 ]

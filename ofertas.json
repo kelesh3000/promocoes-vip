@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795824181.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Perfume Jean Paul Gaultier Scandal Eau de Parfum 80 ml Feminino",
+    "preco_de": "R$ 942,00",
+    "preco_por": "R$ 579,00",
+    "off": "39% OFF",
+    "tag": "🎟 Cupom: K4RMELI 🎟️"
+  },
+  {
     "imagem": "v_1795823988.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 154,61",
     "off": "50% OFF",
     "tag": "🎟 _Aplique o cupom de R$ 35 OF"
-  },
-  {
-    "imagem": "v_1795823531.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linu",
-    "preco_de": "R$ 4.199,00",
-    "preco_por": "R$ 2.799,00",
-    "off": "33% OFF",
-    "tag": "🎟 Cupom: MELINABLACK 🎟️"
   }
 ]

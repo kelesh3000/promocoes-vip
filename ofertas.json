@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795875673.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Stanley Copo Quencher Cream 591ml",
+    "preco_de": "R$ 289,00",
+    "preco_por": "R$ 97,89 à vista",
+    "off": "66% OFF",
+    "tag": "🎟 Cupom: IMPERDIVEL30"
+  },
+  {
     "imagem": "v_1795875636.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 18,99 à vista",
     "off": "24% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795875277.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Omo Sabão Líquido Lavagem Perfeita 5l - Tampa pode Variar",
-    "preco_de": "",
-    "preco_por": "R$ 66,90",
-    "off": "VIP",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

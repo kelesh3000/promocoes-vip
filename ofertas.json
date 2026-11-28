@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795889555.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Luminária LED Sem Fio com Sensor de Movimento USB  Recarregável Magnétic",
+    "preco_de": "R$ 35,33",
+    "preco_por": "R$ 15,90",
+    "off": "55% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795889460.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 348,08 no Pix",
     "off": "12% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795888918.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "NIVEA KIT Sabonete Líquido Óleo de Banho 200ml - 2 Unidades",
-    "preco_de": "",
-    "preco_por": "R$ 45,20",
-    "off": "VIP",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

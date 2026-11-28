@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795837886.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "MONDIAL Liquidificador Pratic Power, Branco, 550W, 110V - L-97-W",
+    "preco_de": "R$ 139,90",
+    "preco_por": "R$ 79,89",
+    "off": "43% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795837673.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 6,99",
     "off": "53% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795837071.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Gigabyte B650M GAMING WIFI Placa-Mãe Micro-ATX, Socket AM5, DDR5, para AMD ",
-    "preco_de": "R$ 799,99",
-    "preco_por": "R$ 611,99",
-    "off": "24% OFF",
-    "tag": "🎟 Cupom: 1000G"
   }
 ]

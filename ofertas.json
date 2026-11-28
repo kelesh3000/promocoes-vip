@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795897718.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️  Mesa para Computador ou Notebook com Gaveta Prisma  - Cores",
+    "preco_de": "R$ 179,06",
+    "preco_por": "R$ 163,31 no Pix",
+    "off": "9% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795897632.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 229,00",
     "off": "VIP",
     "tag": "🎟 Cupom BLACKFRIDAY 🎟️"
-  },
-  {
-    "imagem": "v_1795897449.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 3 Camisetas Masculinas Algodão Polo Wear",
-    "preco_de": "R$ 179,00",
-    "preco_por": "R$ 89,99",
-    "off": "50% OFF",
-    "tag": "🎟 Cupom: BLACKFRIDAY 🎟️"
   }
 ]

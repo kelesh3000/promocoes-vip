@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795870086.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Sandália Feminina Vizzano Salto Bloco Grosso Básica em X CONFORTO ORIGINAL",
+    "preco_de": "R$ 149,24",
+    "preco_por": "R$ 99,99",
+    "off": "33% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795869990.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 56,96",
     "off": "12% OFF",
     "tag": "🎟 Cupom: CORREAQUIML30"
-  },
-  {
-    "imagem": "v_1795869745.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "⚡ Doce De Leite Cremoso Zero Açúcar Sem Glúten 210g  Flormel Sobremesa Saud",
-    "preco_de": "",
-    "preco_por": "R$ 29,90",
-    "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

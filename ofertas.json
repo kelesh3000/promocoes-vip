@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795891858.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Kappa Pulse Unissex Academia Caminhada",
+    "preco_de": "R$ 229,00",
+    "preco_por": "R$ 109,74",
+    "off": "52% OFF",
+    "tag": "🎟 Cupom: MODAPROMO 🎟️"
+  },
+  {
     "imagem": "v_1795891739.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 21,99",
     "off": "48% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795891458.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis Nike Ebernon Low Masculino",
-    "preco_de": "R$ 299,00",
-    "preco_por": "R$ 269,99",
-    "off": "10% OFF",
-    "tag": "🎟 Cupom: DESCONTOMELIDEZ 🎟️"
   }
 ]

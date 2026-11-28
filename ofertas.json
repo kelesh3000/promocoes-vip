@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795876247.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Escova Elétrica  Oral B Pró Saúde Power",
+    "preco_de": "R$ 134,31",
+    "preco_por": "R$ 89,99",
+    "off": "33% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795876237.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 15,99",
     "off": "84% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795875673.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Stanley Copo Quencher Cream 591ml",
-    "preco_de": "R$ 289,00",
-    "preco_por": "R$ 97,89 à vista",
-    "off": "66% OFF",
-    "tag": "🎟 Cupom: IMPERDIVEL30"
   }
 ]

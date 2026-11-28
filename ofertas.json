@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795878829.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "L'oréal Professionnel Inforcer Kit Shampoo 300ml e Máscara 250ml",
+    "preco_de": "R$ 360,00",
+    "preco_por": "R$ 189,00",
+    "off": "48% OFF",
+    "tag": "🎟 Cupom: ZOQMELI 🎟️"
+  },
+  {
     "imagem": "v_1795878694.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.799,00",
     "off": "28% OFF",
     "tag": "🎟 Cupom: MELIT94 🎟️"
-  },
-  {
-    "imagem": "v_1795878515.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Mesa de Cabeceira Estilo Industrial  Pés Dourado Moriah MDF com 2 Gaveta",
-    "preco_de": "R$ 512,57",
-    "preco_por": "R$ 374,95 no Pix",
-    "off": "27% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

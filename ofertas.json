@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795871313.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Churrasqueira  Elétrica Agratto Mr Cheff 2000W Pedestal Grill Sem Fumaça",
+    "preco_de": "R$ 268,74",
+    "preco_por": "R$ 245,10 no Pix",
+    "off": "9% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795871241.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 109,92",
     "off": "56% OFF",
     "tag": "🎟 Cupom: CORREAQUIML25"
-  },
-  {
-    "imagem": "v_1795871036.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Ollie Glow Hidratante Facial FPS50",
-    "preco_de": "R$ 139,00",
-    "preco_por": "R$ 118,15",
-    "off": "15% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

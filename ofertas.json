@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795871114.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Ômega 3 Epa Dha 240 Cápsulas - Dark Lab",
+    "preco_de": "R$ 249,00",
+    "preco_por": "R$ 109,92",
+    "off": "56% OFF",
+    "tag": "🎟 Cupom: CORREAQUIML25"
+  },
+  {
     "imagem": "v_1795871036.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 97,47 no Pix",
     "off": "15% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795870771.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "MONDIAL Aspirador de Pó Turbo Cycle, Vermelho/Preto, 1100W, 220V - AP-36",
-    "preco_de": "R$ 246,00",
-    "preco_por": "R$ 119,49",
-    "off": "51% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

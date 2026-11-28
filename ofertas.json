@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795880865.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Relógio Tommy Hilfiger Th Essentials Masculino Couro Marrom",
+    "preco_de": "R$ 990,00",
+    "preco_por": "R$ 396,00",
+    "off": "60% OFF",
+    "tag": "🎟 Cupom: ZOQMELI 🎟️"
+  },
+  {
     "imagem": "v_1795880578.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 398,00",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795880407.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Samsung Smart TV 55\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Mo",
-    "preco_de": "R$ 3.399,00",
-    "preco_por": "R$ 2.169,00",
-    "off": "36% OFF",
-    "tag": "🎟 Cupom BLACKSABADO 🎟️"
   }
 ]

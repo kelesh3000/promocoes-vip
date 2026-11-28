@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795878334.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
+    "preco_de": "R$ 229,00",
+    "preco_por": "R$ 74,95",
+    "off": "67% OFF",
+    "tag": "🎟 Aplique o cupom de 10% OFF n"
+  },
+  {
     "imagem": "v_1795878047.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 279,99",
     "off": "38% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795877849.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Meu Cacho Minha Vida Máscara 450g , Lola Cosmetics",
-    "preco_de": "R$ 64,90",
-    "preco_por": "R$ 16,43 à vista",
-    "off": "75% OFF",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

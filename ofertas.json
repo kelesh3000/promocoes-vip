@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795874656.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Kit 12 Cuecas Boxer Reebok Masculinas Microfibra Adulto Box Sem Costura",
+    "preco_de": "R$ 184,00",
+    "preco_por": "R$ 71,04",
+    "off": "61% OFF",
+    "tag": "🎟 Cupom: SONHOSBLACK"
+  },
+  {
     "imagem": "v_1795874630.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 155,00",
     "off": "21% OFF",
     "tag": "🎟 _Aplique o cupom de 20% OFF_"
-  },
-  {
-    "imagem": "v_1795874271.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 2 Jaquetas Corta Vento Rock Saints Liso Com Capuz",
-    "preco_de": "R$ 180,00",
-    "preco_por": "R$ 93,98",
-    "off": "48% OFF",
-    "tag": "🎟 Cupom: BOMDEMAIS25"
   }
 ]

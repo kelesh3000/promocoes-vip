@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795889326.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Colgate Sensitive Pro Alívio Imediato Creme Dental, 3x90g",
+    "preco_de": "",
+    "preco_por": "R$ 18,56",
+    "off": "VIP",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795889077.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 41,38",
     "preco_por": "R$ 38,90",
     "off": "6% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795888808.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Capa Protetor De Colchão Elástico Queen Impermeável Matelado",
-    "preco_de": "R$ 78,00",
-    "preco_por": "R$ 26,98",
-    "off": "65% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795888918.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "NIVEA KIT Sabonete Líquido Óleo de Banho 200ml - 2 Unidades",
+    "preco_de": "",
+    "preco_por": "R$ 45,20",
+    "off": "VIP",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795888871.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 77,00",
     "preco_por": "R$ 55,99",
     "off": "27% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795888596.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Churrasqueira Estação Gourmet Com Quadro De Segurança -  Metanobre",
-    "preco_de": "",
-    "preco_por": "R$ 1.599,90",
-    "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

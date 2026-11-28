@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795879060.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Robô Aspirador Anker eufy C20 3 em 1 Estação Tudo em Um Sucção 7000Pa Corpo",
+    "preco_de": "R$ 5.999,00",
+    "preco_por": "R$ 2.654,47",
+    "off": "56% OFF",
+    "tag": "🎟 Cupom: LIMPEZAOFF"
+  },
+  {
     "imagem": "v_1795878997.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.671,45",
     "off": "29% OFF",
     "tag": "🎟 Cupom: MELIT94"
-  },
-  {
-    "imagem": "v_1795878829.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "L'oréal Professionnel Inforcer Kit Shampoo 300ml e Máscara 250ml",
-    "preco_de": "R$ 360,00",
-    "preco_por": "R$ 189,00",
-    "off": "48% OFF",
-    "tag": "🎟 Cupom: ZOQMELI 🎟️"
   }
 ]

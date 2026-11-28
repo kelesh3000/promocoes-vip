@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795892109.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Camiseta Oversized Estampada Dmuniz Camisa Premium",
+    "preco_de": "R$ 129,00",
+    "preco_por": "R$ 69,10",
+    "off": "46% OFF",
+    "tag": "🎟 Cupom: MODAPROMO 🎟️"
+  },
+  {
     "imagem": "v_1795892099.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 109,74",
     "off": "52% OFF",
     "tag": "🎟 Cupom: MODAPROMO 🎟️"
-  },
-  {
-    "imagem": "v_1795891739.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Bolsa Casual Feminina Tote Transversal de Ombro Grande Impermeável em Nylon",
-    "preco_de": "R$ 150,92",
-    "preco_por": "R$ 79,99",
-    "off": "47% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795828686.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Philco geladeira inverter frost free PRF535I inox com freezer 437l",
+    "preco_de": "R$ 4.725,00",
+    "preco_por": "R$ 3.229,90",
+    "off": "32% OFF",
+    "tag": "🎟 Cupom: MAISBLACK 🎟️"
+  },
+  {
     "imagem": "v_1795828595.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 467,82",
     "off": "23% OFF",
     "tag": "🎟 Cupom: JJRMELI 🎟️"
-  },
-  {
-    "imagem": "v_1795828437.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4",
-    "preco_de": "R$ 1.999,00",
-    "preco_por": "R$ 521,55",
-    "off": "74% OFF",
-    "tag": "🎟 Cupom: BFMP100 🎟️"
   }
 ]

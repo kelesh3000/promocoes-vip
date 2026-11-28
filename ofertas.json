@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795897508.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Câmera de Segurança Inteligente Intelbras iM3 C Branca",
+    "preco_de": "R$ 215,00",
+    "preco_por": "R$ 114,75",
+    "off": "47% OFF",
+    "tag": "🎟 Aplique o cupom de 30% OFF n"
+  },
+  {
     "imagem": "v_1795897488.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 62,60",
     "off": "37% OFF",
     "tag": "🎟 Cupom: MODAPROMO"
-  },
-  {
-    "imagem": "v_1795897236.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ LED Plug In Night Light Lâmpada De Parede Cabeceira De Poupança  Energia",
-    "preco_de": "R$ 19,56",
-    "preco_por": "R$ 17,41",
-    "off": "11% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

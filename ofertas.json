@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795872404.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Kit Shampoo e Condicionador 1L Nutri Enrich - Wella",
+    "preco_de": "R$ 698,24",
+    "preco_por": "R$ 237,40",
+    "off": "66% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795872322.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 349,00",
     "off": "31% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795872101.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Monitor LG FHD Gamer & Office com telaIPS 24”, 1ms (MBR), 144Hz nativo, Fre",
-    "preco_de": "R$ 719,00",
-    "preco_por": "R$ 539,00",
-    "off": "25% OFF",
-    "tag": "🎟 Cupom: LGNOMELI"
   }
 ]

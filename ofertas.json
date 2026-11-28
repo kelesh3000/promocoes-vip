@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795874442.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Perfume Compartilhável Effervescent 100 ml - LAB 8 Niche",
+    "preco_de": "R$ 197,00",
+    "preco_por": "R$ 155,00",
+    "off": "21% OFF",
+    "tag": "🎟 _Aplique o cupom de 20% OFF_"
+  },
+  {
     "imagem": "v_1795874271.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.055,00",
     "off": "32% OFF",
     "tag": "🎟 Cupom: 25IMPERDIVEL"
-  },
-  {
-    "imagem": "v_1795874138.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "⚡ EUCERIN Creme Corporal Antimanchas Intenso 200ml",
-    "preco_de": "",
-    "preco_por": "R$ 209,90",
-    "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

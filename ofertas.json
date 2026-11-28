@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795874271.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 2 Jaquetas Corta Vento Rock Saints Liso Com Capuz",
+    "preco_de": "R$ 180,00",
+    "preco_por": "R$ 93,98",
+    "off": "48% OFF",
+    "tag": "🎟 Cupom: BOMDEMAIS25"
+  },
+  {
     "imagem": "v_1795874196.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "",
     "preco_por": "R$ 209,90",
     "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795873864.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Máquina de lavar automática Panasonic hasta 15kg preto",
-    "preco_de": "R$ 2.749,00",
-    "preco_por": "R$ 1.709,10",
-    "off": "38% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795879321.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Máquina De Lavar Automática Consul Hasta 12kg Branco",
+    "preco_de": "R$ 1.832,00",
+    "preco_por": "R$ 1.509,55",
+    "off": "18% OFF",
+    "tag": "🎟 Cupom: MELIT94 🎟️"
+  },
+  {
     "imagem": "v_1795879247.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 2.699,00",
     "preco_por": "R$ 1.680,55",
     "off": "38% OFF",
-    "tag": "🎟 Cupom: MELIT94 🎟️"
-  },
-  {
-    "imagem": "v_1795879126.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Nintendo Switch Oled + Mario Wonder + 3 Meses Online",
-    "preco_de": "R$ 2.059,00",
-    "preco_por": "R$ 1.750,91",
-    "off": "15% OFF",
     "tag": "🎟 Cupom: MELIT94 🎟️"
   }
 ]

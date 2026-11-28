@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795869395.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Tábua De Corte 304 Aço Inoxidável Antibacteriana À Prova De Mofo 46/29 c",
+    "preco_de": "",
+    "preco_por": "R$ 25,99",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795869364.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 274,89",
     "off": "41% OFF",
     "tag": "🎟 Aplique o cupom de R$ 35 OFF"
-  },
-  {
-    "imagem": "v_1795869020.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Ventisol Ventilador de teto wind br 3p inj branco c/r inverter bivolt",
-    "preco_de": "R$ 499,00",
-    "preco_por": "R$ 177,90",
-    "off": "64% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

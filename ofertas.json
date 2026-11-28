@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795880210.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Oferta Amazon",
+    "preco_de": "",
+    "preco_por": "R$ 114,99",
+    "off": "VIP",
+    "tag": "🎟 NOVO CUPOM NA AMAZON"
+  },
+  {
     "imagem": "v_1795880077.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 51,17",
     "off": "VIP",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795879947.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Samsung Smart TV 55\" Crystal UHD 4K U8000H 26/2027",
-    "preco_de": "R$ 2.499,00",
-    "preco_por": "R$ 2.424,03",
-    "off": "VIP",
-    "tag": "🎟 Cupom: MELIT94 🎟️"
   }
 ]

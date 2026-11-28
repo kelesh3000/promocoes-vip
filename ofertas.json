@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795829056.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "JBL, Fone de Ouvido Com Fio, Quantum 400, Headset Gamer, Over Ear, Microfon",
+    "preco_de": "R$ 358,80",
+    "preco_por": "R$ 299,10",
+    "off": "17% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795829001.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 257,53",
     "off": "44% OFF",
     "tag": "🎟 Cupom: R3ZMELI 🎟️"
-  },
-  {
-    "imagem": "v_1795828686.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Philco geladeira inverter frost free PRF535I inox com freezer 437l",
-    "preco_de": "R$ 4.725,00",
-    "preco_por": "R$ 3.229,90",
-    "off": "32% OFF",
-    "tag": "🎟 Cupom: MAISBLACK 🎟️"
   }
 ]

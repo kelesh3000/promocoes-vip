@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795879947.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Samsung Smart TV 55\" Crystal UHD 4K U8000H 26/2027",
+    "preco_de": "R$ 2.499,00",
+    "preco_por": "R$ 2.424,03",
+    "off": "VIP",
+    "tag": "🎟 Cupom: MELIT94 🎟️"
+  },
+  {
     "imagem": "v_1795879822.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 34,99",
     "off": "56% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795879480.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Geladeira Samsung Duplex RT42 Inox Bivolt 415L",
-    "preco_de": "R$ 3.400,00",
-    "preco_por": "R$ 3.127,99",
-    "off": "8% OFF",
-    "tag": "🎟 CORRE QUE O CUPOM JA JA ACAB"
   }
 ]

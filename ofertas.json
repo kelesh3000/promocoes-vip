@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795871809.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+    "preco_de": "R$ 119,90",
+    "preco_por": "R$ 49,90 à vista",
+    "off": "58% OFF",
+    "tag": "🎟 Selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795871794.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 89,90",
     "preco_por": "R$ 44,59",
     "off": "50% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795871523.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Pet Mochila Para Cães Com Dispensador De Saco Cocô Coleira ​Peitoral De Cac",
-    "preco_de": "R$ 78,83",
-    "preco_por": "R$ 40,99",
-    "off": "48% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

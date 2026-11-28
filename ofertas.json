@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795874536.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit Cobre Leito King Size 3 Peças Colcha Dupla Face 400 Fios",
+    "preco_de": "R$ 191,00",
+    "preco_por": "R$ 162,35",
+    "off": "15% OFF",
+    "tag": "🎟 Cupom: BOMDEMAIS25"
+  },
+  {
     "imagem": "v_1795874442.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 60,90",
     "off": "6% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795874142.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Notebook Lenovo IdeaPad Slim 3 Ryzen 7 8840HS 8GB 256GB SSD 15,3\" Linux 83T",
-    "preco_de": "R$ 4.499,00",
-    "preco_por": "R$ 3.055,00",
-    "off": "32% OFF",
-    "tag": "🎟 Cupom: 25IMPERDIVEL"
   }
 ]

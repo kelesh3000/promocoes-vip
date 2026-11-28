@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795835108.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Heinz Ketchup Tradicional 1,033KG",
+    "preco_de": "",
+    "preco_por": "R$ 23,78",
+    "off": "VIP",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795834698.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 966,91",
     "off": "64% OFF",
     "tag": "🎟 Cupom: BFMP200 + ULTIMACHANC"
-  },
-  {
-    "imagem": "v_1795833795.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Lysoform Lavanda, Desinfetante Líquido, Limpeza Casa, 5L",
-    "preco_de": "R$ 92,90",
-    "preco_por": "R$ 45,55",
-    "off": "51% OFF",
-    "tag": "🎟 _Selecione \"programe e poupe"
   }
 ]

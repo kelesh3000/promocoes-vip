@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795872545.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Dove Óleo + Sérum Bifásico Bond Intense Repair 110 ml",
+    "preco_de": "R$ 50,03",
+    "preco_por": "R$ 18,05 à vista",
+    "off": "64% OFF",
+    "tag": "🎟 selecione \"Programe e Poupe\""
+  },
+  {
     "imagem": "v_1795872436.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 29,60",
     "off": "61% OFF",
     "tag": "🎟 Cupom: PROMOFLASH18"
-  },
-  {
-    "imagem": "v_1795872274.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Piso Vinílico Autoadesivo Espessado Madeira Natural Claro 5M x 60CM, Ant",
-    "preco_de": "R$ 199,98",
-    "preco_por": "R$ 95,00 no Pix",
-    "off": "52% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

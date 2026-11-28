@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795869558.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Serra Corte Rápida Policorte 8pol 1600w 205mm 5000rpm MESTRI M-313 Amarelo",
+    "preco_de": "R$ 799,00",
+    "preco_por": "R$ 388,36",
+    "off": "51% OFF",
+    "tag": "🎟 Cupom: MELIGVN"
+  },
+  {
     "imagem": "v_1795869473.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 4.363,00",
     "off": "27% OFF",
     "tag": "🎟 Cupom: SAMSUNG300 🎟️"
-  },
-  {
-    "imagem": "v_1795869170.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Echo Dot Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth",
-    "preco_de": "R$ 649,00",
-    "preco_por": "R$ 289,10",
-    "off": "55% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

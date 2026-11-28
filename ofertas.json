@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795828437.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4",
+    "preco_de": "R$ 1.999,00",
+    "preco_por": "R$ 521,55",
+    "off": "74% OFF",
+    "tag": "🎟 Cupom: BFMP100 🎟️"
+  },
+  {
     "imagem": "v_1795828276.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.519,00",
     "off": "21% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795827425.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Camisa Levis Sunset 1 Pocket Standard Lb0050024",
-    "preco_de": "R$ 345,00",
-    "preco_por": "R$ 138,08",
-    "off": "60% OFF",
-    "tag": "🎟 Cupom: PROMOFASHION 🎟️"
   }
 ]

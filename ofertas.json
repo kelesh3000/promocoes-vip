@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795873240.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Gamela Redonda com Tampa  de Vidro Madeira Teca Nobre Churrasco Tabua Tá",
+    "preco_de": "R$ 203,99",
+    "preco_por": "R$ 173,39",
+    "off": "15% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795872824.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.549,00",
     "off": "15% OFF",
     "tag": "🎟 Cupom: 64900"
-  },
-  {
-    "imagem": "v_1795872545.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Dove Óleo + Sérum Bifásico Bond Intense Repair 110 ml",
-    "preco_de": "R$ 50,03",
-    "preco_por": "R$ 18,05 à vista",
-    "off": "64% OFF",
-    "tag": "🎟 selecione \"Programe e Poupe\""
   }
 ]

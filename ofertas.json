@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795826641.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Havit Headphone Fone de Ouvido H2002d Red, Gamer, com Microfone, Falante 53",
+    "preco_de": "R$ 229,00",
+    "preco_por": "R$ 124,99",
+    "off": "45% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795826471.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 5.099,00",
     "off": "31% OFF",
     "tag": "🎟 Cupom: BLACKHOJE 🎟️"
-  },
-  {
-    "imagem": "v_1795825672.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit Com 5 Camisetas Masculinas Básicas Hering",
-    "preco_de": "R$ 249,00",
-    "preco_por": "R$ 112,00",
-    "off": "55% OFF",
-    "tag": "🎟 Cupom: PROMOFASHION 🎟️"
   }
 ]

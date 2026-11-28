@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795872203.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Air Fryer Philco 9,5L Visor Glass Redstone 1800W PAF95A",
+    "preco_de": "R$ 503,00",
+    "preco_por": "R$ 349,00",
+    "off": "31% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795872101.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 66,20",
     "off": "33% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795871809.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
-    "preco_de": "R$ 119,90",
-    "preco_por": "R$ 49,90 à vista",
-    "off": "58% OFF",
-    "tag": "🎟 Selecione \"Programe e Poupe\""
   }
 ]

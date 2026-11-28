@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795890516.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Churrasqueira Chapa A Álcool Em Ferro Funcional Cabo Madeira.",
+    "preco_de": "R$ 180,00",
+    "preco_por": "R$ 94,05 no Pix",
+    "off": "48% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795890496.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 36,90",
     "off": "8% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795890316.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Camiseta Tommy Hilfiger Masculina Core Logo Tee Preta",
-    "preco_de": "R$ 249,00",
-    "preco_por": "R$ 122,19",
-    "off": "51% OFF",
-    "tag": "🎟 Cupom: MODAPROMO 🎟️"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795827386.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Box Clássicos de William Shakespeare - com 7 marcadores de páginas",
+    "preco_de": "R$ 119,00",
+    "preco_por": "R$ 35,90 à vista",
+    "off": "70% OFF",
+    "tag": "🎟 Cupom: TOPLIVROS10"
+  },
+  {
     "imagem": "v_1795827327.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 159,00",
     "preco_por": "R$ 47,49",
     "off": "70% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795826833.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Calça Feminina Leg Lupo Sport Kit C/ 2 Leg Esportiva",
-    "preco_de": "R$ 339,00",
-    "preco_por": "R$ 161,83",
-    "off": "52% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

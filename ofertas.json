@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795884274.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Bancada Ilha De Cozinha Gourmet  118cm  Balcão Multiuso Preto",
+    "preco_de": "R$ 376,79",
+    "preco_por": "R$ 250,57 no Pix",
+    "off": "33% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795884177.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 105,90",
     "off": "29% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795883682.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
-    "preco_de": "R$ 549,00",
-    "preco_por": "R$ 169,90",
-    "off": "69% OFF",
-    "tag": "🎟 Cupom: 17200"
   }
 ]

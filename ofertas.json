@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795874142.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Notebook Lenovo IdeaPad Slim 3 Ryzen 7 8840HS 8GB 256GB SSD 15,3\" Linux 83T",
+    "preco_de": "R$ 4.499,00",
+    "preco_por": "R$ 3.055,00",
+    "off": "32% OFF",
+    "tag": "🎟 Cupom: 25IMPERDIVEL"
+  },
+  {
     "imagem": "v_1795874138.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 60,14",
     "preco_por": "R$ 43,90",
     "off": "27% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795873715.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Conjunto De Ganchos De Parede TEN Unidades-Organizador Pegajoso Para Sol",
-    "preco_de": "R$ 38,49",
-    "preco_por": "R$ 33,10",
-    "off": "14% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

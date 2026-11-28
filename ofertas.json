@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795879247.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Samsung Smart TV 50\" Mini LED 4K M75H 26/2027",
+    "preco_de": "R$ 2.515,00",
+    "preco_por": "R$ 2.388,99",
+    "off": "5% OFF",
+    "tag": "🎟 Cupom: MELIT94 🎟️"
+  },
+  {
     "imagem": "v_1795879205.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.750,91",
     "off": "15% OFF",
     "tag": "🎟 Cupom: MELIT94 🎟️"
-  },
-  {
-    "imagem": "v_1795879060.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Robô Aspirador Anker eufy C20 3 em 1 Estação Tudo em Um Sucção 7000Pa Corpo",
-    "preco_de": "R$ 5.999,00",
-    "preco_por": "R$ 2.654,47",
-    "off": "56% OFF",
-    "tag": "🎟 Cupom: LIMPEZAOFF"
   }
 ]

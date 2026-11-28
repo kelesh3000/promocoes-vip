@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795825369.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Ar Condicionado Janela Hisense 7500 Btu Frio Eletrônico 127v",
+    "preco_de": "R$ 1.648,00",
+    "preco_por": "R$ 1.286,16",
+    "off": "22% OFF",
+    "tag": "🎟 Cupom: BLACKHOJE 🎟️"
+  },
+  {
     "imagem": "v_1795825219.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.499,00",
     "off": "6% OFF",
     "tag": "🎟 Cupom: BLACKHOJE 🎟️"
-  },
-  {
-    "imagem": "v_1795824832.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Cadeira Escritório Sensetup Ergonômica Preto Mesh Reclinável com Apoio de B",
-    "preco_de": "R$ 2.049,00",
-    "preco_por": "R$ 1.449,00",
-    "off": "29% OFF",
-    "tag": "🎟 Cupom: SONHOBLACK10"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795875405.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Chocottone Bauducco 400G",
+    "preco_de": "R$ 24,99",
+    "preco_por": "R$ 18,99 à vista",
+    "off": "24% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795875277.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 109,72",
     "preco_por": "R$ 79,00",
     "off": "28% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795875156.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Tábua Inteligente De Carne Para Churrasco Madeira  C/ Gaveta e 2 Potes.",
-    "preco_de": "R$ 62,80",
-    "preco_por": "R$ 56,52",
-    "off": "10% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

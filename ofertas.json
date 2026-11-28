@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795867515.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Mochila Basic Mizuno Ptocam Lisa",
+    "preco_de": "R$ 139,00",
+    "preco_por": "R$ 95,94",
+    "off": "31% OFF",
+    "tag": "🎟 Cupom: MELIGVN"
+  },
+  {
     "imagem": "v_1795867475.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 25,65",
     "off": "60% OFF",
     "tag": "🎟 _Selecione \"programe e poupe"
-  },
-  {
-    "imagem": "v_1795838286.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "DR. Peanut Pasta de Amendoim Bueníssimo 600G - Com Whey Protein",
-    "preco_de": "R$ 47,99",
-    "preco_por": "R$ 37,11",
-    "off": "23% OFF",
-    "tag": "🎟 Cupom: PROTEIN"
   }
 ]

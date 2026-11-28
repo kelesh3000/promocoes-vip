@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795896095.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Boné Tommy Hilfiger Uptown Cap Masculino Basico",
+    "preco_de": "R$ 224,00",
+    "preco_por": "R$ 164,06",
+    "off": "27% OFF",
+    "tag": "🎟 Cupom: MODAPROMO 🎟️"
+  },
+  {
     "imagem": "v_1795896014.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 120,60",
     "off": "45% OFF",
     "tag": "🎟 Cupom: MODAPROMO 🎟️"
-  },
-  {
-    "imagem": "v_1795895315.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️  Cápsulas de Sabão para Lavar Roupas 5em1 10/20/30/50 Unidades Tira Manc",
-    "preco_de": "R$ 16,45",
-    "preco_por": "R$ 13,49",
-    "off": "18% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

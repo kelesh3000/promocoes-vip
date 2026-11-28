@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795879822.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Ar-condicionado Samsung Inverter Windfree Ai Pro 12.000 Btus Frio Ar60h12d1",
+    "preco_de": "R$ 2.599,00",
+    "preco_por": "R$ 2.399,00",
+    "off": "8% OFF",
+    "tag": "🎟 Cupom: MELIT94 🎟️"
+  },
+  {
     "imagem": "v_1795879594.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 3.127,99",
     "off": "8% OFF",
     "tag": "🎟 CORRE QUE O CUPOM JA JA ACAB"
-  },
-  {
-    "imagem": "v_1795879474.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ 30/50cm Lâmpada noturna LED com  sensor sem fio USB recarregável cozinha",
-    "preco_de": "",
-    "preco_por": "R$ 20,99",
-    "off": "VIP",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

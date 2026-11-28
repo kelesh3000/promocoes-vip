@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795892827.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Opk Relógio Masculino Original Prata À Prova D'água 6010",
+    "preco_de": "R$ 240,00",
+    "preco_por": "R$ 74,45",
+    "off": "69% OFF",
+    "tag": "🎟 Cupom: MODAPROMO"
+  },
+  {
     "imagem": "v_1795892468.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 75,90",
     "off": "36% OFF",
     "tag": "🎟 Cupom: MODAPROMO 🎟️"
-  },
-  {
-    "imagem": "v_1795892175.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis Fila Freestyle 2 Masculino Esportivo Leve Confortável",
-    "preco_de": "R$ 392,00",
-    "preco_por": "R$ 159,99",
-    "off": "59% OFF",
-    "tag": "🎟 Cupom: DESCONTOMELIDEZ"
   }
 ]

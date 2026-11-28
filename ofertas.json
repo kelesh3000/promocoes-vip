@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795870578.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Café Especial Orfeu Orgânico Grãos 250g Torra Média",
+    "preco_de": "R$ 55,50",
+    "preco_por": "R$ 34,90 à vista",
+    "off": "37% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795870544.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 48,77",
     "off": "46% OFF",
     "tag": "🎟 Cupom: GARANTIDO 🎟️"
-  },
-  {
-    "imagem": "v_1795870354.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Cuba Cozinha Pia Gourmet 70x50cm Completa  Com Acessórios Aço Inox Prata",
-    "preco_de": "R$ 496,61",
-    "preco_por": "R$ 278,35 no Pix",
-    "off": "44% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

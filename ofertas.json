@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795827024.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Chuveiro Lorenzetti Acqua Duo Preto e Cromo 7800w 220v",
+    "preco_de": "R$ 999,83",
+    "preco_por": "R$ 549,90",
+    "off": "45% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795826984.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 299,75",
     "off": "VIP",
     "tag": "🎟 POOR: R$ 90,16 COM CUPOM ✅"
-  },
-  {
-    "imagem": "v_1795826671.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 3 Camisetas Bordadas Céu Reserva",
-    "preco_de": "R$ 357,00",
-    "preco_por": "R$ 159,20",
-    "off": "55% OFF",
-    "tag": "🎟 Cupom: PROMOFASHION 🎟️"
   }
 ]

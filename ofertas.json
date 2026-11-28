@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795878633.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Monitor Gamer LG UltraGear Curvo 34\"- QuadHD 2K, UltraWide 1800R, 160Hz, 1m",
+    "preco_de": "R$ 2.515,00",
+    "preco_por": "R$ 1.799,00",
+    "off": "28% OFF",
+    "tag": "🎟 Cupom: MELIT94 🎟️"
+  },
+  {
     "imagem": "v_1795878515.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 74,95",
     "off": "67% OFF",
     "tag": "🎟 Aplique o cupom de 10% OFF n"
-  },
-  {
-    "imagem": "v_1795878047.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Impressora Multifuncional HP Smart Tank 584 - Preta",
-    "preco_de": "R$ 1.363,00",
-    "preco_por": "R$ 538,53",
-    "off": "60% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

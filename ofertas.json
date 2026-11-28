@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795894114.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Pack de Coca-Cola Lata 350ML 6 unidades",
+    "preco_de": "R$ 24,24",
+    "preco_por": "R$ 17,96 à vista",
+    "off": "26% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795894076.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 70,34",
     "off": "45% OFF",
     "tag": "🎟 Cupom: MODAPROMO 🎟️"
-  },
-  {
-    "imagem": "v_1795893875.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Sofá Orgânico  Namoradeira Curvo Visammer Com Tecido Veludo Decorativo  ",
-    "preco_de": "R$ 950,89",
-    "preco_por": "R$ 789,24",
-    "off": "17% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

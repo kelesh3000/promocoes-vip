@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795825932.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Notebook Gamer Acer Nitro V15 ANV15-52-56PD Intel Core i5-13420H de 13ªG 8G",
+    "preco_de": "R$ 7.416,00",
+    "preco_por": "R$ 5.099,00",
+    "off": "31% OFF",
+    "tag": "🎟 Cupom: BLACKHOJE 🎟️"
+  },
+  {
     "imagem": "v_1795825672.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 1.648,00",
     "preco_por": "R$ 1.286,16",
     "off": "22% OFF",
-    "tag": "🎟 Cupom: BLACKHOJE 🎟️"
-  },
-  {
-    "imagem": "v_1795825219.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Caixa De Som Jbl Boombox 4 210w Bluetooth Ip68 Bateria 34h",
-    "preco_de": "R$ 2.466,00",
-    "preco_por": "R$ 2.208,68",
-    "off": "10% OFF",
     "tag": "🎟 Cupom: BLACKHOJE 🎟️"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795878047.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Impressora Multifuncional HP Smart Tank 584 - Preta",
+    "preco_de": "R$ 1.363,00",
+    "preco_por": "R$ 538,53",
+    "off": "60% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795878034.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 16,43 à vista",
     "off": "75% OFF",
     "tag": "🎟 selecione \"Programe e Poupe\""
-  },
-  {
-    "imagem": "v_1795877712.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Forno Elétrico Philco 50L Branco Dupla Resistência PFE52B 127V",
-    "preco_de": "R$ 536,50",
-    "preco_por": "R$ 360,89",
-    "off": "33% OFF",
-    "tag": "🎟 Cupom: 39490"
   }
 ]

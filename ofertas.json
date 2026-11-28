@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795890496.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit Com 5 Camisetas Masculinas Básicas Hering",
+    "preco_de": "R$ 249,00",
+    "preco_por": "R$ 124,99",
+    "off": "50% OFF",
+    "tag": "🎟 Cupom: MODAPROMO 🎟️"
+  },
+  {
     "imagem": "v_1795890427.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 249,00",
     "preco_por": "R$ 122,19",
     "off": "51% OFF",
-    "tag": "🎟 Cupom: MODAPROMO 🎟️"
-  },
-  {
-    "imagem": "v_1795890184.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
-    "preco_de": "R$ 289,00",
-    "preco_por": "R$ 111,99",
-    "off": "61% OFF",
     "tag": "🎟 Cupom: MODAPROMO 🎟️"
   }
 ]

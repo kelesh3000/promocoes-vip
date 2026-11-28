@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795871773.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Celimax Retinal Shot Tightening Booster 15ml Pele Corean",
+    "preco_de": "R$ 200,00",
+    "preco_por": "R$ 87,56",
+    "off": "56% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795871677.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 128,67",
     "off": "35% OFF",
     "tag": "🎟 Aplique o cupom de R$ 35 OFF"
-  },
-  {
-    "imagem": "v_1795871313.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Churrasqueira  Elétrica Agratto Mr Cheff 2000W Pedestal Grill Sem Fumaça",
-    "preco_de": "R$ 268,74",
-    "preco_por": "R$ 245,10 no Pix",
-    "off": "9% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

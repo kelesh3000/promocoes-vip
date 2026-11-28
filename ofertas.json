@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795837673.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Downy Amaciante Concentrado Lirios Do Campo 3L Rende 12L",
+    "preco_de": "R$ 92,90",
+    "preco_por": "R$ 45,55",
+    "off": "51% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795837441.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 611,99",
     "off": "24% OFF",
     "tag": "🎟 Cupom: 1000G"
-  },
-  {
-    "imagem": "v_1795836747.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
-    "preco_de": "R$ 549,00",
-    "preco_por": "R$ 169,90",
-    "off": "69% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

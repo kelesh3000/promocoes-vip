@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795878694.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "iPhone 16e (128 GB) - Branco",
+    "preco_de": "R$ 3.443,00",
+    "preco_por": "R$ 3.099,00",
+    "off": "10% OFF",
+    "tag": "🎟 Cupom: MELIT94 🎟️"
+  },
+  {
     "imagem": "v_1795878656.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 374,95 no Pix",
     "off": "27% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795878459.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-    "preco_de": "R$ 3.099,00",
-    "preco_por": "R$ 1.799,91",
-    "off": "42% OFF",
-    "tag": "🎟 Cupom: MELIT94 🎟️"
   }
 ]

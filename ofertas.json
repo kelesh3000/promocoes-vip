@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795885241.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "🛍️ Lixeira Dourada Inox Retangular 5 Litros",
+    "preco_de": "R$ 219,77",
+    "preco_por": "R$ 199,99",
+    "off": "9% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795885094.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 157,42",
     "off": "19% OFF",
     "tag": "🎟 Aplique o cupom na pagina do"
-  },
-  {
-    "imagem": "v_1795884757.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ Churrasqueira Bafinho Tambor Mini Portátil  Com Grelha",
-    "preco_de": "R$ 78,90",
-    "preco_por": "R$ 73,38",
-    "off": "7% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

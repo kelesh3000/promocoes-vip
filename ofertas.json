@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795869170.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Echo Dot Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth",
+    "preco_de": "R$ 649,00",
+    "preco_por": "R$ 289,10",
+    "off": "55% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795869119.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 190,00",
     "off": "42% OFF",
     "tag": "🎟 Aplique o cupom de R$ 35 OFF"
-  },
-  {
-    "imagem": "v_1795868913.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "🛍️ kit Cadeiras Lua Luxo  Com Base Organica Veludo C/Courino Sala Estar Lux",
-    "preco_de": "R$ 201,00",
-    "preco_por": "R$ 189,05 no Pix",
-    "off": "6% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

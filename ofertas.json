@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795897449.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 3 Camisetas Masculinas Algodão Polo Wear",
+    "preco_de": "R$ 179,00",
+    "preco_por": "R$ 89,99",
+    "off": "50% OFF",
+    "tag": "🎟 Cupom: BLACKFRIDAY 🎟️"
+  },
+  {
     "imagem": "v_1795897367.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 371,07",
     "off": "26% OFF",
     "tag": "🎟 Cupom: BLACKFRIDAY"
-  },
-  {
-    "imagem": "v_1795896780.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Liquidificador Ninja Standalone 3 Lâminas Potentes Maior Trituração Jarra d",
-    "preco_de": "R$ 899,00",
-    "preco_por": "R$ 699,00",
-    "off": "22% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

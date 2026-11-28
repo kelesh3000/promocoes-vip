@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795826671.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Kit 3 Camisetas Bordadas Céu Reserva",
+    "preco_de": "R$ 357,00",
+    "preco_por": "R$ 159,20",
+    "off": "55% OFF",
+    "tag": "🎟 Cupom: PROMOFASHION 🎟️"
+  },
+  {
     "imagem": "v_1795826641.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 119,00",
     "off": "39% OFF",
     "tag": "🎟 Cupom: PROMOFASHION 🎟️"
-  },
-  {
-    "imagem": "v_1795825932.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Notebook Gamer Acer Nitro V15 ANV15-52-56PD Intel Core i5-13420H de 13ªG 8G",
-    "preco_de": "R$ 7.416,00",
-    "preco_por": "R$ 5.099,00",
-    "off": "31% OFF",
-    "tag": "🎟 Cupom: BLACKHOJE 🎟️"
   }
 ]

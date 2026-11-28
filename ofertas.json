@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795837441.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "KIT SHAMPOO V-FLOC CERA TOK FINAL REVITALIZADOR INTENSE 240ML VONIXX PRETIN",
+    "preco_de": "R$ 102,79",
+    "preco_por": "R$ 80,67",
+    "off": "22% OFF",
+    "tag": "🎟 Cupom: VINTEX"
+  },
+  {
     "imagem": "v_1795837218.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 169,90",
     "off": "69% OFF",
     "tag": "🎟 Resgate na página: Salve o c"
-  },
-  {
-    "imagem": "v_1795836133.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Concha y Toro Reservado Cabernet Sauvignon 750ml",
-    "preco_de": "R$ 39,90",
-    "preco_por": "R$ 19,90",
-    "off": "50% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

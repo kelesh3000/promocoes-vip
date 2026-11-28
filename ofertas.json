@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795894201.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Whey Protein Dux Human Health Smoothie Pó 900g Speculoos",
+    "preco_de": "R$ 299,00",
+    "preco_por": "R$ 197,00",
+    "off": "34% OFF",
+    "tag": "🎟 Cupom: VPGMELI 🎟️"
+  },
+  {
     "imagem": "v_1795894114.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 79,99",
     "off": "41% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795893954.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 10 Cueca Boxer Microfibra Sem Costura Adulto Usee Brasil",
-    "preco_de": "R$ 129,00",
-    "preco_por": "R$ 70,34",
-    "off": "45% OFF",
-    "tag": "🎟 Cupom: MODAPROMO 🎟️"
   }
 ]

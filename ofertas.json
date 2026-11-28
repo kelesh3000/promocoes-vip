@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795826135.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Calça Legging Max Lupo Fitness Leg Feminina Sport",
+    "preco_de": "R$ 195,00",
+    "preco_por": "R$ 119,00",
+    "off": "39% OFF",
+    "tag": "🎟 Cupom: PROMOFASHION 🎟️"
+  },
+  {
     "imagem": "v_1795825932.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 492,90",
     "off": "51% OFF",
     "tag": "🎟 Resgate na página: R$ 443 co"
-  },
-  {
-    "imagem": "v_1795825369.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Ar Condicionado Janela Hisense 7500 Btu Frio Eletrônico 127v",
-    "preco_de": "R$ 1.648,00",
-    "preco_por": "R$ 1.286,16",
-    "off": "22% OFF",
-    "tag": "🎟 Cupom: BLACKHOJE 🎟️"
   }
 ]

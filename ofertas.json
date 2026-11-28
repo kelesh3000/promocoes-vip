@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795890316.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Camiseta Tommy Hilfiger Masculina Core Logo Tee Preta",
+    "preco_de": "R$ 249,00",
+    "preco_por": "R$ 122,19",
+    "off": "51% OFF",
+    "tag": "🎟 Cupom: MODAPROMO 🎟️"
+  },
+  {
     "imagem": "v_1795890184.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 279,30 no Pix",
     "off": "40% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795890020.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Cadence Kit Click Cadence - Sanduicheira e Cafeteira Single Up - 220V",
-    "preco_de": "",
-    "preco_por": "R$ 998,89",
-    "off": "VIP",
-    "tag": "🎟 Cupom: 11990"
   }
 ]

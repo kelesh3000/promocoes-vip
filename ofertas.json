@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795880578.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Samsung Vision AI TV 55\" OLED 4K S85H 26/2027",
+    "preco_de": "R$ 7.899,00",
+    "preco_por": "R$ 5.269,00",
+    "off": "33% OFF",
+    "tag": "🎟 Cupom: BLACKSABADO 🎟️"
+  },
+  {
     "imagem": "v_1795880455.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 2.169,00",
     "off": "36% OFF",
     "tag": "🎟 Cupom BLACKSABADO 🎟️"
-  },
-  {
-    "imagem": "v_1795880210.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Oferta Amazon",
-    "preco_de": "",
-    "preco_por": "R$ 114,99",
-    "off": "VIP",
-    "tag": "🎟 NOVO CUPOM NA AMAZON"
   }
 ]

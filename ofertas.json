@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795880077.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Smart TV LG UHD AI UA75 50 polegadas HDR10 Pro Processador α7 AI Ger8 webOS",
+    "preco_de": "R$ 5.000,00",
+    "preco_por": "R$ 1.999,90",
+    "off": "60% OFF",
+    "tag": "🎟 Cupom: MELIT94 🎟️"
+  },
+  {
     "imagem": "v_1795879974.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 2.499,00",
     "preco_por": "R$ 2.424,03",
     "off": "VIP",
-    "tag": "🎟 Cupom: MELIT94 🎟️"
-  },
-  {
-    "imagem": "v_1795879822.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Ar-condicionado Samsung Inverter Windfree Ai Pro 12.000 Btus Frio Ar60h12d1",
-    "preco_de": "R$ 2.599,00",
-    "preco_por": "R$ 2.399,00",
-    "off": "8% OFF",
     "tag": "🎟 Cupom: MELIT94 🎟️"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795889460.jpg",
+    "loja": "Shopee",
+    "tempo": "agora",
+    "titulo": "Jogo de ​Petisqueira 3 Bowls com Bandeja em Cerâmica Retangular Para Servir",
+    "preco_de": "R$ 159,78",
+    "preco_por": "R$ 79,89",
+    "off": "50% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795889326.jpg",
     "loja": "Amazon",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 45,20",
     "off": "VIP",
     "tag": "🎟 selecione \"Programe e Poupe\""
-  },
-  {
-    "imagem": "v_1795888871.jpg",
-    "loja": "Shopee",
-    "tempo": "agora",
-    "titulo": "Baggio  Café - Café Torrado e Moído Aromas Chocolate com Avelã 250g",
-    "preco_de": "R$ 41,38",
-    "preco_por": "R$ 38,90",
-    "off": "6% OFF",
-    "tag": "🔥 Postado agora no grupo"
   }
 ]

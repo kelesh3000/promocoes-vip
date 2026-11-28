@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795871363.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Perfume Sedutor Árabe Sabah 100ml Original Feminino",
+    "preco_de": "R$ 199,00",
+    "preco_por": "R$ 128,67",
+    "off": "35% OFF",
+    "tag": "🎟 Aplique o cupom de R$ 35 OFF"
+  },
+  {
     "imagem": "v_1795871313.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 240,21",
     "off": "35% OFF",
     "tag": "🎟 Aplique o cupom de R$ 35 OFF"
-  },
-  {
-    "imagem": "v_1795871114.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Ômega 3 Epa Dha 240 Cápsulas - Dark Lab",
-    "preco_de": "R$ 249,00",
-    "preco_por": "R$ 109,92",
-    "off": "56% OFF",
-    "tag": "🎟 Cupom: CORREAQUIML25"
   }
 ]

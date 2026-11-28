@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795829875.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Bicicleta Aro 29 Woltz Ltz 21 Marchas Freios Mecânicos Cor Branco Tamanho D",
+    "preco_de": "R$ 849,00",
+    "preco_por": "R$ 499,38",
+    "off": "41% OFF",
+    "tag": "🎟 Cupom: K4RMELI 🎟️"
+  },
+  {
     "imagem": "v_1795829665.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 59,00",
     "off": "69% OFF",
     "tag": "🎟 Cupom: PROMOFASHION 🎟️"
-  },
-  {
-    "imagem": "v_1795829402.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Kit 3 Calça Masculina Sarja Slim Alfaitaria Esporte Fino",
-    "preco_de": "R$ 249,00",
-    "preco_por": "R$ 173,04",
-    "off": "31% OFF",
-    "tag": "🎟 Cupom: R3ZMELI 🎟️"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795828916.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno",
+    "preco_de": "R$ 339,00",
+    "preco_por": "R$ 116,59",
+    "off": "66% OFF",
+    "tag": "🎟 Cupom: R3ZMELI 🎟️"
+  },
+  {
     "imagem": "v_1795828851.jpg",
     "loja": "Mercado Livre",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.999,90",
     "off": "43% OFF",
     "tag": "🎟 Cupom: MAISBLACK 🎟️"
-  },
-  {
-    "imagem": "v_1795828554.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Karsten Jogo De Banho Imperial Toalha De Banho",
-    "preco_de": "R$ 279,00",
-    "preco_por": "R$ 68,97",
-    "off": "75% OFF",
-    "tag": "🎟 _Aplique o cupom de 20% OFF_"
   }
 ]

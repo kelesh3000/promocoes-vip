@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795870899.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Floratta Rose Desodorante Colônia 75ml",
+    "preco_de": "R$ 174,00",
+    "preco_por": "R$ 96,72",
+    "off": "44% OFF",
+    "tag": "🔥 Postado agora no grupo"
+  },
+  {
     "imagem": "v_1795870835.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -28,15 +38,5 @@
     "preco_por": "R$ 1.877,00",
     "off": "38% OFF",
     "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795870578.jpg",
-    "loja": "Amazon",
-    "tempo": "agora",
-    "titulo": "Café Especial Orfeu Orgânico Grãos 250g Torra Média",
-    "preco_de": "R$ 55,50",
-    "preco_por": "R$ 34,90 à vista",
-    "off": "37% OFF",
-    "tag": "🎟 Resgate na página: Salve o c"
   }
 ]

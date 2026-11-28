@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795872436.jpg",
+    "loja": "Amazon",
+    "tempo": "agora",
+    "titulo": "Cetaphil Loção Hidratante",
+    "preco_de": "R$ 109,90",
+    "preco_por": "R$ 65,40 à vista",
+    "off": "40% OFF",
+    "tag": "🎟 Resgate na página: Salve o c"
+  },
+  {
     "imagem": "v_1795872404.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 199,98",
     "preco_por": "R$ 95,00 no Pix",
     "off": "52% OFF",
-    "tag": "🔥 Postado agora no grupo"
-  },
-  {
-    "imagem": "v_1795872203.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Air Fryer Philco 9,5L Visor Glass Redstone 1800W PAF95A",
-    "preco_de": "R$ 503,00",
-    "preco_por": "R$ 349,00",
-    "off": "31% OFF",
     "tag": "🔥 Postado agora no grupo"
   }
 ]

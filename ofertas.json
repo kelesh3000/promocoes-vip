@@ -1,5 +1,15 @@
 [
   {
+    "imagem": "v_1795879480.jpg",
+    "loja": "Mercado Livre",
+    "tempo": "agora",
+    "titulo": "Geladeira Samsung Duplex RT42 Inox Bivolt 415L",
+    "preco_de": "R$ 3.400,00",
+    "preco_por": "R$ 3.127,99",
+    "off": "8% OFF",
+    "tag": "🎟 CORRE QUE O CUPOM JA JA ACAB"
+  },
+  {
     "imagem": "v_1795879474.jpg",
     "loja": "Shopee",
     "tempo": "agora",
@@ -27,16 +37,6 @@
     "preco_de": "R$ 1.832,00",
     "preco_por": "R$ 1.509,55",
     "off": "18% OFF",
-    "tag": "🎟 Cupom: MELIT94 🎟️"
-  },
-  {
-    "imagem": "v_1795879247.jpg",
-    "loja": "Mercado Livre",
-    "tempo": "agora",
-    "titulo": "Samsung Smart TV 50\" Mini LED 4K M75H 26/2027",
-    "preco_de": "R$ 2.515,00",
-    "preco_por": "R$ 2.388,99",
-    "off": "5% OFF",
     "tag": "🎟 Cupom: MELIT94 🎟️"
   }
 ]
